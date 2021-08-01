@@ -1,0 +1,427 @@
+1626473469149	geckodriver	INFO	Listening on 127.0.0.1:51790
+1626473472239	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofileKxfZKr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626473476568	Marionette	INFO	Listening on port 51798
+1626473477055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://audiomack.com/songs, line 147: unreachable code after return statement
+JavaScript warning: https://audiomack.com/songs, line 147: unreachable code after return statement
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156657&predirect=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fid%3DPM_UID%26ex%3Dpubmatic.com&userIdMacro=PM_UID&gdpr=0, line 1: ReferenceError: CommonMeta is not defined
+1626473547418	Marionette	INFO	Stopped listening on port 51798
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\faree\AppData\Local\Temp\rust_mozprofileKxfZKr\protections.sqlite
+1626473900432	geckodriver	INFO	Listening on 127.0.0.1:54641
+1626473903548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofilePHgjZW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626473909698	Marionette	INFO	Listening on port 54649
+1626473909968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://audiomack.com/songs, line 147: unreachable code after return statement
+JavaScript warning: https://audiomack.com/songs, line 147: unreachable code after return statement
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156657&predirect=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fid%3DPM_UID%26ex%3Dpubmatic.com&userIdMacro=PM_UID&gdpr=0, line 1: ReferenceError: CommonMeta is not defined
+1626473995011	Marionette	INFO	Stopped listening on port 54649
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\faree\AppData\Local\Temp\rust_mozprofilePHgjZW\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626473997643	geckodriver	INFO	Listening on 127.0.0.1:61422
+1626474000703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofileCanXsn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626474004498	Marionette	INFO	Listening on port 61430
+1626474004932	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://audiomack.com/albums, line 147: unreachable code after return statement
+JavaScript warning: https://audiomack.com/albums, line 147: unreachable code after return statement
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=137711&s=137812&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D58%263pid%3D&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156212&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D71%263pid%3D&gdpr=1&gdpr_consent=ABCFETYFDJLNBFCV&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+1626474045506	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1626474045572	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1626474049668	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1626474049671	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156657&predirect=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fid%3DPM_UID%26ex%3Dpubmatic.com&userIdMacro=PM_UID&gdpr=0, line 1: ReferenceError: CommonMeta is not defined
+1626474109765	Marionette	INFO	Stopped listening on port 61430
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\faree\AppData\Local\Temp\rust_mozprofileCanXsn\protections.sqlite
+1626474138592	geckodriver	INFO	Listening on 127.0.0.1:54407
+1626474141668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofiletpkF86"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626474145663	Marionette	INFO	Listening on port 54415
+1626474145896	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/afro-hip-hop, line 147: unreachable code after return statement
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/afro-hip-hop, line 147: unreachable code after return statement
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=137711&s=137812&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D58%263pid%3D&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156212&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D71%263pid%3D&gdpr=1&gdpr_consent=ABCFETYFDJLNBFCV&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+1626474178135	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://87938834079f7e1e5df8eca2ef9f72fb.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156657&predirect=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fid%3DPM_UID%26ex%3Dpubmatic.com&userIdMacro=PM_UID&gdpr=0, line 1: ReferenceError: CommonMeta is not defined
+1626474194436	Marionette	INFO	Stopped listening on port 54415
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\faree\AppData\Local\Temp\rust_mozprofiletpkF86\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626474209657	geckodriver	INFO	Listening on 127.0.0.1:64531
+1626474212711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofilemLM8Jn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626474215539	Marionette	INFO	Listening on port 64539
+1626474215937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/verified-afrobeats, line 149: unreachable code after return statement
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/verified-afrobeats, line 149: unreachable code after return statement
+JavaScript error: https://a7e2c5c8cb8e4dab10a2fbb3a69bc0a3.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 1: ReferenceError: tlt is not defined
+JavaScript error: https://a7e2c5c8cb8e4dab10a2fbb3a69bc0a3.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=137711&s=137812&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D58%263pid%3D&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156212&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D71%263pid%3D&gdpr=1&gdpr_consent=ABCFETYFDJLNBFCV&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Frtb.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=, line 1: ReferenceError: CommonMeta is not defined
+1626474247238	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1626474247285	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1626474247290	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1626474248762	Marionette	INFO	Stopped listening on port 64539
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626474321450	geckodriver	INFO	Listening on 127.0.0.1:59421
+1626474324535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofileMwBedR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626474328249	Marionette	INFO	Listening on port 59429
+1626474328753	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/verified-afrobeats, line 149: unreachable code after return statement
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/verified-afrobeats, line 149: unreachable code after return statement
+1626474346623	Marionette	INFO	Stopped listening on port 59429
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\faree\AppData\Local\Temp\rust_mozprofileMwBedR\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626474367191	geckodriver	INFO	Listening on 127.0.0.1:63030
+1626474370240	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofilec4DMmR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626474374139	Marionette	INFO	Listening on port 63038
+1626474374461	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/alte-sounds, line 147: unreachable code after return statement
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/alte-sounds, line 147: unreachable code after return statement
+1626474395148	Marionette	INFO	Stopped listening on port 63038
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\faree\AppData\Local\Temp\rust_mozprofilec4DMmR\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626474400731	geckodriver	INFO	Listening on 127.0.0.1:63703
+1626474403787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofile0qcI1T"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626474407199	Marionette	INFO	Listening on port 63711
+1626474407502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/afro-pop-hits, line 147: unreachable code after return statement
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/afro-pop-hits, line 147: unreachable code after return statement
+1626474423658	Marionette	INFO	Stopped listening on port 63711
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\faree\AppData\Local\Temp\rust_mozprofile0qcI1T\protections.sqlite
+1626474459530	geckodriver	INFO	Listening on 127.0.0.1:63969
+1626474462615	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofileEvwXli"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626474465378	Marionette	INFO	Listening on port 63901
+1626474465816	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://audiomack.com/songs, line 147: unreachable code after return statement
+JavaScript warning: https://audiomack.com/songs, line 147: unreachable code after return statement
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156657&predirect=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fid%3DPM_UID%26ex%3Dpubmatic.com&userIdMacro=PM_UID&gdpr=0, line 1: ReferenceError: CommonMeta is not defined
+1626474537226	Marionette	INFO	Stopped listening on port 63901
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\faree\AppData\Local\Temp\rust_mozprofileEvwXli\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626474539803	geckodriver	INFO	Listening on 127.0.0.1:54519
+1626474542869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofileT6RibQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626474546998	Marionette	INFO	Listening on port 54527
+1626474547112	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://audiomack.com/albums, line 147: unreachable code after return statement
+JavaScript warning: https://audiomack.com/albums, line 147: unreachable code after return statement
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156657&predirect=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fid%3DPM_UID%26ex%3Dpubmatic.com&userIdMacro=PM_UID&gdpr=0, line 1: ReferenceError: CommonMeta is not defined
+1626474616000	Marionette	INFO	Stopped listening on port 54527
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\faree\AppData\Local\Temp\rust_mozprofileT6RibQ\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626474618058	geckodriver	INFO	Listening on 127.0.0.1:58753
+1626474621132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofileFKfe88"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626474624326	Marionette	INFO	Listening on port 58761
+1626474624855	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/afro-hip-hop, line 147: unreachable code after return statement
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/afro-hip-hop, line 147: unreachable code after return statement
+JavaScript error: https://956113422c82eb4e4cb6eb9575597289.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+1626474640485	Marionette	INFO	Stopped listening on port 58761
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626474642349	geckodriver	INFO	Listening on 127.0.0.1:59041
+1626474645428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofilexOo5Lp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626474648913	Marionette	INFO	Listening on port 59049
+1626474649174	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/verified-afrobeats, line 147: unreachable code after return statement
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/verified-afrobeats, line 147: unreachable code after return statement
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=137711&s=137812&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D58%263pid%3D&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156212&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D71%263pid%3D&gdpr=1&gdpr_consent=ABCFETYFDJLNBFCV&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Frtb.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=, line 1: ReferenceError: CommonMeta is not defined
+1626474674853	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1626474675863	Marionette	INFO	Stopped listening on port 59049
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\faree\AppData\Local\Temp\rust_mozprofilexOo5Lp\protections.sqlite
+1626474680272	geckodriver	INFO	Listening on 127.0.0.1:50678
+1626474683342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofilePPQ6Ip"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626474687034	Marionette	INFO	Listening on port 50686
+1626474687072	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/alte-sounds, line 147: unreachable code after return statement
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/alte-sounds, line 147: unreachable code after return statement
+JavaScript error: https://cf4d64fae903881651749915ca047897.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 9: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+1626474702079	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156657&predirect=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fid%3DPM_UID%26ex%3Dpubmatic.com&userIdMacro=PM_UID&gdpr=0, line 1: ReferenceError: CommonMeta is not defined
+1626474770957	Marionette	INFO	Stopped listening on port 50686
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofileh9sgl0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626474773512	Marionette	INFO	Listening on port 59817
+1626474773930	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/alte-sounds, line 147: unreachable code after return statement
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/alte-sounds, line 147: unreachable code after return statement
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/alte-sounds, line 147: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156657&predirect=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fid%3DPM_UID%26ex%3Dpubmatic.com&userIdMacro=PM_UID&gdpr=0, line 1: ReferenceError: CommonMeta is not defined
+1626474830176	Marionette	INFO	Stopped listening on port 59817
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626474843289	geckodriver	INFO	Listening on 127.0.0.1:62846
+1626474846361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofilehHltwh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626474849142	Marionette	INFO	Listening on port 62854
+1626474849547	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/afro-pop-hits, line 147: unreachable code after return statement
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/afro-pop-hits, line 147: unreachable code after return statement
+1626474864741	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1626474865293	Marionette	INFO	Stopped listening on port 62854
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626474989749	geckodriver	INFO	Listening on 127.0.0.1:64311
+1626474992830	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofile8IJZ6n"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626474996418	Marionette	INFO	Listening on port 64319
+1626474996631	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/alte-sounds, line 147: unreachable code after return statement
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/alte-sounds, line 147: unreachable code after return statement
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156657&predirect=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fid%3DPM_UID%26ex%3Dpubmatic.com&userIdMacro=PM_UID&gdpr=0, line 1: ReferenceError: CommonMeta is not defined
+1626475201351	Marionette	INFO	Stopped listening on port 64319
+6475195875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofileK78BtS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626475201799	Marionette	INFO	Listening on port 63288
+1626475202286	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/alte-sounds, line 147: unreachable code after return statement
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/alte-sounds, line 147: unreachable code after return statement
+1626475218561	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1626475219524	Marionette	INFO	Stopped listening on port 63288
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626540826347	geckodriver	INFO	Listening on 127.0.0.1:57552
+1626540829360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofile63dSLB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626540833122	Marionette	INFO	Listening on port 51721
+1626540833605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://audiomack.com/songs, line 147: unreachable code after return statement
+JavaScript warning: https://audiomack.com/songs, line 147: unreachable code after return statement
+1626540859070	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1626540861718	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1626540865408	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1626540865721	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1626540873005	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156657&predirect=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fid%3DPM_UID%26ex%3Dpubmatic.com&userIdMacro=PM_UID&gdpr=0, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1626540895188	Marionette	INFO	Stopped listening on port 51721
+1626540906372	geckodriver	INFO	Listening on 127.0.0.1:60978
+1626540909396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofile1GOoH5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626540913400	Marionette	INFO	Listening on port 60986
+1626540913663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://audiomack.com/songs, line 147: unreachable code after return statement
+JavaScript warning: https://audiomack.com/songs, line 147: unreachable code after return statement
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156657&predirect=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fid%3DPM_UID%26ex%3Dpubmatic.com&userIdMacro=PM_UID&gdpr=0, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1626541000497	Marionette	INFO	Stopped listening on port 60986
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\faree\AppData\Local\Temp\rust_mozprofile1GOoH5\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626541004645	geckodriver	INFO	Listening on 127.0.0.1:65524
+1626541007715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofileGGxW4W"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626541010307	Marionette	INFO	Listening on port 64735
+1626541010413	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://audiomack.com/albums, line 147: unreachable code after return statement
+JavaScript warning: https://audiomack.com/albums, line 147: unreachable code after return statement
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156212&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D71%263pid%3D&gdpr=1&gdpr_consent=ABCFETYFDJLNBFCV&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=137711&s=137812&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D58%263pid%3D&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+1626541034766	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156657&predirect=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fid%3DPM_UID%26ex%3Dpubmatic.com&userIdMacro=PM_UID&gdpr=0, line 1: ReferenceError: CommonMeta is not defined
+1626541114546	Marionette	INFO	Stopped listening on port 64735
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\faree\AppData\Local\Temp\rust_mozprofileGGxW4W\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626541118538	geckodriver	INFO	Listening on 127.0.0.1:60140
+1626541121612	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofileWpeHED"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626541124265	Marionette	INFO	Listening on port 60148
+1626541124769	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/afro-hip-hop, line 147: unreachable code after return statement
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/afro-hip-hop, line 147: unreachable code after return statement
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156212&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D71%263pid%3D&gdpr=1&gdpr_consent=ABCFETYFDJLNBFCV&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=137711&s=137812&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D58%263pid%3D&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Frtb.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=, line 1: ReferenceError: CommonMeta is not defined
+1626541147223	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156657&predirect=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fid%3DPM_UID%26ex%3Dpubmatic.com&userIdMacro=PM_UID&gdpr=0, line 1: ReferenceError: CommonMeta is not defined
+1626541169888	Marionette	INFO	Stopped listening on port 60148
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626541173353	geckodriver	INFO	Listening on 127.0.0.1:54144
+1626541176393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofile26E7px"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626541179315	Marionette	INFO	Listening on port 54152
+1626541179624	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/verified-afrobeats, line 147: unreachable code after return statement
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/verified-afrobeats, line 147: unreachable code after return statement
+1626541190658	Marionette	INFO	Stopped listening on port 54152
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626541193715	geckodriver	INFO	Listening on 127.0.0.1:57764
+1626541196758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofileQ3cn4U"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626541199479	Marionette	INFO	Listening on port 57772
+1626541199948	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/alte-sounds, line 149: unreachable code after return statement
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/alte-sounds, line 149: unreachable code after return statement
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=137711&s=137812&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D58%263pid%3D&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156212&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D71%263pid%3D&gdpr=1&gdpr_consent=ABCFETYFDJLNBFCV&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+1626541231428	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1626541231552	Marionette	INFO	Stopped listening on port 57772
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\faree\AppData\Local\Temp\rust_mozprofileQ3cn4U\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626541234438	geckodriver	INFO	Listening on 127.0.0.1:58145
+1626541237508	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofileIumDmN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626541239840	Marionette	INFO	Listening on port 58153
+1626541240178	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/afro-pop-hits, line 147: unreachable code after return statement
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/afro-pop-hits, line 147: unreachable code after return statement
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156212&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D71%263pid%3D&gdpr=1&gdpr_consent=ABCFETYFDJLNBFCV&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=137711&s=137812&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D58%263pid%3D&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+1626541268926	Marionette	INFO	Stopped listening on port 58153
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\faree\AppData\Local\Temp\rust_mozprofileIumDmN\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626544908298	geckodriver	INFO	Listening on 127.0.0.1:58699
+1626544911358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofileUNANQs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626544913555	Marionette	INFO	Listening on port 58707
+1626544914042	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://audiomack.com/albums, line 147: unreachable code after return statement
+JavaScript warning: https://audiomack.com/albums, line 147: unreachable code after return statement
+1626544938302	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/s-OE46cnkXGFQoo4r8zhnqxzG88VmeLG6mk72mZMPyg.js line 1 > eval line 7065 > eval, line 1: Failed to create WebGL context: WebGL is currently disabled.
+1626544954195	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1626544957933	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156657&predirect=https%3A%2F%2Faax-eu.amazon-adsystem.com%2Fs%2Fecm3%3Fid%3DPM_UID%26ex%3Dpubmatic.com&userIdMacro=PM_UID&gdpr=0, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?predirect=https%3A%2F%2Frtb.gumgum.com%2Fusersync%3Fb%3Dpbm%26i%3D&gdpr=0&gdprConsent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=137711&s=137812&predirect=https%3A%2F%2Fce.lijit.com%2Fmerge%3Fpid%3D58%263pid%3D&gdpr=0&gdpr_consent=, line 1: ReferenceError: CommonMeta is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/s-OE46cnkXGFQoo4r8zhnqxzG88VmeLG6mk72mZMPyg.js line 1 > eval line 7302 > eval, line 1: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://audiomack.com/albums line 1 > injectedScript, line 1: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: https://audiomack.com/albums line 1 > injectedScript, line 1: Failed to create WebGL context: WebGL is currently disabled.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/s-OE46cnkXGFQoo4r8zhnqxzG88VmeLG6mk72mZMPyg.js line 1 > eval line 6259 > eval, line 1: Failed to create WebGL context: WebGL is currently disabled.
+1626545048955	Marionette	INFO	Stopped listening on port 58707
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\faree\AppData\Local\Temp\rust_mozprofileUNANQs\protections.sqlite
+1626725952157	geckodriver	INFO	Listening on 127.0.0.1:57850
+1626725955229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofilenpt7p0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626725959534	Marionette	INFO	Listening on port 57858
+1626725960065	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/afro-hip-hop, line 147: unreachable code after return statement
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/afro-hip-hop, line 147: unreachable code after return statement
+1626725994326	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1626725994338	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1626725996411	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1626726006429	Marionette	INFO	Stopped listening on port 57858
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\faree\AppData\Local\Temp\rust_mozprofilenpt7p0\protections.sqlite
+1626726046385	geckodriver	INFO	Listening on 127.0.0.1:51400
+1626726049469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofile5NpoH5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626726053515	Marionette	INFO	Listening on port 51408
+1626726053688	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/afro-hip-hop, line 147: unreachable code after return statement
+JavaScript warning: https://audiomack.com/audiomack-africa/playlist/afro-hip-hop, line 147: unreachable code after return statement
+1626726080914	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1626726081118	Marionette	INFO	Stopped listening on port 51408
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\faree\AppData\Local\Temp\rust_mozprofile5NpoH5\protections.sqlite

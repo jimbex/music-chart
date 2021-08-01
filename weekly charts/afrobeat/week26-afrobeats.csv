@@ -1,0 +1,283 @@
+rank,song,artist,apple,audio,youtube,deezer,spotify,RT
+1,Godly,Omah Lay,78,57,7,4,32,35.6
+2,Ginger (feat. Burna Boy),Wizkid,83,59,23,6,10,36.2
+3,Soundgasm,Rema,4,3,1,11,290,61.8
+4,Rock,Olamide,2,1,3,17,290,62.6
+5,Bling (feat. Amaarae & Buju),Blaqbonez,5,42,16,30,290,76.6
+6,The Best (feat. Mayorkun),Davido,20,63,24,14,290,82.2
+7,FOR YOU,Teni featuring Davido,300,54,33,27,66,96.0
+8,Fine Wine (feat. King Promise & Joeboy),R2Bees,19,11,250,13,290,116.6
+9,Show Me,Joeboy,12,61,15,250,290,125.6
+10,Dimension (feat. Skepta & Rema),JAE5,17,310,10,250,43,126.0
+11,It Is What It Is,Adekunle Gold,26,310,17,2,290,129.0
+12,All (Official Audio) (feat. Davido),Rexxie,9,90,9,250,290,129.6
+13,Send Me Nudes,KiDi,24,310,19,5,290,129.6
+14,"Slow Down (feat. H.E.R., DaVido, & Oxlade) - P2J Remix",King Promise,18,310,37,250,46,132.2
+15,Coming,"Naira Marley, Busiswa",50,41,32,250,290,132.6
+16,Kilometre,Burna Boy,32,310,26,15,290,134.6
+17,Door,Joeboy,300,33,38,23,290,136.8
+18,Pempe,Seyi Shay and Yemi Alade,300,31,44,26,290,138.2
+19,INJURE ME,Teni,75,60,250,18,290,138.6
+20,PEPE,"L.A.X, Davido",39,310,45,19,290,140.6
+21,LV N ATTN feat. Wizkid,"Lojay, Sarz",44,310,47,16,290,141.4
+22,La La (feat. Ckay),Davido,56,310,18,34,290,141.6
+23,KOLO (feat. Oxlade),Ice Prince,27,310,40,250,81,141.6
+24,Somebody Baby,"Davido, Peruzzi",79,310,27,9,290,143.0
+25,Essence (feat. Tems),Wizkid,1,310,5,250,290,171.2
+26,Kamata,Diamond Platnumz,300,6,250,10,290,171.2
+27,Feeling,"LADIPOE, Buju",8,310,2,250,290,172.0
+28,Bobo,Aya Nakamura,300,5,250,250,56,172.2
+29,AWAY,Ayra Starr,300,58,250,250,3,172.2
+30,Outside,Buju,3,310,11,250,290,172.8
+31,Bounce (Official Video),Ruger,7,310,8,250,290,173.0
+32,Celebrate Me (Official Video),Patoranking,300,2,28,250,290,174.0
+33,Korope,"Lil Kesh, Naira Marley",21,310,250,8,290,175.8
+34,Egbon (feat. Phyno),"Masterkraft, Phyno",54,36,250,250,290,176.0
+35,This Your Body,Skales and Davido,300,15,250,28,290,176.6
+36,Money,"Terri, Bella Shmurda, Mohbad",300,22,250,22,290,176.8
+37,Blessed (feat. Damian Marley),Wizkid,70,310,250,250,6,177.2
+38,Somebody (feat. Phyno),Olamide,14,82,250,250,290,177.2
+39,World,"Dangbana Republik, Bella Shmurda",65,34,250,250,290,177.8
+40,Party Next Door,"Dangbana Republik, Bella Shmurda",11,92,250,250,290,178.6
+41,Ke Star (feat. Vigro Deep),Focalistic featuring Vigro Deep,300,56,4,250,290,180.0
+42,No Fugazy,Sarkodie,300,32,250,29,290,180.2
+43,Ginger Me,Rema,300,310,250,20,23,180.6
+44,Berna Reloaded,"Flavour, Fally Ipupa, Diamond Platnumz",40,310,14,250,290,180.8
+45,History (feat. Fireboy DML),Cheque & Fireboy DML,300,40,29,250,290,181.8
+46,Infinity,Olamide,300,310,12,1,290,182.6
+47,Hallelu (feat. Bella Shmurda & Zlatan),Masterkraft,300,55,21,250,290,183.2
+48,Monalisa,"Lojay, Sarz",13,310,54,250,290,183.4
+49,Koroba,Tiwa Savage,300,310,250,48,14,184.4
+50,Currently,Kizz Daniel,300,43,250,40,290,184.6
+51,Rush,Dangbana Republik X Bella Shmurda,300,49,250,39,290,185.6
+52,Kilofeshe,Zinoleesky,58,310,22,250,290,186.0
+53,Cash App,Bella Shmurda,300,50,250,43,290,186.6
+54,Pronto,"Ajebo Hustlers, Omah Lay",59,310,31,250,290,188.0
+55,Southy Love (feat. Fireboy DML),Peruzzi,57,310,34,250,290,188.2
+56,Forever (Remix),"Gyakie, Omah Lay",67,310,35,250,290,190.4
+57,LEGGO,"Serge Ibaka, Tayc",72,310,250,31,290,190.6
+58,Don Dada,Killer Producer,69,310,250,35,290,190.8
+59,Fendi (feat. Joeboy),Blaqbonez,71,310,250,37,290,191.6
+60,Angelina,Dreamboy,300,69,250,250,92,192.2
+61,Baajo,"Kwesi Arthur, Joeboy",73,310,250,47,290,194.0
+62,KPK (Ko Por Ke) (Remix) (Official Audio) (feat. Sho Madjozi),Rexxie and MohBad,300,91,41,250,290,194.4
+63,Felony,CKay,300,310,51,42,290,198.6
+64,Music Messiah (feat. Wande Coal),DJ Neptune,300,4,250,250,290,218.8
+65,Sere Remix,"Spinall, Fireboy DML and 6LACK",300,7,250,250,290,219.4
+66,Hold Me Tight (feat. Peruzzi & Okwesili Eze Group),Kcee,300,8,250,250,290,219.6
+67,I Miss You,Joda Kgosi,300,9,250,250,290,219.8
+68,Iphupho (feat. Kuhle),Jabzz Dimitri featuring Kuhle,300,10,250,250,290,220.0
+69,Simple Instruction,"Smallgod, R2Bees",300,12,250,250,290,220.4
+70,Omo X 100 (feat. Olamide),Reminisce,300,13,250,250,290,220.6
+71,Confident,Savage X Buju,300,14,250,250,290,220.8
+72,Give It to Me,"Smallgod, 2BABA",300,16,250,250,290,221.2
+73,DKT,Oxlade,6,310,250,250,290,221.2
+74,FOCUS DANCE BEAT (feat. HAGMAN & ABATI),AJIMOVOIX_DRUMS,300,17,250,250,290,221.4
+75,Baby,Brainee,300,18,250,250,290,221.6
+76,Jemeni,Aymos and Focalistic,300,19,250,250,290,221.8
+77,Naira Marley,Zinoleesky,10,310,250,250,290,222.0
+78,In Those Eyes,Ogranya,300,20,250,250,290,222.0
+79,Mandy,Scribz Riley,300,310,250,250,1,222.2
+80,Tonongo,"Lojay, Sarz",300,21,250,250,290,222.2
+81,Love Somebody,Rotimi,300,310,250,250,2,222.4
+82,Sokoma,"Blaq Jerzee, Marioo and Eddy Kenzo",300,23,250,250,290,222.6
+83,Real Life (feat. Stormzy),"Burna Boy, Stormzy",300,310,250,250,4,222.8
+84,Right Here,"Walshy Fire, Terri, Cloud Beats",300,24,250,250,290,222.8
+85,Peaches (Masterkraft Remix) [feat. Alpha P & Omah Lay],Justin Bieber,15,310,250,250,290,223.0
+86,See Through,Chip,300,310,250,250,5,223.0
+87,Lemonade,Ria sean,300,25,250,250,290,223.0
+88,Jennifer Remix (feat. Rayvanny),Guchi ft Rayvanny,300,26,250,250,290,223.2
+89,Frenemies (feat. Oxlade),Rexxie,16,310,250,250,290,223.2
+90,GUPTA (feat. Lady Du & Mellow and Sleazy),Focalistic and Mr JazziQ,300,27,250,250,290,223.4
+91,Can't Let You Go - Remix,Stefflon Don,300,310,250,250,7,223.4
+92,Silver Tongue Devil (feat. Shenseea),Masego,300,310,250,250,8,223.6
+93,Hurricane (feat. Buju Banton),Tomi Thomas,300,28,250,250,290,223.6
+94,Trouble,"DRB Lasgidi, Boj, Fresh L., Tems",300,310,250,250,9,223.8
+95,Chance (feat. Tay Iwar & Projexx),JulsBaby,300,29,250,250,290,223.8
+96,Heartbreaker (feat. Nasty C),Blaqbonez,300,30,250,250,290,224.0
+97,Damn (feat. 6lack),Omah Lay,300,310,250,250,11,224.2
+98,Abeykehh (feat. Diamond Platnumz & Flavour),Masterkraft,22,310,250,250,290,224.4
+99,D & G (feat. Summer Walker),DaVido,300,310,250,250,12,224.4
+100,Gum Body (feat. Jorja Smith),Burna Boy,300,310,250,250,13,224.6
+101,Sisi Caro,"Governor of Africa, Oxlade",23,310,250,250,290,224.6
+102,4AM,Manny Norte,300,310,250,250,15,225.0
+103,Carolina,Yung D3mz,25,310,250,250,290,225.0
+104,PEAKING,Tay Iwar,300,35,250,250,290,225.0
+105,Lo Lo,Omah Lay,300,310,250,250,16,225.2
+106,Know Your Worth,Khalid,300,310,250,250,17,225.4
+107,Cho Cho (feat. Davido & Mayorkun),Zlatan,300,37,250,250,290,225.4
+108,Sweet Escape,Mizzle,28,310,250,250,290,225.6
+109,No Stress,WizKid,300,310,250,250,18,225.6
+110,"Zombie (feat. PsychoYP, Laycon & A-Q)",Blaqbonez,300,38,250,250,290,225.6
+111,Attitude (feat. H Baba & Awilo Longomba),Harmonize,300,39,250,250,290,225.8
+112,Eve Bounce - Remix,Yung L,300,310,250,250,19,225.8
+113,I'm Strong,"Stonebwoy, SQUASH",29,310,250,250,290,225.8
+114,Breakup Riddim,"DJ Aroma, Mr Eazi, Nhlanhla Nciza",30,310,250,250,290,226.0
+115,Antidote (feat. Adekunle Gold),Nao,300,310,250,250,20,226.0
+116,Better Than I Imagined [Feat. H.E.R. & Meshell Ndegeocello] - DJ Tunez Remix,Robert Glasper,300,310,250,250,21,226.2
+117,Kogi (feat. Bella Shmurda & Poco Lee),Jumabee,31,310,250,250,290,226.2
+118,Baby I'm Jealous,Mr Eazi,300,310,250,250,22,226.4
+119,Carry Go (feat. Zlatan),Schengen Owner,33,310,250,250,290,226.6
+120,Thunder Fire You,Ric Hassani,300,44,250,250,290,226.8
+121,Blessings REMIX (feat. French Montana & Davido),Angel,300,310,250,250,24,226.8
+122,Mofoti 2.0 (feat. Naira Marley & Sarkodie),Rexxie,34,310,250,250,290,226.8
+123,One Time Ting,DJ Tunez & J. Anthoni,300,45,250,250,290,227.0
+124,Oshofree (feat. s3nami),YKB,35,310,250,250,290,227.0
+125,Peace,Mannywellz,300,310,250,250,25,227.0
+126,Do Yourself,"Angelique Kidjo, Burna Boy",36,310,250,250,290,227.2
+127,Sore (Remix),"Yaw Tog, Stormzy & Kwesi Arthur",300,46,250,250,290,227.2
+128,"PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",DJ Tunez,300,310,250,250,26,227.2
+129,Focus,Joeboy,300,47,250,250,290,227.4
+130,MAD,Sarz,300,310,250,250,27,227.4
+131,So Long (feat. Tomi Thomas & Larry Gaaga),Sjxy,37,310,250,250,290,227.4
+132,Tonight,Yung D3mz,38,310,250,250,290,227.6
+133,Sika Aba Fie,"Kweku Darlington, Yaw Tog, Kweku Flick",300,48,250,250,290,227.6
+134,ALREADY,Beyonce,300,310,250,250,28,227.6
+135,Dream Girl - Global Remix,Ir Sais,300,310,250,250,29,227.8
+136,Sacrifices (feat. Tim Lyre),DAP The Contract,300,310,250,250,30,228.0
+137,Kiss Me Like You Miss Me,CKay,300,51,250,250,290,228.2
+138,Jackpot (feat. Bella Shmurda),Crayon,41,310,250,250,290,228.2
+139,Wasted Energy (feat. Kaash Paige & Diamond Platnumz) - Remix,Alicia Keys,300,310,250,250,31,228.2
+140,Kenkey Seller (Remix) [feat. Medikal],Quamina MP,42,310,250,250,290,228.4
+141,Celebration,Joeboy,300,52,250,250,290,228.4
+142,Inside House,"D-Tac, Soundz",43,310,250,250,290,228.6
+143,Bomb,DJ Tunez & J. Anthoni,300,53,250,250,290,228.6
+144,Lonely,Joeboy,300,310,250,250,33,228.6
+145,I No Go Give Up On You,Mr Eazi,300,310,250,250,34,228.8
+146,Killa (feat. DaVido),Teyana Taylor,300,310,250,250,35,229.0
+147,Sere (Remix),"Spinall, Fireboy DML, 6LACK",45,310,250,250,290,229.0
+148,Longtime (feat. Skepta),WizKid,300,310,250,250,36,229.2
+149,Bank On It,Burna Boy,46,310,250,250,290,229.2
+150,In My Bed,Rotimi,300,310,250,250,37,229.4
+151,Swe,Mus,47,310,250,250,290,229.4
+152,Fkn Around (feat. Megan Thee Stallion) - Cuppy Remix,Phony Ppl,300,310,250,250,38,229.6
+153,PonPon (feat. Fave),Olamide,48,310,250,250,290,229.6
+154,So Lovely,Buju,300,310,250,250,39,229.8
+155,Juju,Idyl,49,310,250,250,290,229.8
+156,Solo,Shakka,300,310,250,250,40,230.0
+157,FIND YOUR WAY BACK - MELO-X Remix,Beyonce,300,310,250,250,41,230.2
+158,KAMBA,Terry Apala,51,310,250,250,290,230.2
+159,Ohemaa,Kelvin Black,52,310,250,250,290,230.4
+160,Sukari,Zuchu,300,62,250,250,290,230.4
+161,Smile (feat. H.E.R.),WizKid,300,310,250,250,42,230.4
+162,In My Maserati,Olakira,300,310,250,3,290,230.6
+163,Melanin,June Freedom,53,310,250,250,290,230.6
+164,A Million,Mannywellz,300,310,250,250,44,230.8
+165,Funu,"Kabza De Small, DJ Maphorisa and TRESOR",300,64,250,250,290,230.8
+166,Lenu - Remix,Buju,300,310,250,250,45,231.0
+167,Chill,KO-C,55,310,250,250,290,231.0
+168,Walk On The Beach,Femi Leye,300,65,250,250,290,231.0
+169,Yaba Buluku (Remix) (feat. Preck & Nelson Tivane),Dj Tarico,300,310,6,250,290,231.2
+170,Every Weekend,DJ Tunez & J. Anthoni,300,66,250,250,290,231.2
+171,Attention,Tiwa Savage,300,310,250,250,47,231.4
+172,"Kubo (feat. K.O, Focalistic & Bassie)","Kwesta featuring K.O, Focalistic and Bassie",300,67,250,250,290,231.4
+173,Nobody,"DJ Neptune, Joeboy, Mr Eazi",300,310,250,7,290,231.4
+174,Roju,Chiké,300,68,250,250,290,231.6
+175,E Be Mad,Mr Eazi,300,310,250,250,48,231.6
+176,God's Work (feat. iLL BLU),IAMDDB,300,310,250,250,49,231.8
+177,Ball Till We Fall (feat. Bella Shmurda),Kida Kudz featuring Bella Shmurda,300,70,250,250,290,232.0
+178,Let Dem Kno,"Smallgod, Tiwa Savage, Kwesi Arthur",60,310,250,250,290,232.0
+179,Love Nobody,WurlD,300,310,250,250,50,232.0
+180,Sponono,Kabza De Small,300,310,250,250,51,232.2
+181,BACK TO THE SENDER (feat. Kofi Kinaata),Quamina MP,300,71,250,250,290,232.2
+182,Lifestyle,Fireboy DML,61,310,250,250,290,232.2
+183,Sika (feat. Sarkodie & Kweku Flick) [Remix],Sista Afia,62,310,250,250,290,232.4
+184,Akekho,Kekelingo,300,72,250,250,290,232.4
+185,Tattoo,Fireboy DML,300,310,250,250,52,232.4
+186,Bossy Part II,"WurlD, Erica Banks, Kida Kudz, Cuppy, amaarae",300,310,250,12,290,232.4
+187,Vanity,MzVee and Kelvyn Boy,300,73,250,250,290,232.6
+188,Soweto Blues,Juls,300,310,250,250,53,232.6
+189,Duro,"Ojayy Wright, Bad Boy Timz",63,310,250,250,290,232.6
+190,Enjoy (Remix),Tekno,300,310,13,250,290,232.6
+191,PINDA,Nedy Music,300,74,250,250,290,232.8
+192,Yuda,Nandy,64,310,250,250,290,232.8
+193,Gal Policy (Remix) [feat. Tiwa Savage],Kranium,300,310,250,250,54,232.8
+194,Changanya (feat. Jux & Kenz Ville),Jay Rox,300,75,250,250,290,233.0
+195,Princess Cuts (feat. Young T & Bugsey),Headie One,300,310,250,250,55,233.0
+196,I Like That,The Great Eddy,300,76,250,250,290,233.2
+197,Tropical Breeze,"Magnom, Caine",66,310,250,250,290,233.2
+198,Say Cheese,KiDi,300,310,250,250,57,233.4
+199,Aroma Persona,Izzik,300,77,250,250,290,233.4
+200,Okay,Adekunle Gold,68,310,250,250,290,233.6
+201,Location (feat. Burna Boy),Dave,300,310,250,250,58,233.6
+202,AJE (feat. Remy Crown),DJ Big N,300,78,250,250,290,233.6
+203,Know Person,Sean Tizzle,300,79,250,250,290,233.8
+204,I Spy,Lila Iké,300,310,250,250,59,233.8
+205,Pull Up,Gabzy,300,80,250,250,290,234.0
+206,23,Burna Boy,300,310,20,250,290,234.0
+207,Oreke,E Kelly,300,310,250,250,60,234.0
+208,Fresh (feat. Samba Peuzzi),Iss 814,300,81,250,250,290,234.2
+209,Champions League,"Wendy Shay, Fameye, KelvynBoy, Kofi Mole, Quamina Mp",300,310,250,21,290,234.2
+210,REQUIRE,DJ Tunez,300,310,250,250,61,234.2
+211,Beg Friend,Juls,300,310,250,250,62,234.4
+212,Kwadede,Kwabena Kwabena,300,83,250,250,290,234.6
+213,Everytime,Spinall,300,310,250,250,63,234.6
+214,Wonderful,Burna Boy,300,310,250,250,64,234.8
+215,Cassette (feat. King Promise),Nanky,300,84,250,250,290,234.8
+216,OLOFOFO,Victor AD,300,310,250,24,290,234.8
+217,The Key,Tems,74,310,250,250,290,234.8
+218,Petty,Olamide,300,85,250,250,290,235.0
+219,Pamela,Wauve,300,310,250,250,65,235.0
+220,Baba Nla (feat. Teni),"Candy Bleakz, Teni",300,310,250,25,290,235.0
+221,Loading (feat. Bad Boy Timz),Olamide,76,310,250,250,290,235.2
+222,Duduke (French),Simi and Deja,300,86,250,250,290,235.2
+223,First Sermon,Black Sherif,300,87,250,250,290,235.4
+224,6AM,Blaq Jerzee,77,310,250,250,290,235.4
+225,Lento,Mr Eazi,300,310,250,250,67,235.4
+226,"Y3 Y3 DOM (feat. Skyface SDW, Reggie, Kwaku DMC, City Boy, Kawabanga & O'Kenneth)",Jay Bahd,300,88,250,250,290,235.6
+227,Smooth MF,Agho,300,310,250,250,68,235.6
+228,Pretty Girl,Adekunle Gold,300,310,250,250,69,235.8
+229,Touch It,KiDi,300,89,250,250,290,235.8
+230,Ayra Starr,MavinRecords,300,310,30,250,290,236.0
+231,Blessing,Stonebwoy,300,310,250,250,70,236.0
+232,Verified (feat. Mayorkun),Laycon,80,310,250,250,290,236.0
+233,Peace Of Mind,Ayo Jay,300,310,250,250,71,236.2
+234,Baby Go,"Otile Brown, Kizz Daniel",81,310,250,250,290,236.2
+235,Dollar On You,Kuami Eugene,300,310,250,32,290,236.4
+236,Jowo,Davido,82,310,250,250,290,236.4
+237,Do To Me,H.E.R.,300,310,250,250,72,236.4
+238,Chargie (feat. Jonny Blaze & Stadic),"Reekado Banks, Teejay, Lord Afrixana",300,93,250,250,290,236.6
+239,Kaya.,"T Smallz Suso, Yung Alpha, Skales Harrysongs",300,310,250,33,290,236.6
+240,Tekiller,CDQ,300,94,250,250,290,236.8
+241,It Go Bad,Nnabu,300,310,250,250,74,236.8
+242,Big Boss,Didi B,84,310,250,250,290,236.8
+243,Brown Skin,Masterkraft,300,95,250,250,290,237.0
+244,Come Over (Remix),Jorja Smith,300,310,250,250,75,237.0
+245,KSM,Naza,300,96,250,250,290,237.2
+246,Fall for Me,"Laycon, YKB",300,310,250,36,290,237.2
+247,Luva Luva,Runtown,300,310,250,250,76,237.2
+248,Squander,Niniola,300,310,36,250,290,237.2
+249,Risky,DaVido,300,310,250,250,78,237.6
+250,Today,DopeNation,300,310,250,38,290,237.6
+251,All My Life (feat. Oxlade),M.I Abaga,300,310,39,250,290,237.8
+252,MOSLADO,Teni,300,310,250,250,79,237.8
+253,Going Out Of My Way (feat. Mr Eazi),M.O,300,310,250,250,80,238.0
+254,God Forbid,Peruzzi,300,310,250,41,290,238.2
+255,Ke Star - Remix,Focalistic,300,310,250,250,82,238.4
+256,High Way,Dj Kaywise,300,310,42,250,290,238.4
+257,Ryde,Niniola,300,310,250,250,83,238.6
+258,Loco (Official Audio) (feat. Mayorkun),KDDO,300,310,43,250,290,238.6
+259,Falling For U,"Blaq Jerzee, Mr Eazi, Harmonize",300,310,250,44,290,238.8
+260,My Oasis (feat. Burna Boy),Sam Smith,300,310,250,250,84,238.8
+261,Be Honest (feat. Burna Boy),Jorja Smith,300,310,250,250,85,239.0
+262,Abule,Patoranking,300,310,250,45,290,239.0
+263,Fine Fine,Korede Bello,300,310,46,250,290,239.2
+264,Spiritual,"KiDi, Kuami Eugene, Patoranking",300,310,250,46,290,239.2
+265,Champion,Fireboy DML,300,310,250,250,86,239.2
+266,Bad Shit,Jarreau Vandal,300,310,250,250,87,239.4
+267,Oh My,Lavaud,300,310,250,250,88,239.6
+268,Dancina (Official Video),Yemi Alade,300,310,48,250,290,239.6
+269,Come Around,Terri,300,310,250,49,290,239.8
+270,Curious (feat. Jimi Tents & Garren),VanJess,300,310,250,250,89,239.8
+271,CKay,CKay,300,310,49,250,290,239.8
+272,Baikoko,"Mbosso, Diamond Platnumz",300,310,250,50,290,240.0
+273,Off You (Audio),Kidi,300,310,50,250,290,240.0
+274,Simmer (feat. Burna Boy),Mahalia,300,310,250,250,90,240.0
+275,Higher,Tems,300,310,250,250,91,240.2
+276,Joro,WizKid,300,310,250,250,93,240.6
+277,Badman Love - Remix,Skales,300,310,250,250,94,240.8
+278,JA ARA E,Burna Boy,300,310,250,250,95,241.0
+279,The Don,Mr Eazi,300,310,250,250,96,241.2
+280,Dollas and Cents,TOBi,300,310,250,250,97,241.4
+281,Take Me Home,Lady Donli,300,310,250,250,98,241.6
+282,The Other Half (feat. St. Beauty & Mereba),Jidenna,300,310,250,250,99,241.8

@@ -1,0 +1,574 @@
+rank,album,artist,apple,audiomark,deezer,boom,RT
+1,Made In Lagos,Wizkid,3,5,6,10,16.5
+2,Twice As Tall,Burna Boy,7,8,11,4,27.0
+3,Somewhere Between Beauty & Magic,Joeboy,10,1,17,1,28.25
+4,Sex Over Love,Blaqbonez,6,17,8,29,38.25
+5,LV N ATTN,EP - Lojay & Sarz,1,33,2,32,44.0
+6,Man Of Galilee,Judikay,18,19,21,5,59.25
+7,APOLLO,Fireboy DML,27,6,34,8,69.0
+8,A Better Time,Davido,12,12,46,9,72.25
+9,High Tension,Bella Shmurda,39,4,24,42,77.5
+10,Please Excuse Me for Being Antisocial,Roddy Ricch,37,18,14,56,83.0
+11,WONDALAND,Teni,16,3,63,11,84.75
+12,Rum & Boogie,Peruzzi,32,15,25,66,88.5
+13,Cultural Praise,KCee & Okwesili Eze Group,19,40,30,62,104.5
+14,Boo of the Booless,Chike,15,30,59,6,105.5
+15,What Have We Done,EP - Omah Lay,45,7,79,3,131.75
+16,Get Layd,EP - Omah Lay,48,11,81,17,144.25
+17,"Laughter, Tears & Goosebumps",Fireboy DML,51,16,82,18,153.5
+18,Boyfriend,CKay,43,27,88,64,174.0
+19,TOO LATE TOO LIT (EP),KDDO,23,85,55,53,176.25
+20,SoulFly,Rod Wave,34,10,37,520,211.0
+21,A Good Time,Davido,69,50,77,61,211.25
+22,Haitian Boy Kodak,Kodak Black,22,43,33,520,228.0
+23,THE GOAT,Polo G,53,9,36,520,228.0
+24,Wild West,Central Cee,47,53,9,520,239.0
+25,SATISFIED,Mercy Chinwo,61,69,115,21,250.25
+26,ROOTS,The Cavemen.,8,135,15,520,288.0
+27,...Shall We Begin...,Laycon,14,45,235,41,304.25
+28,Off the Yak,Young M.A,42,26,113,520,311.0
+29,For Broken Ears,Tems,26,38,119,520,313.0
+30,Slime Language 2 (Deluxe),"Young Stoner Life, Young Thug & Gunna",28,73,107,520,338.0
+31,OXYGENE,EP - Oxlade,65,62,89,520,346.0
+32,King Of Love,Kizz Daniel,218,39,98,27,361.75
+33,Yabasi,Basketmouth,36,117,94,520,377.0
+34,I LOVE GIRLS WITH TROBUL,Sarz & WurlD,105,90,53,520,378.0
+35,CITIZEN OF THE WORLD,King Perryy,80,105,105,520,420.0
+36,The Palmwine Express,Show Dem Camp,86,130,80,520,426.0
+37,JACKBOYS,JACKBOYS & Travis Scott,152,137,49,520,468.0
+38,Carpe Diem,Olamide,40,2,450,2,492.5
+39,Afro Pop Vol. 1,Adekunle Gold,85,23,261,520,499.0
+40,The Voice of the Heroes,Lil Baby & Lil Durk,2,510,1,16,517.0
+41,PANDEMIC,EP - Ruger,5,510,3,7,519.75
+42,Justice,Justin Bieber,9,510,13,13,535.25
+43,African Giant,Burna Boy,24,510,10,28,551.0
+44,KHALED KHALED,DJ Khaled,13,510,16,52,552.0
+45,Top Chef Gotit,Lil Gotit,187,136,110,520,563.0
+46,Shiesty Season,Spring Deluxe - Pooh Shiesty,232,41,170,520,573.0
+47,Goodbye & Good Riddance (Anniversary Edition),Juice WRLD,60,510,18,38,597.5
+48,Before the Chaos - EP,P - Erigga,41,510,44,12,598.0
+49,Ea$t N We$t,EP - Dremo & Jeriq,49,510,42,31,608.75
+50,Shoot For The Stars Aim For The Moon (Deluxe),Pop Smoke,21,510,68,60,614.0
+51,ZaZa Vibes,L.A.X,201,102,187,520,620.0
+52,Just Cause Y'all Waited 2 (Deluxe),Lil Durk,29,13,450,520,622.0
+53,Gratitude,Timaya,136,24,450,57,624.25
+54,WUNNA,Gunna,59,127,312,520,628.0
+55,Shockwave,Marshmello,211,160,132,520,633.0
+56,Legends Never Die,Juice WRLD,50,510,61,50,633.5
+57,Twelve A.M,EP - Crayon,150,31,450,14,634.5
+58,Outside,Burna Boy,62,510,48,68,637.0
+59,SoundGod Fest Reloaded,Runtown,96,74,450,91,642.75
+60,Simisola,Simi,164,29,450,40,653.0
+61,SOUR,Olivia Rodrigo,17,510,7,520,664.0
+62,Death Race For Love,Juice WRLD,76,510,62,81,668.25
+63,Beam Me Up Scotty,Nicki Minaj,35,510,108,93,676.25
+64,Hopeless Romantic,EP - Tomi Thomas,25,510,12,520,677.0
+65,Alagbe,Qdot,151,88,450,15,692.75
+66,Superstar,Wizkid,79,510,97,46,697.5
+67,Old Church Basement,Elevation Worship & Maverick City Music,11,510,52,520,703.0
+68,Scam,EP - G4 Boyz,58,510,5,520,703.0
+69,High Off Life,Future,99,25,450,520,704.0
+70,Hallelujah Again (Revelation 19:3),Nathaniel Bassey,78,510,120,19,712.75
+71,Big Conspiracy,J Hus,30,510,47,520,717.0
+72,Top,YoungBoy Never Broke Again,95,42,450,520,717.0
+73,Hollywood's Bleeding,Post Malone,52,510,29,520,721.0
+74,Be Right Back,Jorja Smith,56,510,31,520,727.0
+75,The Cross: My Gaze,Mercy Chinwo,209,49,450,83,728.75
+76,The Gospel of the Kingdom,Dunsin Oyekan,38,510,176,23,729.75
+77,Razor,Cheque,500,34,73,520,737.0
+78,I'll Say It For You,Dax,500,32,76,520,738.0
+79,Mixed Emotions -EP,EP - Abra Cadabra,233,104,271,520,738.0
+80,Hall of Fame,Polo G,20,510,78,520,738.0
+81,Product of My Environment,Abra Cadabra,63,510,35,520,738.0
+82,LIGHT (The EP),MohBad,137,22,450,520,739.0
+83,The Message,Minister GUC,87,76,450,520,743.0
+84,SAVAGE MODE II,21 Savage & Metro Boomin,93,72,450,520,745.0
+85,East Atlanta Love Letter,6LACK,71,510,40,520,751.0
+86,When It's All Said And Done... Take Time,GIVĒON,66,510,45,520,751.0
+87,Zulu Man With Some Power,Nasty C,91,510,23,520,754.0
+88,Destined 2 Win,Lil Tjay,75,510,41,520,756.0
+89,Bad Commando,Rema,500,55,71,520,756.0
+90,The Human Condition,Jon Bellion,98,510,22,520,760.0
+91,Sounds From The Other Side,Wizkid,81,510,39,520,760.0
+92,Ayra Starr,EP - Ayra Starr,67,510,58,520,765.0
+93,While The World Was Burning,SAINt JHN,64,510,64,520,768.0
+94,Pray 4 Love,Rod Wave,139,51,450,520,770.0
+95,ASTROWORLD,Travis Scott,46,510,90,520,776.0
+96,PSYCHODRAMA,Dave,100,510,38,520,778.0
+97,beerbongs & bentleys,Post Malone,115,510,32,520,787.0
+98,Culture,Migos,155,52,450,520,787.0
+99,Exodus,DMX,131,510,20,520,791.0
+100,Mirage,Mannywellz,103,510,54,520,797.0
+101,2014 Forest Hills Drive,J. Cole,88,510,69,520,797.0
+102,SoundMan Vol. 1,StarBoy,44,510,117,520,801.0
+103,Scaled And Icy,twenty one pilots,135,510,27,520,802.0
+104,Ghetto Lenny's Love Songs,SAINt JHN,55,510,109,520,804.0
+105,Die A Legend,Polo G,77,510,99,520,816.0
+106,Strings And Bling,Nasty C,127,510,50,520,817.0
+107,The Voice (Deluxe),Lil Durk,33,510,146,520,819.0
+108,Yellow,Brymo,109,510,75,520,824.0
+109,Mandy & The Jungle,Santi,74,510,112,520,826.0
+110,Dark Lane Demo Tapes,Drake,92,510,95,520,827.0
+111,Chrome Eccentric Ep,Zinoleesky,500,20,178,520,828.0
+112,Rema Freestyle EP,Rema,500,108,91,520,829.0
+113,Asa (Asha),Asa,126,510,70,520,836.0
+114,Pluto x Baby Pluto,Future & Lil Uzi Vert,192,68,450,520,840.0
+115,Signed To The Streets 3,Lil Durk,148,114,450,520,842.0
+116,My Turn (Deluxe),Lil Baby,54,510,151,520,845.0
+117,FATHER OF 4,Offset,113,510,93,520,846.0
+118,More Life,Drake,120,510,86,520,846.0
+119,Welcome to O'Block,King Von,500,28,190,520,848.0
+120,So Much Fun,Young Thug,180,93,450,520,853.0
+121,CLOUDS (THE MIXTAPE),NF,196,510,26,520,862.0
+122,Hakuna Matata,Dotman,500,61,283,75,862.75
+123,T R A P S O U L (Deluxe),Bryson Tiller,190,98,450,520,868.0
+124,B4 The Storm (Complete Edition),Internet Money,138,510,100,520,878.0
+125,Scorpion,Drake,94,510,144,520,878.0
+126,Culture II,Migos,146,510,96,520,882.0
+127,The Life Of Pi'erre 5,Pi'erre Bourne,163,510,83,520,886.0
+128,Views,Drake,106,510,142,520,888.0
+129,Starboy,The Weeknd,110,510,141,520,891.0
+130,The Search,NF,203,510,51,520,894.0
+131,Good News,Megan Thee Stallion,500,77,193,520,900.0
+132,American Teen,Khalid,156,510,106,520,902.0
+133,Culture III,Migos,143,510,128,520,911.0
+134,DAMN.,Kendrick Lamar,141,510,133,520,914.0
+135,Common Sense,J Hus,111,510,163,520,914.0
+136,All My Demons Greeting Me As A Friend (Deluxe),AURORA,82,510,196,520,918.0
+137,Feed Tha Streets II,Roddy Ricch,83,510,199,520,922.0
+138,THE ANGEL YOU DON'T KNOW,Amaarae,102,510,183,520,925.0
+139,True 2 Myself,Lil Tjay,166,510,121,520,927.0
+140,JORDI (Deluxe),Maroon 5,161,510,129,520,930.0
+141,Happy Birthday Kodak,EP - Kodak Black,160,510,130,520,930.0
+142,Distant Relatives,"Nas & Damian ""Jr. Gong"" Marley",206,510,85,520,931.0
+143,Love Goes,Sam Smith,123,510,171,520,934.0
+144,NOT ALL HEROES WEAR CAPES,Metro Boomin,104,510,191,520,935.0
+145,Artist 2.0,A Boogie wit da Hoodie,210,153,450,520,943.0
+146,L.I.F.E,Leaving an Impact for Eternity (Deluxe Edition) - Burna Boy,177,510,126,520,943.0
+147,Time & Chance (Deluxe),Odumodublvck,222,510,84,520,946.0
+148,Anthems & Glory (Live),Todd Dulaney,171,510,135,520,946.0
+149,Studying Abroad: Extended Stay,Masego,90,510,225,520,955.0
+150,Moments in Between,Ruth B.,184,510,131,520,955.0
+151,Future Nostalgia,Dua Lipa,216,510,102,520,958.0
+152,Take Care (Deluxe),Drake,134,510,188,520,962.0
+153,Rema Compilation,Rema,500,14,322,520,966.0
+154,Stoney,Post Malone,176,510,152,520,968.0
+155,ANTI,Rihanna,175,510,156,520,971.0
+156,Maverick City Vol. 3 Part 1,Maverick City Music,172,510,162,520,974.0
+157,Wildfire,prettyboydo,213,510,124,520,977.0
+158,Changes,Justin Bieber,223,510,118,520,981.0
+159,Lucid,Aṣa,234,510,111,520,985.0
+160,Better Days,Blezed,185,510,160,520,985.0
+161,F*CK LOVE (SAVAGE),The Kid LAROI,167,510,186,520,993.0
+162,Beautiful Thugger Girls,Young Thug,84,510,274,520,998.0
+163,Love & Light ep,Joeboy,500,36,450,51,998.75
+164,Three,Patoranking,500,47,450,25,1003.25
+165,Indigo,Chris Brown,140,510,226,520,1006.0
+166,Omo Charlie Champagne Vol1,Simi,500,44,450,49,1006.25
+167,After Hours,The Weeknd,31,510,337,520,1008.0
+168,The Greatest Showman (Original Motion Picture Soundtrack),"Benj Pasek & Justin Paul, Hugh Jackman, Keala Settle, Zac Efron, Zendaya",149,510,231,520,1020.0
+169,The Off-Season,J. Cole,500,510,4,34,1022.5
+170,Something Else,Mr Eazi,500,63,450,45,1024.25
+171,?,XXXTENTACION,142,510,244,520,1026.0
+172,The Course of the Inevitable,Lloyd Banks,231,510,158,520,1029.0
+173,Kommunity Service,YG & Mozzy,500,101,302,520,1033.0
+174,Meet the Woo 2 (Deluxe),Pop Smoke,57,510,450,90,1039.5
+175,Deal with It,Phyno,500,79,450,67,1045.75
+176,Ayo,Wizkid,72,510,450,63,1047.75
+177,"good kid, m.A.A.d city (Deluxe)",Kendrick Lamar,122,510,287,520,1049.0
+178,LOL (Lord of Lamba),Naira Marley,500,86,450,58,1050.5
+179,Ignorance is Bliss,Skepta,174,510,241,520,1055.0
+180,The Life Of Pablo,Kanye West,179,510,243,520,1062.0
+181,Yes and Amen,Tope Alabi,97,510,450,24,1063.0
+182,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,162,510,264,520,1066.0
+183,Purpose (Deluxe),Justin Bieber,221,510,213,520,1074.0
+184,The Prodigal,Mr. P,500,121,450,35,1079.75
+185,JESUS IS KING,Kanye West,207,510,233,520,1080.0
+186,Blonde,Frank Ocean,183,510,270,520,1093.0
+187,The Of,eason - J. Cole,4,510,450,520,1094.0
+188,Free Dem Boyz,42 Dugg,107,510,349,520,1096.0
+189,Ecstasy,Lil Kesh,500,140,450,26,1096.5
+190,TOP PRIZE,ALKALINE,500,21,450,520,1101.0
+191,Country Boy,DaBlixx Osha,197,510,266,520,1103.0
+192,Fuji the Sound,EP - K1 De Ultimate,133,510,450,44,1104.0
+193,Meet the Woo,Pop Smoke,128,510,450,77,1107.25
+194,In The Lonely Hour,Sam Smith,225,510,249,520,1114.0
+195,NEW ERA,Kiss Daniel,500,35,450,520,1115.0
+196,Shottaz 4Eva,MO3,500,37,450,520,1117.0
+197,BLAME IT ON BABY,DaBaby,204,510,275,520,1119.0
+198,Dying to Live,Kodak Black,112,510,367,520,1119.0
+199,Ghetto Gospel,Rod Wave,500,46,450,520,1126.0
+200,Flavour of Africa,Flavour,153,510,450,54,1126.5
+201,The King Is Coming,Nathaniel Bassey,159,510,450,33,1127.25
+202,Soundgod Fest Vol.1,Runtown,500,48,450,520,1128.0
+203,Just Cause Y'all Waited,Lil Durk,500,54,450,520,1134.0
+204,Love Songs 4 The Streets 2,Lil Durk,500,56,450,520,1136.0
+205,Know You,Ladipoe,500,57,450,520,1137.0
+206,TattleTales,6ix9ine,500,58,450,520,1138.0
+207,Hot Pink,Doja Cat,500,59,450,520,1139.0
+208,The Prince I Became,Ric Hassani,500,60,450,520,1140.0
+209,Lil Durk Presents: Loyal Bros,Only The Family,500,64,450,520,1144.0
+210,Herstory in the Making,Young M.A,500,65,450,520,1145.0
+211,TIME,Yaw Tog,500,66,450,520,1146.0
+212,The Spirit of Light,Tope Alabi & Ty Bello,169,510,450,69,1146.25
+213,Chulo Vibes,Timaya,500,67,450,520,1147.0
+214,Billionaire,Teni,500,70,450,520,1150.0
+215,Grass 2 Grace,2Face Idibia,500,510,122,73,1150.25
+216,Hoodie SZN,A Boogie Wit Da Hoodie,500,71,450,520,1151.0
+217,PINK PLANET,Pink Sweat$,500,75,450,520,1155.0
+218,Happier Than Ever,Billie Eilish,68,510,450,520,1158.0
+219,Too Faithful,Moses Bliss,193,510,450,20,1158.0
+220,7,Lil Nas X,500,78,450,520,1158.0
+221,Chronicles of CORIZO,Corizo,500,510,19,520,1159.0
+222,A Gangsta's Pain,Moneybagg Yo,70,510,450,520,1160.0
+223,Shiesty Season - Spring Deluxe,Pooh Shiesty,500,80,450,520,1160.0
+224,S.C.A.M,G4 Boyz,500,81,450,520,1161.0
+225,6locc 6a6y,Lil Loaded,500,82,450,520,1162.0
+226,Platinum Heart (Deluxe),Toosii,73,510,450,520,1163.0
+227,Trap Symphony EP,Roddy Ricch,500,83,450,520,1163.0
+228,PTSD,Rod Wave,500,84,450,520,1164.0
+229,Still Sleep?,Sleepy Hallow,500,510,28,520,1168.0
+230,Nobody: The Extended Playlist (Worldwide Remixes),DJ Neptune,500,89,450,520,1169.0
+231,Levon James,King Von,500,92,450,520,1172.0
+232,Feed tha Streets,Roddy Ricch,189,510,450,97,1173.25
+233,x (Deluxe Edition),Ed Sheeran,214,510,320,520,1174.0
+234,Tropical Depression Riddim,"VARIOUS ARTISTE (KRANIUM, TEEJAY, SHATTA WALE, JAHMEIL & MORE)",500,94,450,520,1174.0
+235,Off The Record,Reekado Banks,500,95,450,520,1175.0
+236,Realms,Wande Coal,500,96,450,520,1176.0
+237,Until Death Call My Name (Reloaded),YoungBoy Never Broke Again,500,97,450,520,1177.0
+238,4Play,EP - Olakira,89,510,450,520,1179.0
+239,I AM GUCHI,GUCHI,500,100,450,520,1180.0
+240,KOD,J. Cole,500,510,43,520,1183.0
+241,Viral Infection 1.0,Ayanfe Viral,500,103,450,520,1183.0
+242,Tha Carter V (Deluxe),Lil Wayne,168,510,375,520,1183.0
+243,Nobody Safe,Rich The Kid & YoungBoy Never Broke Again,500,106,450,520,1186.0
+244,The Beauty of Becoming,Rotimi,500,109,450,520,1189.0
+245,Big Grim Reaper,Big Scarr,500,110,450,520,1190.0
+246,Solid Focus Riddim,"Popcaan, Zamunda, Furnace",500,111,450,520,1191.0
+247,Greatest Lord,SINACH,500,112,450,520,1192.0
+248,L.O.V.E.,Luh Kel,500,113,450,520,1193.0
+249,Nicotine,Trevor Daniel,500,115,450,520,1195.0
+250,Dum and Dummer 2,Young Dolph & Key Glock,500,116,450,520,1196.0
+251,Let It Shine (Original Soundtrack),Various Artists,500,510,57,520,1197.0
+252,Eternal Atake (Deluxe) - LUV vs. The World 2,Lil Uzi Vert,500,118,450,520,1198.0
+253,Thank You For Believing,Toosii,108,510,450,520,1198.0
+254,Top Shotta,NLE Choppa,500,119,450,520,1199.0
+255,Spiral: From The Book of Saw Soundtrack,21 Savage,500,510,60,520,1200.0
+256,Homesick,Trevor Daniel,500,120,450,520,1200.0
+257,Mr. Boombastic,Blaqbonez,500,122,450,520,1202.0
+258,RESTLESS II,Simi,500,123,450,520,1203.0
+259,Hood Boy Dreams,EP - Jeriq,114,510,450,520,1204.0
+260,Afrodis-aco,Rauw Alejandro,500,124,450,520,1204.0
+261,Glory Sound Prep,Jon Bellion,500,510,65,520,1205.0
+262,Anloga Junction,Stonebwoy,500,126,450,520,1206.0
+263,Divinely Uninspired To A Hellish Extent (Extended Deluxe),Lewis Capaldi,116,510,450,520,1206.0
+264,17,XXXTentacion,500,510,66,520,1206.0
+265,Over It,Summer Walker,117,510,450,520,1207.0
+266,Best Of Davido,DaVido,500,510,67,520,1207.0
+267,Positions (Deluxe Edition),Ariana Grande,118,510,450,520,1208.0
+268,Trench Baby,Lil Zay Osama,500,128,450,520,1208.0
+269,The Backend Child,NoCap,500,129,450,520,1209.0
+270,Collection One,SAINt JHN,119,510,450,520,1209.0
+271,Free Spirit,Khalid,121,510,450,520,1211.0
+272,1.5 Way Or No Way,Yung Mal,500,131,450,520,1211.0
+273,4:44,Jay-Z,500,510,72,520,1212.0
+274,Still Taking Risks,Quando Rondo,500,133,450,520,1213.0
+275,Loyalty Over Royalty (Deluxe),CJ,500,134,450,520,1214.0
+276,Different World,Alan Walker,500,510,74,520,1214.0
+277,Heaven Or Hell,Don Toliver,124,510,450,520,1214.0
+278,Send Them To Coventry,Pa Salieu,125,510,450,520,1215.0
+279,Honorable,Hotkid,500,138,450,520,1218.0
+280,Aje (The Mixtape),Jaywon,500,139,450,520,1219.0
+281,Nothing Was the Same (Deluxe),Drake,129,510,450,520,1219.0
+282,"My Dear Melancholy,",The Weeknd,130,510,450,520,1220.0
+283,So Icy Kel,34 Kel,500,141,450,520,1221.0
+284,GOLDEN,A-Q,500,510,192,76,1221.0
+285,MI 2: The Movie,M.I Abaga,132,510,450,520,1222.0
+286,Built For Whatever,Tee Grizzley,500,143,450,520,1223.0
+287,PERFECT PICTURE,Dremo,500,144,450,520,1224.0
+288,Live From Nkrumah From Vol II: Home Run,Kwesi Arthur,500,145,450,520,1225.0
+289,"Grandson, Vol. 1",King Von,500,146,450,520,1226.0
+290,High Supremacy Riddim,"Various Artiste (Tommy Lee Sparta, Teejay, Jahvinci, Shatta Wale & More)",500,147,450,520,1227.0
+291,YOU,Ali Gatie,500,148,450,520,1228.0
+292,Table For Two,Korede Bello,500,149,450,520,1229.0
+293,Signed To The Streets 2.5,Lil Durk,500,150,450,520,1230.0
+294,Cray Cray,Crayon,500,151,450,520,1231.0
+295,Greatest Hits,Westlife,500,510,92,520,1232.0
+296,Type Beats| Rap|Afro-Pop|RnB|Trap/HipHop|Trapsoul 2020 instrumentals,Ryzy.A Beats,500,152,450,520,1232.0
+297,23 Is Back,JayDaYoungan,500,154,450,520,1234.0
+298,Chilombo (Deluxe Video Version),Jhené Aiko,144,510,450,520,1234.0
+299,Stones To Diamonds,Kholi,500,510,206,74,1234.5
+300,"YP & Azanti, Vol. 1",PsychoYP & Azanti,145,510,450,520,1235.0
+301,Amazing Grace,MEDIKAL,500,155,450,520,1235.0
+302,Wildboy,Calboy,500,156,450,520,1236.0
+303,The Hustler's Catalog 2,Smoke DZA,500,157,450,520,1237.0
+304,Wins & Losses (Deluxe),Meek Mill,147,510,450,520,1237.0
+305,Blackstar,Kelvyn Boy,500,158,450,520,1238.0
+306,OGOGORO,"Fireboy DML, Tiwa Savage, Marley, Teni, Bella Shmurda & Henry Nice",500,159,450,520,1239.0
+307,Game Over,Dave,500,510,101,520,1241.0
+308,Only The Generals Part II,Kevin Gates,500,161,450,520,1241.0
+309,A Beautiful Space,Grace Weber,500,162,450,520,1242.0
+310,HENRY NICE TOP SONG,"Naira Marley, Adekunle Gold, Chiké, Henry Nice, Teni & Olamide Best Mix",500,163,450,520,1243.0
+311,Redemption,Burna Boy,154,510,450,520,1244.0
+312,Music To Be Murdered By - Side B (Deluxe Edition),Eminem,500,510,104,520,1244.0
+313,Seed,Gyakie,500,164,450,520,1244.0
+314,A Boy From Tandale,Diamond Platnumz,500,165,450,520,1245.0
+315,Kapacity,Kaptain,500,510,214,88,1246.0
+316,The Idea Of Her,Ali Gatie,500,166,450,520,1246.0
+317,Love & Isolation,EP - Tay Iwar,157,510,450,520,1247.0
+318,"Illegal Remixes Vol 1: Love, Lies & Luxury",GoodyBoy,500,167,450,520,1247.0
+319,The Prodigy,Skillibeng,500,168,450,520,1248.0
+320,No Love Lost (Deluxe),Blxst,158,510,450,520,1248.0
+321,Rora,Reekado Banks,500,169,450,520,1249.0
+322,Baddest Guy Ever Liveth,Olamide,226,510,384,520,1250.0
+323,Hunger Games 3,Rod Wave,500,170,450,520,1250.0
+324,Kut Da Fan On,HOTBOII,500,171,450,520,1251.0
+325,The Definition,Jon Bellion,500,510,114,520,1254.0
+326,PLAYBOY,Tory Lanez,165,510,450,520,1255.0
+327,FREE 6LACK (Bonus Track Version),6lack,500,510,116,520,1256.0
+328,TAKE TIME,Giveon,500,510,123,520,1263.0
+329,This Is Acting (Deluxe Version),Sia,173,510,450,520,1263.0
+330,Boy Meets World,Deno,500,510,125,520,1265.0
+331,El Dorado,24kgoldn,500,510,127,520,1267.0
+332,Eyan Mayweather,Olamide,178,510,450,520,1268.0
+333,ÌRÌ (The Album Live),Sola Allyson,181,510,450,520,1271.0
+334,TOP MEMBA,Kida Kudz,182,510,450,520,1272.0
+335,drinking under the streetlights,Powfu,500,510,134,520,1274.0
+336,Living In Bondage,prettyboydo,500,510,136,520,1276.0
+337,A Taste of Sugar,EP - Sugarbana,186,510,450,520,1276.0
+338,Lil Uzi Vert vs. The World,Lil Uzi Vert,500,510,137,520,1277.0
+339,Seyi or Shay,Seyi Shay,188,510,450,520,1278.0
+340,TOO YOUNG TO BE SAD,Tate McRae,500,510,138,520,1278.0
+341,Future Hndrxx Presents: The WIZRD,Future,500,510,139,520,1279.0
+342,Beauty Behind the Madness,The Weeknd,191,510,450,520,1281.0
+343,Best Of,Lucky Dube,500,510,143,520,1283.0
+344,REAPER SZN (Deluxe),YXNG K.A,194,510,450,520,1284.0
+345,Celia,Tiwa Savage,195,510,450,520,1285.0
+346,Face 2 Face,2Face Idibia,500,510,147,520,1287.0
+347,Ctrl,SZA,198,510,450,520,1288.0
+348,I Will Sing (Live),Don Moen,500,510,148,520,1288.0
+349,Championships,Meek Mill,199,510,450,520,1289.0
+350,Rodeo (Expanded Edition),Travis Scott,500,510,149,520,1289.0
+351,EDNA (Deluxe),Headie One,200,510,450,520,1290.0
+352,Summers,Melvitto,500,510,150,520,1290.0
+353,Heavy Is The Head,Stormzy,202,510,450,520,1292.0
+354,On a Spaceship,Burna Boy,500,510,153,520,1293.0
+355,SHAKE THE SNOW GLOBE (DELUXE),Russ,500,510,154,520,1294.0
+356,Entertainer,D'banj,500,510,155,520,1295.0
+357,i am > i was (Deluxe),21 Savage,205,510,450,520,1295.0
+358,AZEB - EP,Mereba,500,510,157,520,1297.0
+359,little BIG Man,Wretch 32,208,510,450,520,1298.0
+360,1000 Forms Of Fear,Sia,500,510,159,520,1299.0
+361,Palmwine Music 2,Show Dem Camp,500,510,161,520,1301.0
+362,Born Sinner (Deluxe Version),J. Cole,212,510,450,520,1302.0
+363,Victory Lap,Nipsey Hussle,500,510,164,520,1304.0
+364,Stony Hill,"Damian ""Jr. Gong"" Marley",215,510,450,520,1305.0
+365,U P P E R H A N D,indie tribe,500,510,165,520,1305.0
+366,Midnight Vibes,Lojay,500,510,166,520,1306.0
+367,Saturn,EP - Victony,217,510,450,520,1307.0
+368,True Story,Timaya,500,510,167,520,1307.0
+369,Yaadman Kingsize,Yung L,500,510,168,520,1308.0
+370,Forever,Popcaan,219,510,450,520,1309.0
+371,"Wolves & Mustangs, Vol. 1",Alpha P,500,510,169,520,1309.0
+372,A True Champion,Rexxie,220,510,450,520,1310.0
+373,The Life Of Pi'erre 4,Pi'Erre Bourne,500,510,172,520,1312.0
+374,O\u1e63\u00f3,Brymo,500,510,173,520,1313.0
+375,Graduation,Kanye West,224,510,450,520,1314.0
+376,Freedom.,Justin Bieber,500,510,175,520,1315.0
+377,Project Baby 2: All Grown Up (Deluxe),Kodak Black,227,510,450,520,1317.0
+378,Whole Lotta Red,Playboi Carti,500,510,177,520,1317.0
+379,Ultimate Collection,Don Moen,228,510,450,520,1318.0
+380,ONCE UPON A TIME,Chika,500,510,179,520,1319.0
+381,Birds in the Trap Sing McKnight,Travis Scott,229,510,450,520,1319.0
+382,Perfect Timing,Lil Baby,500,510,180,520,1320.0
+383,4 Your Eyez Only,J. Cole,230,510,450,520,1320.0
+384,Music (Songs From And Inspired By The Motion Picture),Sia,500,510,181,520,1321.0
+385,Recovery,Eminem,500,510,182,520,1322.0
+386,Coast To Coast,Westlife,500,510,290,89,1322.25
+387,Blurryface,Twenty One Pilots,500,510,184,520,1324.0
+388,Curtain Call: The Hits (Deluxe Edition),Eminem,500,510,185,520,1325.0
+389,Love and Grief,Fasina,500,510,194,520,1334.0
+390,The Last Rocket,Takeoff,500,510,195,520,1335.0
+391,The Journey,1spirit & Theophilus Sunday,500,510,197,520,1337.0
+392,Dopamine,B\u00d8RNS,500,510,198,520,1338.0
+393,Golden Wings,Zoe Wees,500,510,200,520,1340.0
+394,poems of the past,Powfu,500,510,201,520,1341.0
+395,Addictive Surface,Diet Trash,500,510,202,520,1342.0
+396,Life For Rent,Dido,500,510,203,520,1343.0
+397,Se7en,Ransom,500,510,204,520,1344.0
+398,ADHD,Joyner Lucas,500,510,205,520,1345.0
+399,Suncity,Khalid,500,510,207,520,1347.0
+400,FOR THE METAL PEOPLE,AURORA,500,510,208,520,1348.0
+401,The Marshall Mathers LP2,Eminem,500,510,209,520,1349.0
+402,Gang Signs & Prayer,Stormzy,500,510,210,520,1350.0
+403,Gully (Original Motion Picture Soundtrack),Various Artists,500,510,211,520,1351.0
+404,Fright Night,TPL,500,510,212,520,1352.0
+405,Closure,Mychelle,500,510,215,520,1355.0
+406,Friday Night Lights,J. Cole,500,510,217,520,1357.0
+407,Rema,Rema,500,510,218,520,1358.0
+408,To Pimp A Butterfly,Kendrick Lamar,500,510,219,520,1359.0
+409,YBNL,Olamide,500,510,220,520,1360.0
+410,No Shame,Hopsin,500,510,221,520,1361.0
+411,Moral Instruction,Falz,500,510,222,520,1362.0
+412,SUPER SLIMEY,Future,500,510,223,520,1363.0
+413,Synergy,SLIMN Major,500,510,224,520,1364.0
+414,war outside,Kamal.,500,510,227,520,1367.0
+415,Tradition,Runtown,500,510,228,520,1368.0
+416,Section.80,Kendrick Lamar,500,510,229,520,1369.0
+417,Rendezvous,M.I Abaga,500,510,232,520,1372.0
+418,Songs In A Minor (20th Anniversary Edition),Alicia Keys,500,510,234,520,1374.0
+419,Care Package,Drake,500,510,237,520,1377.0
+420,Money Can't Buy Happiness,Fredo,500,510,238,520,1378.0
+421,Village,Jacob Banks,500,510,239,520,1379.0
+422,Worship,Michael W. Smith,500,510,240,520,1380.0
+423,Ella Mai,Ella Mai,500,510,242,520,1382.0
+424,Baba Hafusa,Reminisce,500,510,245,520,1385.0
+425,Use Your Illusion II,Guns N' Roses,500,510,246,520,1386.0
+426,Pardon Me,Aha Gazelle,500,510,247,520,1387.0
+427,Euphoria (Original Score from the HBO Series),Labrinth,500,510,248,520,1388.0
+428,Most wanted,Various Artists,500,510,250,520,1390.0
+429,SR3MM,Rae Sremmurd,500,510,251,520,1391.0
+430,Sol,\u00bfT\u00e9o?,500,510,252,520,1392.0
+431,Squared Vibe,Sirius Ubah,500,510,253,520,1393.0
+432,Home (Original Motion Picture Soundtrack),Various Artists,500,510,254,520,1394.0
+433,Sage Tales,Shadow Sage,500,510,255,520,1395.0
+434,TikTok Songs,Various Artists,500,510,256,520,1396.0
+435,Title (Expanded Edition),Meghan Trainor,500,510,257,520,1397.0
+436,Lost & Found,Jorja Smith,500,510,258,520,1398.0
+437,Love Diaries of an Introvert,Tatiana Manaois,500,510,259,520,1399.0
+438,Freudian,Daniel Caesar,500,510,260,520,1400.0
+439,KIDS SEE GHOSTS,KIDS SEE GHOSTS,500,510,262,520,1402.0
+440,Michael Jackson's This Is It,Michael Jackson,500,510,263,520,1403.0
+441,Translations Through Speakers,Jon Bellion,500,510,265,520,1405.0
+442,Rapture EP,Koffee,500,510,267,520,1407.0
+443,\u00f7 (Deluxe),Ed Sheeran,500,510,268,520,1408.0
+444,Time Served (Deluxe),Moneybagg Yo,500,510,269,520,1409.0
+445,For My Friends,Jacob Banks,500,510,272,520,1412.0
+446,LOGAN,Emtee,500,510,273,520,1413.0
+447,Playboi Carti,Playboi Carti,500,510,276,520,1416.0
+448,Revenge Is Sweet,Krept & Konan,500,510,277,520,1417.0
+449,Sarkology,Sarkodie,500,510,278,520,1418.0
+450,This Thing Called Life,August Alsina,500,510,279,520,1419.0
+451,The Essential Collection,Don Williams,500,510,280,520,1420.0
+452,Nigerian Gospel Music,Morgan,500,510,281,520,1421.0
+453,Enjoy Your Life,Lady Donli,500,510,282,520,1422.0
+454,Archangel,Two Steps from Hell,500,510,284,520,1424.0
+455,Tribute,Yanni,500,510,285,520,1425.0
+456,LIFE'S A TRIP,Trippie Redd,500,510,286,520,1426.0
+457,20 Songs of Inspiration,Jim Reeves,500,510,288,520,1428.0
+458,King's Disease,Nas,500,510,289,520,1429.0
+459,Olu Maintain,Olu Maintain,500,510,291,520,1431.0
+460,Die Lit,Playboi Carti,500,510,292,520,1432.0
+461,All Of My Best Friends,Hillsong Young & Free,500,510,293,520,1433.0
+462,"Life is Eazi, Vol. 2 - Lagos To London",Mr Eazi,500,510,294,520,1434.0
+463,Black Habits,D Smoke,500,510,295,520,1435.0
+464,Sailing Soul(s),Jhen\u00e9 Aiko,500,510,296,520,1436.0
+465,Evolution,Joyner Lucas,500,510,297,520,1437.0
+466,Life Up Your Voice: Hymns of Charles Wesley,Washington Choral Arts Society,500,510,298,520,1438.0
+467,D'banj Essentials,D'banj,500,510,299,520,1439.0
+468,The Mayor of Lagos,Mayorkun,500,510,300,520,1440.0
+469,"Sincerely, Tokyo",MadeinTYO,500,510,301,520,1441.0
+470,The Essential Michael Jackson,Michael Jackson,500,510,303,520,1443.0
+471,From Dark to Light,NLE Choppa,500,510,304,520,1444.0
+472,Thats What They All Say,Jack Harlow,500,510,305,520,1445.0
+473,Bed of Stone,A\u1e63a,500,510,306,520,1446.0
+474,The Essential,Era,500,510,307,520,1447.0
+475,Midnight City (Remix EP),M83,500,510,308,520,1448.0
+476,next chapter,Zubi,500,510,309,520,1449.0
+477,Blood Bunny,chloe moriondo,500,510,310,520,1450.0
+478,"#Minimansiondust, Vol. 4",Estee Nack,500,510,311,520,1451.0
+479,Drip or Drown 2,Gunna,500,510,313,520,1453.0
+480,Songs From The Internet: RELOADED,Piff Marti,500,510,314,520,1454.0
+481,ALL-AMERIKKKAN BADA$$,Joey Bada$$,500,510,315,520,1455.0
+482,Fran\u00e7ois Couperin - Antonio Vivaldi - Carl Philipp Emanuel Bach - Johann Sebastian Bach,Pierre Fournier,500,510,316,520,1456.0
+483,The Essential Charley Pride,Charley Pride,500,510,317,520,1457.0
+484,The Love Language,Trevor Jackson,500,510,318,520,1458.0
+485,Reckless Love,Bethel Music,500,510,319,520,1459.0
+486,The Chronic,Dr. Dre,500,510,321,520,1461.0
+487,Never Grow Up.,Shane Eagle,500,510,323,520,1463.0
+488,Relaxin' Jazz Moods,Jazz Instrumentals,500,510,324,520,1464.0
+489,Lagos Nawa!,Olamide,500,510,325,520,1465.0
+490,kairos,NA,500,510,450,22,1465.5
+491,No Other Name,Hillsong Worship,500,510,326,520,1466.0
+492,King Of Comedy Rap 2,Gmac Cash,500,510,327,520,1467.0
+493,Flu Game,AJ Tracey,500,510,328,520,1468.0
+494,next level,NA,500,510,450,36,1469.0
+495,Smoking Mirrors,Wifisfuneral,500,510,329,520,1469.0
+496,mafia culture,NA,500,510,450,37,1469.25
+497,born of god,NA,500,510,450,39,1469.75
+498,Timz,Bad Boy Timz,500,510,330,520,1470.0
+499,the erigma ii,NA,500,510,450,43,1470.75
+500,The Second Coming,Adina Howard,500,510,331,520,1471.0
+501,the life and times of 50th birthday edition,NA,500,510,450,47,1471.75
+502,barry back the ep,NA,500,510,450,48,1472.0
+503,RED EYE,Victor AD,500,510,332,520,1472.0
+504,My Brother\u2019s Keeper (Long Live G),DaBaby,500,510,333,520,1473.0
+505,you have done me well,NA,500,510,450,55,1473.75
+506,Blame It On Jay Z,Anoyd,500,510,334,520,1474.0
+507,Wilmer,Patoranking,500,510,335,520,1475.0
+508,The Best of Ten Years / 1976-1986,Kitaro,500,510,336,520,1476.0
+509,kingdom now,NA,500,510,450,65,1476.25
+510,hymnal,NA,500,510,450,70,1477.5
+511,no bad songz,NA,500,510,450,71,1477.75
+512,you are great,NA,500,510,450,72,1478.0
+513,Xxiii,Zamir,500,510,338,520,1478.0
+514,Communion (Deluxe),Years & Years,500,510,339,520,1479.0
+515,the playmaker,NA,500,510,450,78,1479.5
+516,this god is too good,NA,500,510,450,79,1479.75
+517,Love Child 3,Angeloh,500,510,340,520,1480.0
+518,jowo,NA,500,510,450,80,1480.0
+519,c,NA,500,510,450,82,1480.5
+520,!,NA,500,510,450,84,1481.0
+521,Higher Place,Skip Marley,500,510,341,520,1481.0
+522,country moods,NA,500,510,450,85,1481.25
+523,chiomalized,NA,500,510,450,86,1481.5
+524,indomitable,NA,500,510,450,87,1481.75
+525,Mylo Xyloto,Coldplay,500,510,342,520,1482.0
+526,warriors,NA,500,510,450,92,1483.0
+527,Chemtrails Over The Country Club,Lana Del Rey,500,510,343,520,1483.0
+528,once in a lifetime,NA,500,510,450,94,1483.5
+529,about 30,NA,500,510,450,95,1483.75
+530,Mini World,Indila,500,510,344,520,1484.0
+531,best of the best,NA,500,510,450,96,1484.0
+532,999,NA,500,510,450,98,1484.5
+533,faith is rising,NA,500,510,450,99,1484.75
+534,7 Days,Krept & Konan,500,510,345,520,1485.0
+535,asha,NA,500,510,450,100,1485.0
+536,Lost,Brent Faiyaz,500,510,346,520,1486.0
+537,Quick Little Mixtape,Pete & Bas,500,510,347,520,1487.0
+538,Nemesis X,Brand X Music,500,510,348,520,1488.0
+539,508-507-2209,Joyner Lucas,500,510,350,520,1490.0
+540,The Pinkprint,Nicki Minaj,500,510,351,520,1491.0
+541,The Thrill Of It All (Special Edition),Sam Smith,500,510,352,520,1492.0
+542,James Arthur (Deluxe),James Arthur,500,510,353,520,1493.0
+543,One and Only,Sheff G,500,510,354,520,1494.0
+544,Latin Jazz Suite,Lalo Schifrin,500,510,355,520,1495.0
+545,Empires,Hillsong UNITED,500,510,356,520,1496.0
+546,Night Visions,Imagine Dragons,500,510,358,520,1498.0
+547,Hood Life Krisis Vol. 2,J.I the Prince of N.Y,500,510,359,520,1499.0
+548,Palo Santo,Years & Years,500,510,360,520,1500.0
+549,Real To Me,Callista Clark,500,510,361,520,1501.0
+550,Big Ship,Freddie Mcgregor,500,510,362,520,1502.0
+551,Honeymoon,Lana Del Rey,500,510,363,520,1503.0
+552,DRINK.,Bastille,500,510,364,520,1504.0
+553,Songs for the Drunk and Broken Hearted (Deluxe),Passenger,500,510,365,520,1505.0
+554,A Real Good Kid,Mike Posner,500,510,366,520,1506.0
+555,The Cost of Our Lives,Ignis Brothers,500,510,368,520,1508.0
+556,Lyricist Lounge Volume 2,Various Artists,500,510,369,520,1509.0
+557,The Very Best Of Don Williams,Don Williams,500,510,370,520,1510.0
+558,Stay Shining - EP,Riky Rick,500,510,371,520,1511.0
+559,Setlist Vol. 1 (Live),Travis Greene,500,510,372,520,1512.0
+560,POST HUMAN: SURVIVAL HORROR,Bring Me the Horizon,500,510,373,520,1513.0
+561,Skin,Flume,500,510,374,520,1514.0
+562,Live in London and More ..,Donnie McClurkin,500,510,376,520,1516.0
+563,"God Forgives, I Don't",Rick Ross,500,510,377,520,1517.0
+564,Blessed,Flavour,500,510,378,520,1518.0
+565,Bleu Vandross 3,Yung Bleu,500,510,379,520,1519.0
+566,A Hundred Million Suns,Snow Patrol,500,510,380,520,1520.0
+567,The Very Best of Enya (Deluxe Edition),Enya,500,510,381,520,1521.0
+568,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),Various Artists,500,510,383,520,1523.0
+569,85 to Africa,Jidenna,500,510,385,520,1525.0
+570,Cusp,Ameen,500,510,386,520,1526.0
+571,Thank You Lord (Live),Don Moen,500,510,387,520,1527.0
+572,Seven Degrees North,King Sunny Ade,500,510,388,520,1528.0
+573,THE S(EX) TAPES,FLETCHER,500,510,389,520,1529.0

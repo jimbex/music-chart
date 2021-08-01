@@ -1,0 +1,107 @@
+rank,song,artist,R1,R2,R3,R4,R5,R6,R7,RT
+1,Feeling,"LADIPOE, Buju",1,1,1,1,1,1,1,1
+2,Rock,Olamide,2,2,2,2,2,2,2,2
+3,Bounce,Rema,3,3,3,3,3,3,3,3
+4,LV N ATTN feat. Wizkid,"Lojay, WizKid",4,4,4,4,4,5,5,4.285714286
+5,Outside,Buju,5,5,5,5,5,4,4,4.714285714
+6,Bling (feat. Amaarae & Buju),Blaqbonez,6,6,6,6,6,6,6,6
+7,Dimension (feat. Skepta & Rema),JAE5,7,7,7,7,7,7,7,7
+8,Essence (feat. Tems),WizKid,10,8,8,8,8,8,8,8.285714286
+9,Coming,Naira Marley,9,9,9,9,9,9,9,9
+10,Kilometre,Burna Boy,12,12,11,13,11,11,11,11.57142857
+11,Show Me,Joeboy,14,14,13,12,10,10,10,11.85714286
+12,Tonongo,Lojay,11,13,12,11,12,12,12,11.85714286
+13,Voice of the Heroes,Lil Baby,8,11,10,10,14,17,18,12.57142857
+14,"Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo]","Tion Wayne, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign, Darkoo",13,16,15,14,13,13,13,13.85714286
+15,History,Cheque,16,18,17,17,16,14,14,16
+16,It Is What It Is,Adekunle Gold,17,20,18,16,15,15,15,16.57142857
+17,Hats Off (feat. Travis Scott),Lil Baby,19,15,14,15,17,19,22,17.28571429
+18,Forever (Remix),Gyakie,15,17,16,19,20,20,19,18
+19,Felony,CKay,21,22,20,21,19,18,17,19.71428571
+20,Pronto,Ajebo Hustlers,18,21,19,20,22,21,20,20.14285714
+21,La La (feat. Ckay),DaVido,22,24,22,22,23,22,21,22.28571429
+22,Ke Star,Remix - Focalistic,20,23,21,23,24,25,23,22.71428571
+23,Monalisa,Lojay,25,25,23,18,21,23,24,22.71428571
+24,Somebody Baby,DaVido,23,10,26,26,27,27,27,23.71428571
+25,Focus,Joeboy,24,19,25,25,26,26,26,24.42857143
+26,Late At Night,Roddy Ricch,54,26,24,24,18,16,16,25.42857143
+27,Ginger (feat. Burna Boy),WizKid,28,28,28,27,25,24,25,26.42857143
+28,Loved By You (feat. Burna Boy),Justin Bieber,32,31,31,29,28,28,29,29.71428571
+29,Southy Love,Peruzzi,31,29,29,30,30,30,30,29.85714286
+30,2040,Lil Baby,26,27,27,28,31,33,39,30.14285714
+31,KOLO (feat. Oxlade),Ice Prince,36,34,34,31,33,31,31,32.85714286
+32,Running (To You),chike,37,32,32,34,34,32,32,33.28571429
+33,Blessed (feat. Damian Marley),WizKid,40,38,38,33,29,29,28,33.57142857
+34,Who I Want,Lil Baby,29,30,30,36,39,41,46,35.85714286
+35,Rich Off Pain (feat. Rod Wave),Lil Baby,44,35,35,35,35,36,35,36.42857143
+36,World,Dangbana Republik,41,39,39,39,36,34,33,37.28571429
+37,Park O X3,Lojay,30,37,37,38,40,43,50,39.28571429
+38,Panty!,Lojay,27,36,36,37,41,45,55,39.57142857
+39,23,Burna Boy,47,46,46,40,37,35,34,40.71428571
+40,Peaches (feat. Daniel Caesar & Giveon),Justin Bieber,48,49,49,41,38,37,37,42.71428571
+41,Rush,Dangbana Republik,51,42,42,45,42,39,40,43
+42,The Best (feat. Mayorkun),DaVido,49,45,45,43,44,38,38,43.14285714
+43,Godly,Omah Lay,53,48,48,44,43,40,41,45.28571429
+44,Still Hood,Lil Baby,33,40,40,42,49,57,68,47
+45,FOR YOU,Teni,50,51,51,47,45,44,44,47.42857143
+46,Abu Dhabi,Ruger,58,53,53,53,47,42,42,49.71428571
+47,Hallelu,Masterkraft,57,56,56,55,48,47,47,52.28571429
+48,Still Runnin (feat. Meek Mill),Lil Baby,38,41,41,48,60,67,81,53.71428571
+49,How It Feels,Lil Baby,45,44,44,52,61,65,76,55.28571429
+50,KPK (Ko Por Ke),Rexxie,62,58,58,57,52,50,51,55.42857143
+51,Kilofeshe,Zinoleesky,63,57,57,56,51,51,53,55.42857143
+52,High Way,DJ Kaywise,61,55,55,59,54,53,52,55.57142857
+53,Oliver Twist,ArrDee,83,59,59,49,46,46,49,55.85714286
+54,Man of my Word,Lil Baby,39,43,43,51,64,75,84,57
+55,All My Life (feat. Oxlade),M.I. Abaga,34,50,50,46,62,80,87,58.42857143
+56,INJURE ME,Teni,60,60,60,58,56,58,59,58.71428571
+57,Way Too Big,Burna Boy,74,64,64,62,53,49,45,58.71428571
+58,Jowo,DaVido,68,65,65,61,55,52,54,60
+59,Too Correct,Crayon,65,63,63,60,57,56,57,60.14285714
+60,Medical,Lil Baby,43,47,47,54,67,77,86,60.14285714
+61,Reckless,WizKid,75,70,70,63,50,48,48,60.57142857
+62,Commitment Issues,Central Cee,70,66,66,65,58,55,58,62.57142857
+63,Money,Terri,42,61,61,66,71,78,77,65.14285714
+64,Bank On It,Burna Boy,78,73,73,67,59,54,56,65.71428571
+65,Constantly,Speroach Beatz,59,52,52,50,73,81,93,65.71428571
+66,Up The Side (feat. Young Thug),Lil Baby,46,54,54,64,76,82,95,67.28571429
+67,a m a r i,J. Cole,66,75,75,68,66,62,65,68.14285714
+68,Infinity (feat. Omah Lay),Olamide,77,76,76,70,63,60,60,68.85714286
+69,Cash App,Bella Shmurda,81,74,74,76,70,64,61,71.42857143
+70,Early Momo,Vector,35,33,33,32,32,301,36,71.71428571
+71,m y . l i f e (with 21 Savage & Morray),J. Cole,73,79,79,75,72,68,70,73.71428571
+72,Music Messiah,DJ Neptune,52,71,71,74,83,84,83,74
+73,Ayewada,Barry Jhay,71,83,83,79,74,70,66,75.14285714
+74,Sweet One,WizKid,84,89,89,78,65,59,62,75.14285714
+75,No Stress,WizKid,86,84,84,81,68,61,63,75.28571429
+76,Okay,Lil Baby,55,62,62,71,87,92,99,75.42857143
+77,Door,Joeboy,80,78,78,73,75,74,73,75.85714286
+78,Make It Out,Lil Baby,69,67,67,69,81,85,94,76
+79,Longtime (feat. Skepta),WizKid,91,87,87,82,69,63,64,77.57142857
+80,RAPSTAR,Polo G,89,90,90,87,78,69,43,78
+81,p r i d e . i s . t h e . d e v i l (with Lil Baby),J. Cole,79,82,82,80,77,76,74,78.57142857
+82,Bruised Up,Lil Baby,72,68,68,72,88,91,97,79.42857143
+83,Real Life (feat. Stormzy),Burna Boy,92,85,85,85,82,66,67,80.28571429
+84,Heartbreak Anniversary,Giveon,87,81,81,83,85,73,75,80.71428571
+85,Okwaraji,Blaqbonez,82,88,88,86,84,79,69,82.28571429
+86,Leave The Door Open,Bruno Mars,85,86,86,88,86,83,79,84.71428571
+87,Mighty Wine,WizKid,94,94,94,91,80,71,72,85.14285714
+88,True Love (feat. Tay Iwar & Projexx),WizKid,95,95,95,90,79,72,71,85.28571429
+89,Fendi (feat. Joeboy),Blaqbonez,88,91,91,89,90,93,91,90.42857143
+90,Away,Ayra Starr,97,92,92,92,89,87,85,90.57142857
+91,Holy Ground (feat. Nicki Minaj),DaVido,98,97,97,97,92,89,82,93.14285714
+92,Ruger,Ruger,96,96,96,95,95,90,90,94
+93,Kilofese,Remix - Zinoleesky,90,93,93,96,97,95,98,94.57142857
+94,Please,Lil Baby,64,72,72,77,91,96,301,110.4285714
+95,Lying,Lil Baby,56,69,69,84,96,99,301,110.5714286
+96,If You Want To,Lil Baby,76,80,80,94,98,301,301,147.1428571
+97,Calling My Phone,Lil Tjay,93,301,301,98,93,88,89,151.8571429
+98,That's Facts,Lil Baby,67,77,77,93,301,301,301,173.8571429
+99,Piece of Me (feat. Ella Mai),WizKid,301,301,301,301,94,86,80,209.1428571
+100,Onyeka (Baby),Burna Boy,301,301,301,301,99,94,88,212.1428571
+101,Bad Influence,Omah Lay,301,301,301,301,301,97,92,242
+102,Mood Swings (feat. Lil Tjay),Pop Smoke,301,301,301,301,301,98,96,242.7142857
+103,Omemma,Judikay,301,98,98,301,301,301,301,243
+104,Avalanche,Migos,301,301,301,301,301,301,78,269.1428571
+105,Flex,Kizz Daniel,301,301,99,301,301,301,301,272.1428571
+106,Verified,LAYCON,99,301,301,301,301,301,301,272.1428571

@@ -1,0 +1,225 @@
+rank,song,artist,R1,R2,R3,R4,R5,R6,R7,RT
+1,Feeling,LADIPOE,1,1,1,1,1,1,3,1
+2,Rock,Olamide,2,2,2,2,2,2,6,2
+3,Party Next Door,"Dangbana Republik, Bella Shmurda",3,3,3,4,4,5,4,3.4
+4,Naira Marley,Zinoleesky,4,4,4,3,3,3,5,3.6
+5,Outside,Buju,5,5,5,5,5,4,8,5
+6,History,Cheque & Fireboy DML,6,6,6,6,7,8,12,6.2
+7,COMING,Naira Marley,7,7,7,8,9,9,13,7.6
+8,Confident,Savage X Buju,9,9,9,7,6,6,10,8
+9,Need For Speed,Olamide,8,8,8,9,10,12,16,8.6
+10,Jailer,Olamide,10,10,10,13,13,14,18,11.2
+11,CELEBRATE ME,Patoranking,11,11,11,11,12,13,17,11.2
+12,Yaba Buluku (Remix),Dj Tarico & Burna Boy,13,13,13,12,11,11,14,12.4
+13,Julie,Olamide,12,12,12,14,15,18,24,13
+14,Focus,Joeboy,14,14,14,17,16,15,15,15
+15,Bling,Blaqbonez,16,16,16,15,14,16,19,15.4
+16,Ayewada,Barry Jhay,15,15,15,16,17,17,22,15.6
+17,World,"Dangbana Republik, Bella Shmurda",17,17,17,18,18,19,9,17.4
+18,It Is What It Is,Adekunle Gold,18,18,18,20,19,20,20,18.6
+19,INJURE ME,Teni,19,19,19,19,20,21,23,19.2
+20,FOR YOU,Teni featuring Davido,21,21,21,22,22,23,26,21.4
+21,PonPon,Olamide,20,20,20,23,24,25,33,21.4
+22,Essence,Wizkid,23,23,23,21,21,22,25,22.2
+23,Are You Sure,Lyta,24,24,24,24,23,24,27,23.8
+24,Somebody,Olamide,22,22,22,27,28,31,34,24.2
+25,Kilometre,Burna Boy,25,25,25,28,26,27,31,25.8
+26,Omo X 100,Reminisce,26,26,26,26,29,28,32,26.6
+27,Running (To You),ChikÃ©,28,28,28,29,27,30,28,28
+28,Olofofo,Victor AD,30,30,30,25,25,26,29,28
+29,Soundgasm,Rema,27,27,27,31,32,35,37,28.8
+30,Money,"Terri, Bella Shmurda, Mohbad",31,31,31,30,30,29,30,30.6
+31,Cup of Tea,Olamide,29,29,29,33,37,37,47,31.4
+32,Ke Star (Remix),Focalistic & Davido,33,33,33,32,31,32,35,32.4
+33,Korope,Lil Kesh,32,32,32,38,35,36,40,33.8
+34,Too Correct,Crayon,34,34,34,34,33,34,38,33.8
+35,40 BTC,Rexxie featuring Seyi Vibez,53,53,53,10,8,7,11,35.4
+36,Rush,Dangbana Republik X Bella Shmurda,35,35,35,37,38,41,41,36
+37,90'S,Seyi Vibez,38,38,38,35,34,33,39,36.6
+38,Hallelu,Masterkraft,37,37,37,36,36,38,43,36.6
+39,Somebody Baby,Peruzzi & Davido,36,36,36,39,40,40,44,37.4
+40,Triumphant,Olamide,40,40,40,40,39,39,45,39.8
+41,Felony,CKay,39,39,39,41,42,44,49,40
+42,Ginger,Wizkid,43,43,43,42,41,43,51,42.4
+43,Pronto,Ajebo Hustlers & Omah Lay,42,42,42,43,44,45,42,42.6
+44,Kilofeshe,Zinoleesky,45,45,45,44,43,42,46,44.4
+45,World (Alternate Cut),Bella Shmurda,44,44,44,45,45,46,50,44.4
+46,Cho Cho,Zlatan,46,46,46,48,48,49,57,46.8
+47,Godly,Omah Lay,47,47,47,47,47,48,53,47
+48,Boi Boi,Rexxie featuring Teni,41,41,41,53,60,61,78,47.2
+49,Bad Type,Seyi Vibez,49,49,49,46,46,47,54,47.8
+50,All,Rexxie featuring Davido,48,48,48,49,51,54,55,48.8
+51,Infinity,Olamide,50,50,50,50,49,51,56,49.8
+52,KPK (Ko Por Ke),Rexxie and MohBad,52,52,52,51,50,52,58,51.4
+53,Catalyst,Seyi Vibez,51,51,51,52,52,53,59,51.4
+54,Koleyewon,Naira Marley,54,54,54,56,54,56,64,54.4
+55,Cash App,Bella Shmurda,55,55,55,54,53,55,60,54.4
+56,Late At Night,Roddy Ricch,59,59,59,58,55,59,65,58
+57,Lonely,Joeboy,58,58,58,60,56,58,67,58
+58,Body (Remix),Tion Wayne x Russ Millions,56,56,56,61,61,68,73,58
+59,23,Burna Boy,60,60,60,57,57,57,66,58.8
+60,Sho Mo Mi,Bella Shmurda,63,63,63,59,59,60,63,61.4
+61,PEPE,L.A.X & Davido,62,62,62,64,58,63,68,61.6
+62,Ori,Barry Jhay,61,61,61,63,66,66,69,62.4
+63,Don Dada,Timaya,65,65,65,65,67,70,77,65.4
+64,Ginger Me (Intro),Bella Shmurda,68,68,68,62,62,62,62,65.6
+65,The Best,Davido,66,66,66,67,69,69,74,66.8
+66,Survive,Jaido P,64,64,64,70,76,75,87,67.6
+67,Champion,Fireboy DML & D Smoke,67,67,67,69,68,71,70,67.6
+68,Picture Freestyle,Seyi Vibez,74,74,74,55,64,67,80,68.2
+69,PAMI,DJ Tunez,71,71,71,66,65,64,61,68.8
+70,Way Too Big,Burna Boy,72,72,72,68,63,65,72,69.4
+71,High Way,DJ Kaywise & Phyno,70,70,70,71,70,72,79,70.2
+72,Door,Joeboy,73,73,73,72,75,77,88,73.2
+73,Early Momo,Vector,75,75,75,74,72,76,85,74.2
+74,Omnipotent,Bella Shmurda,76,76,76,73,73,78,76,74.8
+75,Frenemies,Rexxie and Oxlade,69,69,69,81,88,80,92,75.2
+76,Liquor,Bella Shmurda,77,77,77,75,74,82,82,76
+77,Tekiller,CDQ,57,57,57,80,129,157,175,76
+78,Vision 2020,Bella Shmurda,78,78,78,78,78,84,86,78
+79,Pay day,Seyi Vibez,79,79,79,79,77,79,89,78.6
+80,Sorry,MohBad,80,80,80,77,79,83,94,79.2
+81,Ma Pariwo,Zinoleesky,86,86,86,76,71,73,81,81
+82,Bad Influence,Omah Lay,81,81,81,86,81,81,75,82
+83,KOLO,Ice Prince,82,82,82,84,84,89,98,82.8
+84,Only You,Bella Shmurda,83,83,83,85,82,87,93,83.2
+85,Upgrade,Bella Shmurda,84,84,84,82,83,86,91,83.4
+86,Lenu (Remix),Buju,87,87,87,83,80,74,83,84.8
+87,Chi Chi,Naira Marley,85,85,85,90,89,92,99,86.8
+88,Colorado,Zugo,88,88,88,87,87,91,97,87.6
+89,No Stress,WizKid,90,90,90,88,86,88,96,88.8
+90,Muje,Barry Jhay,89,89,89,91,90,93,100,89.6
+91,So Lovely,Buju,92,92,92,89,85,85,90,90
+92,Southy Love,Peruzzi,91,91,91,92,92,94,103,91.4
+93,Real Life,Burna Boy,95,95,95,93,93,97,106,94.2
+94,Fall for Me,Laycon,96,96,96,97,94,98,104,95.8
+95,God Sent,Seyi Vibez,98,98,98,95,96,95,101,97
+96,Holy Ground,Davido,97,97,97,98,97,99,105,97.2
+97,Smile,Wizkid,99,99,99,94,95,96,107,97.2
+98,Damages,Tems,100,100,100,101,101,104,113,100.4
+99,Music Messiah,DJ Neptune,101,101,101,103,102,108,118,101.6
+100,FEM,Davido,102,102,102,104,99,103,114,101.8
+101,Amope,Bella Shmurda,104,104,104,100,98,101,102,102
+102,Kogi,Jumabee,103,103,103,107,110,111,123,105.2
+103,Spiritual,Buju,114,114,114,96,91,90,109,105.8
+104,Can't Relate,Omah Lay,107,107,107,111,100,100,95,106.4
+105,Loading,Olamide,105,105,105,110,109,109,119,106.8
+106,Dangbana Orisa,Bella Shmurda,111,111,111,109,108,107,115,110
+107,Wasting Time,Brent Faiyaz,93,93,93,99,176,195,401,110.8
+108,Ginger Me,Rema,110,110,110,113,112,112,122,111
+109,Happiness,Davolee,109,109,109,115,113,114,125,111
+110,This Your Body,Skales and Davido,108,108,108,117,115,124,136,111.2
+111,If You No Love,ChikÃ©,115,115,115,114,111,113,124,114
+112,Airplane Mode,Fireboy DML,119,119,119,112,105,110,121,114.8
+113,Your Body,Mayorkun,112,112,112,121,118,120,127,115
+114,Currently,Kizz Daniel,117,117,117,116,114,116,126,116.2
+115,Celebration,Joeboy,120,120,120,119,117,119,128,119.2
+116,Omo Ologo,Lil Frosh,129,129,129,106,104,105,116,119.4
+117,If E Happen For Lagos,Runtown,121,121,121,123,116,126,131,120.4
+118,Ponmo,Mohbad,118,118,118,125,124,122,135,120.6
+119,Tonongo,"Lojay, Sarz",130,130,130,108,107,102,111,121
+120,Wonderful,Burna Boy,122,122,122,124,121,121,133,122.2
+121,Rest On Kashy,Anonymous Music,123,123,123,120,123,127,132,122.4
+122,At My Worst,Pink Sweat$,124,124,124,127,119,129,139,123.6
+123,My Bebe,Omah Lay,125,125,125,126,125,115,112,125.2
+124,MOSLADO,Teni,128,128,128,122,120,118,129,125.2
+125,You,Omah Lay,127,127,127,131,127,117,108,127.8
+126,Die Young,Roddy Ricch,131,131,131,129,126,128,137,129.6
+127,Legends,Juice WRLD,134,134,134,130,122,123,130,130.8
+128,Cultural Praise,Kcee & Okwesili Eze Group,132,132,132,134,132,135,148,132.4
+129,Adura,Mohbad,135,135,135,128,130,131,138,132.6
+130,Level Up (Twice As Tall),Burna Boy,136,136,136,132,133,130,149,134.6
+131,The Box,Roddy Ricch,137,137,137,133,131,132,146,135
+132,Back2Back,Rexxie featuring Bella Shmurda,133,133,133,140,146,152,162,137
+133,Zoom,Cheque,140,140,140,137,139,139,153,139.2
+134,Egbon,Masterkraft,141,141,141,139,134,138,141,139.2
+135,Green Light,Olamide,142,142,142,138,137,137,154,140.2
+136,KAMBA,Terry Apala,139,139,139,145,148,146,152,142
+137,Project Dreams,Roddy Ricch,145,145,145,141,138,136,155,142.8
+138,Symphony,Seyi Vibez,148,148,148,136,135,133,150,143
+139,Lo Lo,Omah Lay,146,146,146,144,141,141,143,144.6
+140,Activate,Stonebwoy,144,144,144,148,145,153,158,145
+141,I Will Survive,Diamond Jimma,154,154,154,135,136,134,134,146.6
+142,Abule,Patoranking,149,149,149,146,143,144,159,147.2
+143,JO,Teni,156,156,156,142,140,145,156,150
+144,Mandeman,Small Doctor,152,152,152,149,147,154,171,150.4
+145,Woman,Rema,151,151,151,151,152,159,170,151.2
+146,Fine Wine,R2Bees,158,158,158,147,142,162,401,152.6
+147,Sere (Remix),"Spinall, Fireboy DML and 6LACK",157,157,157,153,149,148,169,154.6
+148,Life Is Good,Future,160,160,160,152,144,149,163,155.2
+149,Know You,Ladipoe,155,155,155,154,159,160,168,155.6
+150,Confession,Omah Lay,159,159,159,156,153,147,151,157.2
+151,LV N ATTN,"Lojay, Sarz",166,166,166,143,150,142,160,158.2
+152,Ball Till We Fall,Kida Kudz featuring Bella Shmurda,163,163,163,150,156,151,167,159
+153,Flex,Kizz Daniel,161,161,161,157,155,158,172,159
+154,Ye Ye Ye,Omah Lay,162,162,162,159,154,143,142,159.8
+155,Go Away,Fireboy DML,165,165,165,155,151,155,165,160.2
+156,Damn,Omah Lay,164,164,164,162,162,156,147,163.2
+157,So Crazy,Davido,167,167,167,163,163,165,178,165.4
+158,Commitment Issues,Central Cee,168,168,168,161,164,171,196,165.8
+159,Hold Me Tight,Kcee,170,170,170,166,160,169,181,167.2
+160,HELL (interlude),corizo,173,173,173,160,158,150,166,167.4
+161,Marlians Anthem,MohBad,171,171,171,164,161,164,179,167.6
+162,Bounse,Rema,169,169,169,170,168,184,187,169
+163,Spell,Fireboy DML & Wande Coal,172,172,172,171,165,170,183,170.4
+164,Prayer Request,Victor AD,176,176,176,165,166,166,180,171.8
+165,Something Different,Adekunle Gold,174,174,174,172,171,168,161,173
+166,Hardaway,Yungeen Ace,116,116,116,118,401,401,401,173.4
+167,What Type Of Dance,DJ Kaywise,175,175,175,182,178,180,188,177
+168,ELI,Fireboy DML,180,180,180,178,180,181,190,179.6
+169,High Fashion,Roddy Ricch,185,185,185,176,169,174,193,180
+170,Born to Win,Timaya,182,182,182,181,177,176,191,180.8
+171,Beamer (Bad Boys),Rema,179,179,179,184,184,188,199,181
+172,Afar,Fireboy DML & Olamide,186,186,186,175,175,177,192,181.6
+173,Hood Scars 2,J.I the Prince of N.Y & Lil Tjay,190,190,190,169,172,175,194,182.2
+174,Happy Birthday,Simi feat. Adekunle Gold and Deja,184,184,184,187,174,182,176,182.6
+175,As E Dey Go,Naira Marley,181,181,181,186,188,191,401,183.4
+176,dimension,jae5 ft skepta & rema,177,177,177,195,193,196,401,183.8
+177,Jackpot,Crayon,187,187,187,177,183,185,195,184.2
+178,Be Something,Polo G,188,188,188,180,181,167,184,185
+179,Hello Brother,Omah Lay,191,191,191,179,186,172,164,187.6
+180,Bad Habits,Ed Sheeran,183,183,183,194,197,401,401,188
+181,AG Baby,Adekunle Gold,192,192,192,191,190,187,177,191.4
+182,Maserati (Remix),Olakira,194,194,194,190,185,192,197,191.4
+183,Rich And Blind,Juice WRLD,196,196,196,192,179,179,186,191.8
+184,Try Me,Tems,193,193,193,189,191,198,401,191.8
+185,Like I Do,Fireboy DML,195,195,195,188,187,189,198,192
+186,Plenty,Olamide,198,198,198,193,196,194,401,196.6
+187,Brown Skin,Masterkraft,147,147,147,167,401,401,401,201.8
+188,What If,SHATTA WALE,150,150,150,158,401,401,401,201.8
+189,OUTSIDE,Stonebwoy,143,143,143,185,401,401,401,203
+190,Chargie,"Reekado Banks, Teejay, Lord Afrixana",94,94,94,401,401,401,401,216.8
+191,All Love,Lil Durk,113,113,113,401,401,401,401,228.2
+192,3 Headed Goat,Lil Durk,126,126,126,401,401,401,401,236
+193,PradadaBang,IDK & Young Thug,138,138,138,401,401,401,401,243.2
+194,My Crew,Kiiwii,153,153,153,401,401,401,401,252.2
+195,Friday Feeling,Fireboy DML,197,197,197,401,401,401,200,278.6
+196,Touch It,KiDi,199,199,199,401,401,401,401,279.8
+197,Duduke (French),Simi and Deja,200,200,200,401,401,401,401,280.4
+198,Chargie,"Reekado Banks, Teejay & Lord Afrixana",401,401,401,102,173,401,401,295.6
+199,Big Man Rhythm,Masterkraft,401,401,401,174,128,200,401,301
+200,Freaky,Hotkid,401,401,401,168,189,190,401,312
+201,Do not Disturb,Omah Lay,401,401,401,196,192,163,144,318.2
+202,Omalicha,kolaboy,401,401,401,401,103,161,189,341.4
+203,Breakup Riddim,DJ Aroma,401,401,401,401,157,401,401,352.2
+204,Money & Laughter,"Boj, Zamir and Amaarae",401,401,401,401,167,125,401,354.2
+205,Flex,Polo G,401,401,401,401,194,197,401,359.6
+206,Choppas 4 My Enemies,Yungeen Ace,401,401,401,401,195,401,401,359.8
+207,Jafafa,Chinko Ekun & Mohbad,401,401,401,401,198,199,401,360.4
+208,Hello áº¸,"Reminisce, Westsyde",401,401,401,401,401,50,71,401
+209,Big Man Ting,SHATTA WALE,401,401,401,401,401,140,401,401
+210,Understand,Omah Lay,401,401,401,401,401,10,1,401
+211,Bia,Phyno,401,401,401,401,401,401,7,401
+212,Vibration,Sarkodie and Vic Mensa,401,401,401,401,401,401,84,401
+213,Nevada,YoungBoy Never Broke Again,401,401,401,401,401,401,140,401
+214,Sapa,Bravo AZ feat. Idowest,401,401,401,401,401,186,157,401
+215,Sinner,Adekunle Gold and Lucky Daye,401,401,401,401,401,401,2,401
+216,DUPÄ– (Remix),Azekel,401,401,401,401,401,401,174,401
+217,Baba Nla,Candy Bleakz,401,401,401,401,401,193,182,401
+218,Obsessed,Kvngs,401,401,401,401,401,401,145,401
+219,Selense,The Cavemen,401,401,401,401,401,401,120,401
+220,Of,hite - NGeeYL,401,401,401,401,401,178,401,401
+221,HUSTLE,BBANKS,401,401,401,401,401,401,110,401
+222,Baba Nla,Dr Dolor,401,401,401,401,401,401,36,401
+223,Wandsworth to Bullingdon,Fredo,401,401,401,401,401,401,52,401
+224,Figure 8,Kida Kudz and Gemitaiz,401,401,401,401,401,401,48,401

@@ -1,0 +1,101 @@
+rank,song,artist,R1,R2,R3,RT
+1,Feeling,"LADIPOE, Buju",1,1,1,1.0
+2,Bounce,Rema,2,2,3,2.3333333333333335
+3,Rock,Olamide,3,3,2,2.6666666666666665
+4,"Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo]","Tion Wayne, ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign, Darkoo",4,4,4,4.0
+5,Bling (feat. Amaarae & Buju),Blaqbonez,5,5,5,5.0
+6,Dimension (feat. Skepta & Rema),JAE5,6,6,7,6.333333333333333
+7,m y . l i f e (with 21 Savage & Morray),J. Cole,7,7,10,8.0
+8,Coming,Naira Marley,8,8,8,8.0
+9,Kilometre,Burna Boy,9,9,9,9.0
+10,a m a r i,J. Cole,10,10,12,10.666666666666666
+11,Show Me,Joeboy,11,11,11,11.0
+12,History,Cheque,12,12,13,12.333333333333334
+13,Essence (feat. Tems),WizKid,13,13,14,13.333333333333334
+14,Forever (Remix),Gyakie,16,16,15,15.666666666666666
+15,9 5 . s o u t h,J. Cole,14,14,19,15.666666666666666
+16,p r i d e . i s . t h e . d e v i l (with Lil Baby),J. Cole,15,15,18,16.0
+17,Pronto,Ajebo Hustlers,17,17,16,16.666666666666668
+18,Felony,CKay,18,18,17,17.666666666666668
+19,Focus,Joeboy,19,19,20,19.333333333333332
+20,Ke Star,Remix - Focalistic,20,20,21,20.333333333333332
+21,Somebody Baby,DaVido,21,21,22,21.333333333333332
+22,It Is What It Is,Adekunle Gold,22,22,23,22.333333333333332
+23,Loved By You (feat. Burna Boy),Justin Bieber,24,24,25,24.333333333333332
+24,La La (feat. Ckay),DaVido,25,25,24,24.666666666666668
+25,a p p l y i n g . p r e s s u r e,J. Cole,23,23,29,25.0
+26,Ginger (feat. Burna Boy),WizKid,27,27,26,26.666666666666668
+27,Southy Love,Peruzzi,28,28,27,27.666666666666668
+28,l e t . g o . m y . h a n d (with Bas & 6LACK),J. Cole,26,26,33,28.333333333333332
+29,Running (To You),chike,29,29,28,28.666666666666668
+30,World,Dangbana Republik,32,32,30,31.333333333333332
+31,1 0 0 . m i l ‘ (with Bas),J. Cole,30,30,39,33.0
+32,Peaches (feat. Daniel Caesar & Giveon),Justin Bieber,34,34,32,33.333333333333336
+33,i n t e r l u d e,J. Cole,31,31,40,34.0
+34,Blessed (feat. Damian Marley),WizKid,36,36,31,34.333333333333336
+35,Seeing Green (with Drake & Lil Wayne),Nicki Minaj,33,33,37,34.333333333333336
+36,FOR YOU,Teni,38,38,34,36.666666666666664
+37,p u n c h i n ‘ . t h e . c l o c k,J. Cole,35,35,43,37.666666666666664
+38,KOLO (feat. Oxlade),Ice Prince,39,39,36,38.0
+39,Commitment Issues,Central Cee,37,37,41,38.333333333333336
+40,Early Momo,Vector,41,41,35,39.0
+41,Rush,Dangbana Republik,40,40,38,39.333333333333336
+42,23,Burna Boy,42,42,42,42.0
+43,High Way,DJ Kaywise,45,45,44,44.666666666666664
+44,Fendi (feat. Joeboy),Blaqbonez,44,44,46,44.666666666666664
+45,The Best (feat. Mayorkun),DaVido,46,46,45,45.666666666666664
+46,t h e . c l i m b . b a c k,J. Cole,43,43,54,46.666666666666664
+47,Hallelu,Masterkraft,47,47,47,47.0
+48,Godly,Omah Lay,48,48,49,48.333333333333336
+49,Too Correct,Crayon,49,49,52,50.0
+50,INJURE ME,Teni,50,50,50,50.0
+51,Kilofeshe,Zinoleesky,51,51,48,50.0
+52,KPK (Ko Por Ke),Rexxie,52,52,51,51.666666666666664
+53,Okwaraji,Blaqbonez,54,54,55,54.333333333333336
+54,Cash App,Bella Shmurda,56,56,53,55.0
+55,h u n g e r . o n . h i l l s i d e (with Bas),J. Cole,53,53,65,57.0
+56,Verified,LAYCON,58,58,57,57.666666666666664
+57,Way Too Big,Burna Boy,59,59,56,58.0
+58,c l o s e,J. Cole,55,55,68,59.333333333333336
+59,Straightenin,Migos,57,57,64,59.333333333333336
+60,Runaway,AURORA,60,60,61,60.333333333333336
+61,Bank On It,Burna Boy,61,61,59,60.333333333333336
+62,Reckless,WizKid,62,62,58,60.666666666666664
+63,Loco (feat. Mayorkun),KDDO,63,63,60,62.0
+64,Jowo,DaVido,65,65,62,64.0
+65,Leave The Door Open,Bruno Mars,64,64,67,65.0
+66,Outside,Buju,96,96,6,66.0
+67,Abu Dhabi,Ruger,68,68,63,66.33333333333333
+68,Heartbreak Anniversary,Giveon,67,67,69,67.66666666666667
+69,Infinity (feat. Omah Lay),Olamide,69,69,66,68.0
+70,Body,Russ Millions,70,70,73,71.0
+71,Real Life (feat. Stormzy),Burna Boy,72,72,70,71.33333333333333
+72,LET IT GO (feat. Justin Bieber & 21 Savage),DJ Khaled,71,71,72,71.33333333333333
+73,No Stress,WizKid,74,74,71,73.0
+74,Door,Joeboy,73,73,74,73.33333333333333
+75,Longtime (feat. Skepta),WizKid,76,76,75,75.66666666666667
+76,"His & Hers (feat. Don Toliver, Lil Uzi Vert & Gunna)",Internet Money,75,75,78,76.0
+77,Cho Cho,Zlatan,77,77,76,76.66666666666667
+78,Away,Ayra Starr,78,78,80,78.66666666666667
+79,Sweet One,WizKid,81,81,77,79.66666666666667
+80,Beamer Body,KDDO,79,79,82,80.0
+81,RAPSTAR,Polo G,80,80,83,81.0
+82,Koleyewon,Naira Marley,82,82,84,82.66666666666667
+83,Holy Ground (feat. Nicki Minaj),DaVido,83,83,85,83.66666666666667
+84,Loading (feat. Bad Boy Timz),Olamide,86,86,79,83.66666666666667
+85,True Love (feat. Tay Iwar & Projexx),WizKid,84,84,86,84.66666666666667
+86,Mighty Wine,WizKid,88,88,81,85.66666666666667
+87,Calling My Phone,Lil Tjay,85,85,88,86.0
+88,Sere,Remix - Spinall,87,87,93,89.0
+89,Damages,Tems,90,90,90,90.0
+90,"PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",DJ Tunez,91,91,89,90.33333333333333
+91,Ruger,Ruger,92,92,87,90.33333333333333
+92,BBC (feat. Tiwa Savage) [Remix],Blaqbonez,89,89,94,90.66666666666667
+93,Mood Swings (feat. Lil Tjay),Pop Smoke,93,93,91,92.33333333333333
+94,Piece of Me (feat. Ella Mai),WizKid,95,95,92,94.0
+95,World,Alternate Cut - Dangbana Republik,94,94,95,94.33333333333333
+96,Your Body,Mayorkun,97,97,97,97.0
+97,Bad Influence,Omah Lay,99,99,96,98.0
+98,Okay,Adekunle Gold,98,98,98,98.0
+99,Focus Beat Dance,Hagman,66,66,301,144.33333333333334
+100,Onyeka (Baby),Burna Boy,301,301,99,233.66666666666666

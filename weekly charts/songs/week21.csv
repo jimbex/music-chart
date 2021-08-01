@@ -1,0 +1,194 @@
+rank,song,artist,apple,boom,spotify,youtube,RT
+1,Rock,Olamide,2,1,2,3,2
+2,Feeling,"LADIPOE, Buju",1,2,1,4,2
+3,Coming,"Naira Marley, Busiswa",6,7,7,21,10.25
+4,Kilometre,Burna Boy,7,4,8,22,10.25
+5,Forever (Remix),"Gyakie, Omah Lay",10,23,11,6,12.5
+6,La La (feat. Ckay),Davido,17,15,19,8,14.75
+7,Running (To You),"Chike, Simi",24,12,24,1,15.25
+8,Bling (feat. Amaarae & Buju),Blaqbonez,3,24,4,34,16.25
+9,Focus,Joeboy,14,6,15,31,16.5
+10,Show Me,Joeboy,8,10,9,42,17.25
+11,It Is What It Is,Adekunle Gold,16,16,17,27,19
+12,FOR YOU (feat. Davido),Teni,31,17,34,12,23.5
+13,Essence (feat. Tems),Wizkid,9,65,10,11,23.75
+14,Godly,Omah Lay,39,8,40,10,24.25
+15,Somebody Baby,"Davido, Peruzzi",15,33,16,38,25.5
+16,Felony,CKay,12,47,13,32,26
+17,Pronto,"Ajebo Hustlers, Omah Lay",11,58,12,39,30
+18,History (feat. Fireboy DML),"Cheque, Fireboy DML",52,3,53,16,31
+19,Dimension (feat. Skepta & Rema),JAE5,5,94,6,26,32.75
+20,Ke Star (Remix) (feat. Virgo Deep),"Focalistic, Davido",13,91,14,19,34.25
+21,World,"Dangbana Republik, Bella Shmurda",25,42,25,53,36.25
+22,Too Correct,"Crayon, Rema",43,13,42,58,39
+23,23,Burna Boy,34,39,35,50,39.5
+24,High Way,"DJ Kaywise, Phyno",36,64,36,24,40
+25,Outside,Buju,46,9,45,62,40.5
+26,The Best (feat. Mayorkun),Davido,32,59,33,41,41.25
+27,Loved By You (feat. Burna Boy),Justin Bieber,21,74,23,59,44.25
+28,Hallelu (feat. Bella Shmurda & Zlatan),Masterkraft,40,75,39,37,47.75
+29,INJURE ME,Teni,37,26,38,97,49.5
+30,Door,"Joeboy, Kwesi Arthur",58,11,60,70,49.75
+31,Peaches (feat. Daniel Caesar & Giveon),Justin Bieber,30,90,30,54,51
+32,Cash App,"Bella Shmurda, Zlatan, Lincoln",55,80,54,23,53
+33,Koleyewon,Naira Marley,82,35,81,35,58.25
+34,Jowo,Davido,50,87,51,46,58.5
+35,Bounce,Ruger,44,18,325,5,98
+36,"Body (Remix) (feat. ZT (3x3), Fivio Foreign, Buni & ArrDee)","Tion Wayne, Russ Millions",4,400,5,9,104.5
+37,Way Too Big,Burna Boy,49,25,48,300,105.5
+38,Infinity (feat. Omah Lay),Olamide,59,14,59,300,108
+39,Bounce,Rema,23,400,3,15,110.25
+40,Rush,"Dangbana Republik, Bella Shmurda",33,76,32,300,110.25
+41,Ginger (feat. Burna Boy),Wizkid,18,400,20,43,120.25
+42,Southy Love (feat. Fireboy DML),Peruzzi,20,400,22,40,120.5
+43,Bank On It,Burna Boy,51,88,52,300,122.75
+44,a m a r i,J. Cole,22,400,21,51,123.5
+45,Loco (feat. Mayorkun),KDDO,79,41,75,300,123.75
+46,Bad Influence,Omah Lay,74,51,79,300,126
+47,KPK (Ko Por Ke),"Rexxie, MohBad",42,400,43,20,126.25
+48,Real Life (feat. Stormzy),Burna Boy,62,85,62,300,127.25
+49,"PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",DJ Tunez,90,29,90,300,127.25
+50,Verified,Laycon,64,83,63,300,127.5
+51,Loading (feat. Bad Boy Timz),Olamide,88,43,88,300,129.75
+52,KOLO (feat. Oxlade),Ice Prince,26,400,27,69,130.5
+53,Cho Cho,Zlatan,85,53,85,300,130.75
+54,Early Momo (feat. Good Girl LA),Vector,28,400,29,66,130.75
+55,Triumphant (feat. Bella Shmurda),Olamide,102,20,102,300,131
+56,Sere,"Spinall, Fireboy DML, 6LACK",104,22,100,300,131.5
+57,9 5 . s o u t h,J. Cole,35,400,31,82,137
+58,a p p l y i n g . p r e s s u r e,J. Cole,53,400,47,64,141
+59,Kilofese,Zinoleesky,41,400,72,52,141.25
+60,Leave The Door Open,"Bruno Mars, Anderson .Paak, Silk Sonic",60,400,61,74,148.75
+61,Seeing Green,"Nicki Minaj, Drake, Lil Wayne",56,400,50,95,150.25
+62,LET IT GO (feat. Justin Bieber & 21 Savage),DJ Khaled,78,400,77,56,152.75
+63,Ruger,Ruger,70,400,69,73,153
+64,MONTERO (SATAN'S EXTENDED VERSION),Lil Nas X,99,400,99,18,154
+65,Away,Ayra Starr,72,400,71,78,155.25
+66,GANG GANG,"Polo G, Lil Wayne",95,400,95,48,159.5
+67,Straightenin,Migos,100,400,97,61,164.5
+68,Kiss Me More (feat. SZA),Doja Cat,101,400,101,89,172.75
+69,Jehovah Overdo,Chidinma,350,46,325,7,182
+70,Enjoy,Tekno,350,30,325,29,183.5
+71,m y . l i f e (with 21 Savage & Morray),"J. Cole, 21 Savage, Morray",19,400,18,300,184.25
+72,p r i d e . i s . t h e . d e v i l (with Lil Baby),"J. Cole, Lil Baby",27,400,26,300,188.25
+73,Blessed (feat. Damian Marley),Wizkid,29,400,28,300,189.25
+74,If You No Love (feat. Mayorkun),Chike,350,50,325,36,190.25
+75,Abule,Patoranking,350,45,325,44,191
+76,Commitment Issues,Central Cee,38,400,37,300,193.75
+77,Don Dada,Timaya,350,28,325,79,195.5
+78,Okwaraji,Blaqbonez,45,400,44,300,197.25
+79,Fendi (feat. Joeboy),Blaqbonez,48,400,46,300,198.5
+80,Abu Dhabi,Ruger,47,400,49,300,199
+81,Squander,Falz & Niniola,350,38,325,84,199.25
+82,Onyedikagi (feat. Glowrie),Mercy Chinwo,350,99,325,25,199.75
+83,Reckless,Wizkid,54,400,55,300,202.25
+84,Love Like This,Lil Kesh ft Fireboy Dml,350,66,325,71,203
+85,Runaway,AURORA,57,400,57,300,203.5
+86,l e t . g o . m y . h a n d (with Bas & 6LACK),"J. Cole, Bas, 6LACK",61,400,56,300,204.25
+87,i n t e r l u d e,J. Cole,65,400,58,300,205.75
+88,Heartbreak Anniversary,GIVON,63,400,64,300,206.75
+89,No Stress,Wizkid,66,400,66,300,208
+90,Longtime (feat. Skepta),Wizkid,67,400,67,300,208.5
+91,1 0 0 . m i l (with Bas),"J. Cole, Bas",71,400,65,300,209
+92,Sweet One,Wizkid,69,400,70,300,209.75
+93,True Love (feat. Tay Iwar & Projexx),Wizkid,73,400,73,300,211.5
+94,Holy Ground (feat. Nicki Minaj),Davido,76,400,74,300,212.5
+95,RAPSTAR,Polo G,77,400,76,300,213.25
+96,Mighty Wine,Wizkid,75,400,78,300,213.25
+97,p u n c h i n . t h e . c l o c k,J. Cole,94,400,68,300,215.5
+98,Calling My Phone,"Lil Tjay, 6LACK",81,400,82,300,215.75
+99,Damages,Tems,83,400,84,300,216.75
+100,Mood Swings (feat. Lil Tjay),Pop Smoke,84,400,83,300,216.75
+101,Piece of Me (feat. Ella Mai),Wizkid,87,400,86,300,218.25
+102,Onyeka (Baby),Burna Boy,86,400,87,300,218.25
+103,Beamer Body,"KDDO, Davido",89,400,89,300,219.5
+104,Your Body,Mayorkun,91,400,91,300,220.5
+105,BBC (feat. Tiwa Savage) [Remix],Blaqbonez,92,400,92,300,221
+106,Okay,Adekunle Gold,93,400,93,300,221.5
+107,t h e . c l i m b . b a c k,J. Cole,96,400,94,300,222.5
+108,h u n g e r . o n . h i l l s i d e (with Bas),"J. Cole, Bas",97,400,96,300,223.25
+109,c l o s e,J. Cole,98,400,98,300,224
+110,Smile (feat. H.E.R.),Wizkid,103,400,103,300,226.5
+111,Money,"Terri, Bella Shmurda, MohBad",105,400,104,300,227.25
+112,Freaky,Hotkid,109,400,106,300,228.75
+113,OLOFOFO,Victor AD,350,5,325,300,245
+114,Can\'t Relate,Omah Lay,350,19,325,300,248.5
+115,Focus Vibe,Slimcase,350,21,325,300,249
+116,My Bebe,Omah Lay,350,27,325,300,250.5
+117,You,Omah Lay,350,31,325,300,251.5
+118,Dick Appointment,Erigga,350,32,325,300,251.75
+119,Champion ft. D Smoke,Fireboy DML,350,34,325,300,252.25
+120,Faithful God (Live),Onos,350,37,325,300,253
+121,Hallelujah Challenge Praise Medley,Nathaniel Bassey,350,40,325,300,253.75
+122,GAT ME SINGING,Luddy Dave,350,44,325,300,254.75
+123,Many Nites,Erigga,350,48,325,300,255.75
+124,You I Live For,Moses Bliss,350,49,325,300,256
+125,Sugar Daddy ft. Olamide,Dj Enimoney,350,52,325,300,256.75
+126,Lonely,Joeboy,350,54,325,300,257.25
+127,Baba Fela (Remix) ft. Laycon & Zlatan,Mr Real,350,55,325,300,257.5
+128,"Bossy Part II ft. Erica Banks, Kida Kudz, Cuppy & Amaarae",WurlD,350,56,325,300,257.75
+129,Capable God,Judikay,350,57,325,300,258
+130,Lagos Anthem,Zlatan,350,60,325,300,258.75
+131,Aye,Naira Marley,350,61,325,300,259
+132,Pempe ft. Yemi Alade,Seyi Shay,350,62,325,300,259.25
+133,Confession,Omah Lay,350,67,325,300,260.5
+134,Your Love ft. Tope Alabi,Steve Crown,350,68,325,300,260.75
+135,Jackpot ft. Bella Shumurda,Crayon,350,69,325,300,261
+136,Know Person,Sean Tizzle,350,70,325,300,261.25
+137,Damn ft. 6Lack,Omah Lay,350,71,325,300,261.5
+138,Breathe ft. Chike,,350,72,325,300,261.75
+139,What A Mighty God ft. Nathaniel Bassey,Steve Crown,350,73,325,300,262
+140,Lo Lo,Omah Lay,350,77,325,300,263
+141,Adura ft. Mohbad,Bella Shmurda,350,78,325,300,263.25
+142,Ori,Barry Jhay,350,81,325,300,264
+143,"I Love You ft. Teni, Simi & Tamar Braxton",Mr. P,350,82,325,300,264.25
+144,Call,Joeboy,350,84,325,300,264.75
+145,If E Happen For Lagos,Runtown,350,89,325,300,266
+146,Wahala Dey,Erigga,350,92,325,300,266.75
+147,Roju,Chike,350,93,325,300,267
+148,Lole,Kendickson,350,95,325,300,267.5
+149,Ego ft. Jeriq,Dremo,350,96,325,300,267.75
+150,Too Faithful,Moses Bliss,350,98,325,300,268.25
+151,Ball Till We Fall ft. Bella Shmurda,Kida Kudz,350,100,325,300,268.75
+152,Butter,BTS,350,400,325,2,269.25
+153,Sai dake,Hamisu Breaker,350,400,325,13,272
+154,SUN GOES DOWN,Lil Nas X,350,400,325,14,272.25
+155,Kilofeshe,Zinoleesky,350,400,41,300,272.75
+156,jennifer,Guchi,350,400,325,17,273
+157,In My Maserati,Olakira,350,400,325,28,275.75
+158,Olorun Agbaye(feat. Chandler Moore & OBA),NATHANIEL BASSEY,350,400,325,30,276.25
+159,STUNNAMAN (feat. Lil Wayne),Birdman & Roddy Ricch,350,400,325,33,277
+160,Omo Ologo,Lil frosh & Zinoleesky,350,400,325,45,280
+161,Bigger Everyday,"Moses Bliss, Festizie, Membrane, Uwa, Chris Heavens & Temple",350,400,325,47,280.5
+162,Jireh (feat. Chandler Moore & Naomi Raine),Maverick City Music & Elevation Worship,350,400,325,49,281
+163,Save Your Tears,The Weeknd,350,400,325,55,282.5
+164,Music Messiah,"DJ Neptune, Wande Coal",106,400,325,300,282.75
+165,Ayewada,Barry Jhay,107,400,325,300,283
+166,Dama (feat. Hamisu Breaker),Namenj,350,400,325,57,283
+167,This Your Body,"Skales, Davido",108,400,325,300,283.25
+168,Gifted,NeeQah,350,400,325,60,283.75
+169,Build a Bitch,Bella Poarch,350,400,325,63,284.5
+170,Good Woman,Flavour,350,400,325,65,285
+171,Congratulations (feat. Buchi),Ada Ehi,350,400,325,67,285.5
+172,"Are You Sure (feat. Emo Grae, Naira Marley & Zinoleesky)",Lyta,350,400,325,68,285.75
+173,Danca,Acebergtm,350,400,325,72,286.75
+174,Ameno,Era,350,400,325,75,287.5
+175,Up,Cardi B,350,400,325,76,287.75
+176,Million Little Miracles (feat. Joe L Barnes),Elevation Worship & Maverick City Music,350,400,325,77,288
+177,Wait On You (feat. Dante Bowe & Chandler Moore),Elevation Worship & Maverick City Music,350,400,325,80,288.75
+178,"His & Hers (feat. Don Toliver, Lil Uzi Vert & Gunna)",Internet Money,350,400,105,300,288.75
+179,At My Worst,tPink Sweat$,350,400,325,81,289
+180,MERCY CHINWO AND CHIOMA JESUS PERFORMING ONEMMENMA LIVE ON STAGE AT AMANATOR 2021 PRAISE CRUSADE,Chioma Jesus,350,400,325,83,289.5
+181,Yadda Kunne Yaji,Hamisu Breaker,350,400,325,85,290
+182,Dynamite,BTS,350,400,325,86,290.25
+183,Olorun Mi,Tim Godfrey,350,400,325,87,290.5
+184,GANI A SO,OZainab Ambato,350,400,325,88,290.75
+185,Everything (Amen),Timi Dakolo,350,400,325,90,291.25
+186,"SORRY NOT SORRY (Harmonies by The Hive) (feat. Nas, JAY-Z & James Fauntleroy)",DJ Khaleed,350,400,325,91,291.5
+187,Maybach (feat. Future),42 Dugg,350,400,325,92,291.75
+188,Cialde,Zero Assoluto,350,400,325,93,292
+189,Exotic,Korexx,350,400,325,94,292.25
+190,Z Look Jamaican,Kodak Black,350,400,325,96,292.75
+191,Astronaut In The Ocean,Masked Wolf,350,400,325,98,293.25
+192,You're Welcome,Dwayne Johnson,350,400,325,99,293.5
+193,Nesesari (feat. Philkeyz),Kizz Daniel,350,400,325,100,293.75

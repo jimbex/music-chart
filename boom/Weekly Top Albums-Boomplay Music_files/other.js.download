@@ -1,0 +1,139 @@
+/**
+ * Project: WebPlayer
+ * CreateDate: 2020-04-26 00时17分
+ * Company: TRANSSION - TRANSSNET Music
+ * @version 3.0.0
+ * @author MingxingLuo or CalmLuo Email: 1281167683@qq.com
+ */
+
+/* 第三方 */
+$(document).on({
+    click: function () {
+        FB.login(function (response) {
+            // FB.getLoginStatus(function (response) {
+            if (response.status === 'connected') {
+                FB.api('/me', function (response) {
+                    var fkName = response.name;
+                    var account = response.id;
+                    //console.log(fkName);
+                    //console.log(response);
+
+                    lhx.dialog.loading.show();
+                    $.ajax({
+                        url: config.basePath + "/snsAuth",
+                        type: 'post',
+                        data: {account: account, name: fkName, accountType: "byFK"},
+                        dataType: 'json',
+                        success: function (data) {
+
+                            console.log(data);
+                            if (data.code === "success") {
+                                lhx.favouritesPage.parse(data.favorite);
+                                lhx.myPlaylists.parse(data.myPlaylists);
+                                location.reload();
+                            } else {
+                                lhx.dialog.toast.show(data.desc || "");
+                                lhx.dialog.loading.close();
+                            }
+                        },
+                        error: function () {
+                            lhx.dialog.loading.close();
+                            lhx.dialog.toast.show(config.error.network);
+                        }
+                    });
+                });
+            } else {
+                lhx.dialog.toast.show("Failed!");
+            }
+            //});
+        }, {scope: 'email,public_profile'});
+    }
+}, ".pop_logInSignUp .facebook");
+
+
+$(document).on({
+    click: function () {
+        hello.init({twitter: config.other.twitterId}, {
+            redirect_uri: config.other.snsLoginCallback_twitter
+        });
+        hello('twitter').login().then(function () {
+            hello('twitter').api('me').then(function (json) {
+                var account = json.id;
+                var name = json.name;
+
+                lhx.dialog.loading.show();
+                $.ajax({
+                    url: config.basePath + "/snsAuth",
+                    type: 'post',
+                    data: {account: account, name: name, accountType: "byTW"},
+                    dataType: 'json',
+                    success: function (data) {
+                        console.log(data);
+                        if (data.code === "success") {
+                            lhx.favouritesPage.parse(data.favorite);
+                            lhx.myPlaylists.parse(data.myPlaylists);
+                            location.reload();
+                        } else {
+                            lhx.dialog.toast.show(data.desc || "");
+                            lhx.dialog.loading.close();
+                            lhx.dialog.toast.show(config.error.network);
+                        }
+                    },
+                    error: function () {
+                        lhx.dialog.loading.close();
+                    }
+                });
+            }, function (e) {
+                lhx.dialog.toast.show(e.error.message);
+            });
+        }, function (e) {
+            lhx.dialog.toast.show(e.error.message);
+        });
+    }
+}, ".pop_logInSignUp .twitter");
+
+
+$(document).on({
+    click: function () {
+        hello.init({google: config.other.googleId}, {
+            redirect_uri: config.other.snsLoginCallback,
+            scopes: 'email,profile'
+        });
+        hello('google').login().then(function () {
+            hello('google').api('me').then(function (json) {
+                var account = json.id;
+                var name = json.name;
+
+                console.log(account);
+                console.log(name);
+
+                lhx.dialog.loading.show();
+                $.ajax({
+                    url: config.basePath + "/snsAuth",
+                    type: 'post',
+                    data: {account: account, name: name, accountType: "byGO"},
+                    dataType: 'json',
+                    success: function (data) {
+                        console.log(data);
+                        if (data.code === "success") {
+                            lhx.favouritesPage.parse(data.favorite);
+                            lhx.myPlaylists.parse(data.myPlaylists);
+                            location.reload();
+                        } else {
+                            lhx.dialog.toast.show(data.desc || "");
+                            lhx.dialog.loading.close();
+                        }
+                    },
+                    error: function () {
+                        lhx.dialog.loading.close();
+                        lhx.dialog.toast.show(config.error.network);
+                    }
+                });
+            }, function (e) {
+                lhx.dialog.toast.show(e.error.message);
+            });
+        }, function (e) {
+            lhx.dialog.toast.show(e.error.message);
+        });
+    }
+}, ".pop_logInSignUp .google");

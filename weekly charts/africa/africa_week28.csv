@@ -1,0 +1,193 @@
+rank,song,artist,apple,boom,spotify,deezer,RT
+1,Feeling,"LADIPOE, Buju",6,8,2,2,4.5
+2,Understand,Omah Lay,5,3,3,17,7.0
+3,Bounce,Ruger,9,32,14,1,14.0
+4,Kamata,Diamond Platnumz,56,4,8,9,19.25
+5,Kilometre,Burna Boy,30,19,13,26,22.0
+6,Running (To You),"Chike, Simi",68,15,18,18,29.75
+7,Forever (Remix),"Gyakie, Omah Lay",64,36,16,4,30.0
+8,Coming,"Naira Marley, Busiswa",36,44,12,28,30.0
+9,Slow Down,King Promise,7,64,41,16,32.0
+10,Soundgasm,Rema,10,250,5,3,67.0
+11,Essence (feat. Tems),Wizkid,4,250,1,15,67.5
+12,Big Thug Boys,AV,26,13,225,12,69.0
+13,Outside,Buju,3,52,225,13,73.25
+14,Rock,Olamide,11,250,17,25,75.75
+15,Coachella,"Sarkodie, Kwesi Arthur",55,11,225,14,76.25
+16,FOR YOU,Teni,58,31,225,8,80.5
+17,History,"Cheque, Fireboy DML",66,22,225,31,86.0
+18,Sinner,"Adekunle Gold, Lucky Daye",28,78,7,270,95.75
+19,Somebody (feat. Phyno),Olamide,23,75,48,270,104.0
+20,Infinity,Olamide,200,14,225,5,111.0
+21,Godly,Omah Lay,200,10,225,24,114.75
+22,Banyana,"DJ Maphorisa, Sir Trill, Daliwonga, Kabza De Small",200,250,4,19,118.25
+23,Vibration,Sarkodie,200,40,225,22,121.75
+24,Mood,Mr Drew,200,42,225,21,122.0
+25,Bad Influence,Omah Lay,200,59,225,7,122.75
+26,Door,Joeboy,200,21,6,270,124.25
+27,"Ndombolo (feat. AbduKiba, K2ga & Tommy Flavour)",Alikiba,200,12,15,270,124.25
+28,LV N ATTN feat. Wizkid,Lojay,200,250,25,23,124.5
+29,Nobody,Anjella,200,34,225,46,126.25
+30,Focus,Joeboy,200,24,19,270,128.25
+31,Nimekuzoea,Nandy,17,2,225,270,128.5
+32,Bling (feat. Amaarae & Buju),Blaqbonez,8,250,225,32,128.75
+33,Baikoko,Mbosso,200,7,40,270,129.25
+34,KPK (Ko Por Ke),Rexxie,200,250,26,45,130.25
+35,It Is What It Is,Adekunle Gold,40,250,225,10,131.25
+36,Touch It,KiDi,200,17,38,270,131.25
+37,Show Me,Joeboy,18,18,225,270,132.75
+38,Siyathandana,Cassper Nyovest,20,250,9,270,137.25
+39,Felony,CKay,50,250,225,33,139.5
+40,Dimension (feat. Skepta & Rema),JAE5,32,250,10,270,140.5
+41,Send Me Nudes (feat. Joey B),KiDi,200,82,20,270,143.0
+42,Somebody Baby,"Davido, Peruzzi",65,250,225,36,144.0
+43,Yaba Buluku (feat. Preck & Nelson Tivane),"DJ Tarico, Burna Boy",34,250,27,270,145.25
+44,"Y3 Y3 DOM ft. Skyface SDW, Reggie, Kwaku DMC, City Boy & Kawabanga",Jay Bahd,60,27,225,270,145.5
+45,Confident,"Savage, Buju",39,250,28,270,146.75
+46,Medicine,Jaywillz,38,55,225,270,147.0
+47,Celebrate Me,Patoranking,200,98,23,270,147.75
+48,Niko Sawa,Nviiri The Storyteller,46,250,39,270,151.25
+49,Kilofese,Zinoleesky,71,250,22,270,153.25
+50,GUPTA,"Focalistic, Mr JazziQ",61,250,36,270,154.25
+51,John Wick,De Mthuda,62,250,42,270,156.0
+52,Nossas Coisas (feat. Ary),C4 pedro,75,250,37,270,158.0
+53,Ex,Nikita Kering,42,97,225,270,158.5
+54,Le temps,Tayc,41,100,225,270,159.0
+55,Dollar On You,Kuami Eugene,77,65,225,270,159.25
+56,Khuza Gogo,"DBN Gogo, Blaqnick, MasterBlaq",72,250,45,270,159.25
+57,Maserati (Remix),"Olakira, DaVido",200,250,225,6,170.25
+58,Damages,Tems,200,250,225,11,171.5
+59,Baby I'm Jealous,"Mr Eazi, emPawa Africa, King Promise",200,250,225,20,173.75
+60,Such Kinda Love ft. Jovial,Otile Brown,200,1,225,270,174.0
+61,Nyumba Ndogo,Zuchu,200,5,225,270,175.0
+62,Jennifer (Remix) ft. Rayvanny,GUCHI,200,6,225,270,175.25
+63,Activate,"Stonebwoy, DaVido",200,250,225,27,175.5
+64,AG Baby,"Adekunle Gold, Nailah Blackman",200,250,225,29,176.0
+65,Salute (feat. Rudeboy),Alikiba,200,9,225,270,176.0
+66,Ke Star (Remix),"Focalistic, DaVido, Virgo Deep",200,250,225,30,176.25
+67,Summeryomuthi,Blaq Diamond,200,250,225,34,177.25
+68,23,Burna Boy,200,250,225,35,177.5
+69,Sukari,Zuchu,200,16,225,270,177.75
+70,Hallelu,"Masterkraft, Bella Shmurda, Zlatan",200,250,225,37,178.0
+71,Woman,Rema,200,250,225,38,178.25
+72,Joro,Wizkid,200,250,225,39,178.5
+73,Away,Ayra Starr,200,250,225,40,178.75
+74,Jeraha ft. Jovial,Otile Brown,200,20,225,270,178.75
+75,The Best (feat. Mayorkun),"DaVido, Mayorkun",200,250,225,41,179.0
+76,MAD,"Sarz, WurlD",200,250,225,42,179.25
+77,Number One ft. Zuchu,Rayvanny,200,23,225,270,179.5
+78,Ginger (feat. Burna Boy),"Wizkid, Burna Boy",200,250,225,43,179.5
+79,Baajo,"Kwesi Arthur, Joeboy",200,250,225,44,179.75
+80,Sandakalawe,Harmonize,200,25,225,270,180.0
+81,E Choke ft. Mr Drew,Sefa,200,26,225,270,180.25
+82,Pronto,"Ajebo Hustlers, Omah lay",200,250,225,47,180.5
+83,Kilofeshe,Zinoleesky,200,250,225,48,180.75
+84,Enfant de Dieu ( L\xe2\x80\x99hymne national),Ks bloom,200,28,225,270,180.75
+85,Yalaah,Mbosso,200,29,225,270,181.0
+86,Again,Wande Coal,200,250,225,49,181.0
+87,Champion,"Fireboy Dml, D Smoke",200,250,225,50,181.25
+88,Adom Grace,Diana Hamilton,200,30,225,270,181.25
+89,Abule,Patoranking,200,33,225,270,182.0
+90,Mtaalam,Mbosso,200,35,225,270,182.5
+91,MOSLADO,Teni,200,250,11,270,182.75
+92,Biibi Besi ft. Kuami Eugene,Kwame Yogot,200,37,225,270,183.0
+93,Tabia Za Wakenya (Kanairo),Mejja,200,38,225,270,183.25
+94,Mwisho,Killy (TZ),200,39,225,270,183.5
+95,Najieka,Jay Melody,200,41,225,270,184.0
+96,Cheche ft. Diamond Platnumz,Zuchu,200,43,225,270,184.5
+97,Need For Speed,Olamide,200,45,225,270,185.0
+98,La Mour,KS Bloom,200,46,225,270,185.25
+99,Falling For U,Blaq Jerzee,200,250,21,270,185.25
+100,Mon soleil ft. Anitta,Dadju,200,47,225,270,185.5
+101,Cheketua ,Barnaba Classic  (TZ),200,48,225,270,185.75
+102,Lala ft. Jux,Rayvanny,200,49,225,270,186.0
+103,Music Messiah,DJ Neptune,200,250,24,270,186.0
+104,You Are Yahweh,Steve Crown,200,50,225,270,186.25
+105,Happy Day ft. Kuami Eugene,Sarkodie,200,51,225,270,186.5
+106,Tycoon (feat. Reminisce & MOJO),Show Dem Camp,1,250,225,270,186.5
+107,Far Away,"Dangbana Republik, Bella Shmurda",2,250,225,270,186.75
+108,"Congratulations ft, Buchi",Ada Ehi,200,53,225,270,187.0
+109,Regina ft. Jux,Otile Brown,200,54,225,270,187.25
+110,Dinaledi,Major League Djz,200,250,29,270,187.25
+111,Let Dem Kno,Smallgod,200,250,30,270,187.5
+112,New Couple,Nandy,200,56,225,270,187.75
+113,Koroba,Tiwa Savage,200,250,31,270,187.75
+114,In Love ft. AliKiba,Otile Brown,200,57,225,270,188.0
+115,This Your Body,Skales,200,250,32,270,188.0
+116,Breakup Riddim,DJ Aroma,200,250,33,270,188.25
+117,Dusuma ft. Meddy,Otile Brown,200,58,225,270,188.25
+118,Yebo Teacher,Moonchild Sanelly,200,250,34,270,188.5
+119, Litawachoma ft. Diamond Platnumz,Zuchu,200,60,225,270,188.75
+120,Bosana,El Mukuka,200,250,35,270,188.75
+121,Vibaya,Harmonize,200,61,225,270,189.0
+122,Bobo,Aya Nakamura,12,250,225,270,189.25
+123,Peaches (Masterkraft Remix) ft. Alpha P & Omah Lay,Justin Bieber,200,62,225,270,189.25
+124,Money & Laughter,"BOJ, Zamir, Amaarae",13,250,225,270,189.5
+125,Capable God,Judikay,200,63,225,270,189.5
+126,MY FAVOURITE SONG (feat. Shekhinah),Tshego,14,250,225,270,189.75
+127,Shopping Spree (feat. Chris Brown & Young Thug),Davido,15,250,225,270,190.0
+128,Kiss Me,Mbosso,200,66,225,270,190.25
+129,Pololo (feat. Tiakola),MHD,16,250,225,270,190.25
+130,Roho,Killy (TZ),200,67,225,270,190.5
+131,Nikomeshe,Lava Lava,200,68,225,270,190.75
+132,Meliza,DJ Flex,200,250,43,270,190.75
+133,Jowo,DaVido,200,250,44,270,191.0
+134,Omemma ((Live)),Judikay,200,69,225,270,191.0
+135,Monalisa,"Lojay, Sarz",19,250,225,270,191.0
+136,Guuy,Jeeba,200,70,225,270,191.25
+137,Fake Ex,Yaw Tog,200,71,225,270,191.5
+138,Denzel Washington (feat. Lannie Billion) [Radio Edit],"King Zeph, Deep Sen, K Sugah",21,250,225,270,191.5
+139,Woza,Mr JazziQ,200,250,46,270,191.5
+140,PEPE,L.A.X,200,250,47,270,191.75
+141,Sore (Remix) (Remix) ft. Stormzy & Kwesi Arthur,Yaw Tog,200,72,225,270,191.75
+142,Jack,Nasty C,22,250,225,270,191.75
+143,Sekkle & Bop (feat. Popcaan),Mr Eazi,200,250,49,270,192.25
+144,Hold,Blxckie,24,250,225,270,192.25
+145,M\'a Ngui Baxx,Dieyla Gueye,200,74,225,270,192.25
+146,Sweet Escape,Mizzle,25,250,225,270,192.5
+147,Testimony,Buju,200,250,50,270,192.5
+148,AGYEIWAA ft. Reggie & City Boy,O\'Kenneth,200,76,225,270,192.75
+149,Fine Wine (feat. King Promise & Joeboy),R2Bees,27,250,225,270,193.0
+150,Rotate (Freestyle),Mr Eazi,200,77,225,270,193.0
+151,You,Omah Lay,200,79,225,270,193.5
+152,All (feat. Davido),Rexxie,29,250,225,270,193.5
+153,Fall,Mbosso,200,80,225,270,193.75
+154,One Time (feat. Reekado Banks),Moelogo,31,250,225,270,194.0
+155,"LiYoshona (feat. Njelic, MalumNator & De Mthuda) [Main Mix]",Kwiish SA,33,250,225,270,194.5
+156,Odi Love ft. Klons Melody,Willy Paul,200,83,225,270,194.5
+157,Too Faithful,Moses Bliss,200,84,225,270,194.75
+158,Southy Love (feat. Fireboy DML),Peruzzi,35,250,225,270,195.0
+159,Like I Do,Fireboy DML,200,85,225,270,195.0
+160,Golden Boy,KiDi,200,86,225,270,195.25
+161,Asambeni,"Oscar Mbo, C-Blak",37,250,225,270,195.5
+162,Call,Joeboy,200,88,225,270,195.75
+163,Ama,Medikal,200,89,225,270,196.0
+164,OLOFOFO,Victor AD,200,90,225,270,196.25
+165,Attitude ft. Awilo Longomba & H Baba,Harmonize,200,91,225,270,196.5
+166,Bia,Phyno,200,92,225,270,196.75
+167,"Dangerous Love (feat. Mugeez, Efya & R2Bees)",Omar Sterling,43,250,225,270,197.0
+168,Damn,Omah Lay,200,93,225,270,197.0
+169,Rise of the Underdogs 2 (feat. Tomi Thomas),Show Dem Camp,44,250,225,270,197.25
+170,Omwoyo,Liam Voice,200,94,225,270,197.25
+171,Waah! ft. Koffi Olomide,Diamond Platnumz,200,95,225,270,197.5
+172,I Want (feat. Mutoriah),Chris Kaiga,45,250,225,270,197.5
+173,Lo Lo,Omah Lay,200,96,225,270,197.75
+174,"Africa, One Of A Kind","Angelique Kidjo, Mr Eazi, Salif Keita",47,250,225,270,198.0
+175,Verified (feat. Mayorkun),Laycon,48,250,225,270,198.25
+176,Ngilimele (feat. Q Twins),DJ Tira,49,250,225,270,198.5
+177,Can\'t Relate,Omah Lay,200,99,225,270,198.5
+178,Early Momo (feat. GoodGirl LA),Vector,51,250,225,270,199.0
+179,Baby Go,"Otile Brown, Kizz Daniel",52,250,225,270,199.25
+180,Bank Notification (feat. Madumane),"Ciza, DJ Maphorisa",53,250,225,270,199.5
+181,Ba Xolele (feat. Guyu Pane & YoungStunner) [729 Street Vocal],Dzo 729,54,250,225,270,199.75
+182,Weekend,Eddy Kenzo,57,250,225,270,200.5
+183,NDOVU NI KUU (feat. KHALIGRAPH JONES & BOUTROSS MUNENE),arcane krispah,59,250,225,270,201.0
+184,"Umsebenzi Wethu (feat. Zuma, Mr JazziQ, Lady Du & Reece Madlisa)","Busta 929, Mpura",63,250,225,270,202.0
+185,LEGGO,"Serge Ibaka, Tayc",67,250,225,270,203.0
+186,Je veux que toi (feat. Fally Ipupa),Bramsito,69,250,225,270,203.5
+187,"Samsokolo (feat. Mr JazziQ, Sir Trill, ThackzinDJ & Boohle) [Radio Edit]","Tee Jay, Rascoe Kaos",70,250,225,270,203.75
+188,Questions,Shekhinah,73,250,225,270,204.5
+189,Sere (Remix),"Spinall, Fireboy DML, 6LACK",74,250,225,270,204.75
+190,Long Way,Emtee,76,250,225,270,205.25
+191,Un coup (feat. Dadju),Fally Ipupa,78,250,225,270,205.75
+192,La Vie Est Belle,"Kabza De Small, DJ Maphorisa, TRESOR",80,250,225,270,206.25

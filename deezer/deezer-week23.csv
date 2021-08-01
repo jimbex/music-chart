@@ -1,0 +1,140 @@
+rank,song,artist,R1,R2,R3,R4,R5,R6,R7,RT
+1,Feeling,"LADIPOE, Buju",1,1,1,1,1,1,2,1.142857143
+2,Bounce,Ruger,3,2,2,3,2,3,3,2.571428571
+3,Rock,Olamide,2,3,3,2,3,2,4,2.714285714
+4,Bling (feat. Amaarae & Buju),"Blaqbonez, amaarae, Buju",5,4,5,4,5,5,6,4.857142857
+5,Outside,Buju,11,6,4,5,4,4,5,5.571428571
+6,Dimension (feat. Skepta & Rema),"Jae5, Skepta, Rema",4,5,6,6,7,7,7,6
+7,Coming,"Naira Marley, Busiswa",7,8,7,7,6,6,9,7.142857143
+8,Forever (Remix),"Gyakie, Omah lay",8,10,10,8,9,8,10,9
+9,Felony,CKay,6,7,11,9,10,9,13,9.285714286
+10,Essence (feat. Tems),"Wizkid, Tems",10,9,8,10,8,10,11,9.428571429
+11,Ke Star (Remix),"Focalistic, DaVido, Virgo Deep",13,13,15,12,11,11,16,13
+12,Bounse,Rema,12,15,14,13,13,13,15,13.57142857
+13,LV N ATTN feat. Wizkid,"Lojay, Sarz, Wizkid",9,11,12,15,21,24,14,15.14285714
+14,Oliver Twist,ArrDee,14,12,9,11,12,23,28,15.57142857
+15,"Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo]","Tion Wayne, Russ Millions, ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign, Darkoo",15,16,16,14,18,12,19,15.71428571
+16,Kilometre,Burna Boy,19,20,18,20,16,15,21,18.42857143
+17,Pronto,"Ajebo Hustlers, Omah lay",20,18,20,17,14,19,25,19
+18,It Is What It Is,Adekunle Gold,18,29,21,16,22,16,17,19.85714286
+19,History,"Cheque, Fireboy Dml",25,14,25,22,19,14,26,20.71428571
+20,Hallelu,"Masterkraft, Bella Shmurda, Zlatan",24,26,24,18,15,17,23,21
+21,FOR YOU,"Teni, DaVido",21,24,26,24,20,18,24,22.42857143
+22,Loved By You,"Justin Bieber, Burna Boy",27,21,23,19,26,21,22,22.71428571
+23,Late At Night,Roddy Ricch,17,23,13,27,17,33,31,23
+24,Somebody Baby,"Peruzzi, DaVido",22,22,22,21,28,22,27,23.42857143
+25,Show Me,Joeboy,28,28,17,29,24,20,35,25.85714286
+26,Infinity,"Olamide, Omah lay",26,25,33,26,27,25,33,27.85714286
+27,Voice of the Heroes,"Lil Baby, Lil Durk",16,17,19,31,34,30,51,28.28571429
+28,Kilofeshe,Zinoleesky,31,31,30,25,25,27,30,28.42857143
+29,Focus,Joeboy,30,27,31,23,23,29,42,29.28571429
+30,Running (To You),"Chike, Simi",29,32,29,30,30,26,34,30
+31,Peaches,"Justin Bieber, Daniel Caesar, Giveon",32,30,28,33,29,28,36,30.85714286
+32,Tonongo,"Lojay, Sarz",23,19,27,32,32,41,45,31.28571429
+33,KPK (Ko Por Ke),"Rexxie, MohBad",33,33,34,34,33,31,40,34
+34,MONTERO (Call Me By Your Name),Lil Nas X,35,36,32,28,31,32,53,35.28571429
+35,KOLO (feat. Oxlade),"Ice Prince, Oxlade",34,35,36,36,38,34,41,36.28571429
+36,a m a r i,J. Cole,36,37,37,35,35,36,44,37.14285714
+37,RAPSTAR,POLO G,37,44,38,40,52,43,8,37.42857143
+38,The Best (feat. Mayorkun),"DaVido, Mayorkun",43,39,43,44,40,37,38,40.57142857
+39,LET IT GO (feat. Justin Bieber & 21 Savage),"DJ Khaled, 21 Savage, Justin Bieber",49,38,35,41,42,35,46,40.85714286
+40,Ginger (feat. Burna Boy),"Wizkid, Burna Boy",42,43,40,38,41,40,54,42.57142857
+41,Godly,Omah lay,41,40,45,42,37,38,55,42.57142857
+42,23,Burna Boy,51,51,42,46,36,39,39,43.42857143
+43,Commitment Issues,Central Cee,46,45,41,37,47,42,58,45.14285714
+44,Monalisa,"Lojay, Sarz",39,42,47,48,48,46,50,45.71428571
+45,Cash App,"Bella Shmurda, Zlatan, Lincoln",44,47,46,39,44,48,60,46.85714286
+46,Runaway,AURORA,48,58,56,43,39,44,61,49.85714286
+47,Rush,"Dangbana Rebublik, Bella Shmurda",45,53,48,47,51,50,67,51.57142857
+48,Heartbreak Anniversary,Giveon,52,48,39,54,60,56,57,52.28571429
+49,World,"Dangbana Republik, Bella Shmurda",59,52,67,53,43,47,59,54.28571429
+50,Cho Cho,"Zlatan, DaVido, Mayorkun",54,50,64,49,49,45,73,54.85714286
+51,Astronaut In The Ocean,Masked Wolf,63,41,44,50,56,51,79,54.85714286
+52,Away,Ayra Starr,53,49,55,57,46,52,74,55.14285714
+53,Calling My Phone,"Lil Tjay, 6lack",61,55,53,56,55,49,71,57.14285714
+54,Money,"Terri, Bella Shmurda, MohBad",65,60,49,62,50,59,65,58.57142857
+55,m y . l i f e,"J. Cole, 21 Savage, Morray",40,56,52,65,58,58,89,59.71428571
+56,Koleyewon,Naira Marley,60,69,58,51,53,55,78,60.57142857
+57,Fendi (feat. Joeboy),"Blaqbonez, Joeboy",62,67,60,60,54,60,69,61.71428571
+58,Blessed (feat. Damian Marley),"Wizkid, Damian Marley",69,59,69,52,62,54,68,61.85714286
+59,La La (feat. Ckay),"DaVido, CKay",66,54,61,58,59,53,83,62
+60,Park O X3,"Lojay, Sarz",47,34,57,59,68,84,91,62.85714286
+61,p r i d e . i s . t h e . d e v i l,"J. Cole, Lil Baby",55,65,54,66,65,62,88,65
+62,Music Messiah,"DJ Neptune, Wande Coal",67,70,68,64,63,57,81,67.14285714
+63,ROCKSTAR,"DaBaby, Roddy Ricch",58,74,62,63,64,70,84,67.85714286
+64,Damages,Tems,70,68,73,55,57,66,87,68
+65,Leave The Door Open,"Bruno Mars, Anderson .Paak, Silk Sonic",68,77,71,67,61,61,86,70.14285714
+66,Ruger,Ruger,75,62,72,78,72,74,92,75
+67,Abu Dhabi,Ruger,81,81,63,68,71,72,93,75.57142857
+68,Southy Love,"Peruzzi, Fireboy Dml",80,83,75,70,66,69,94,76.71428571
+69,Straightenin,Migos,96,100,83,90,92,85,20,80.85714286
+70,Lemonade,"Internet money, Gunna, Don Toliver, NAV",84,73,85,72,81,78,97,81.42857143
+71,This Your Body,"Skales, DaVido",74,93,79,89,67,82,100,83.42857143
+72,Flex,Kizz Daniel,89,94,84,79,77,77,85,83.57142857
+73,Early Momo,"Vector, Good girl LA",57,61,50,45,45,64,301,89
+74,Hats Off,"Lil Baby, Lil Durk, Travis Scott",56,46,51,61,69,63,301,92.42857143
+75,All My Life (feat. Oxlade),"M.I Abaga, Oxlade",38,72,59,94,301,75,80,102.7142857
+76,Panty!,"Lojay, Sarz",50,66,74,69,74,97,301,104.4285714
+77,Dior,Pop Smoke,72,76,78,71,73,71,301,106
+78,2040,"Lil Baby, Lil Durk",64,64,77,80,89,80,301,107.8571429
+79,Rich Off Pain,"Lil Baby, Lil Durk, Rod Wave",78,57,66,82,90,83,301,108.1428571
+80,Wow,Tion Wayne,82,75,70,81,75,76,301,108.5714286
+81,Sere (Remix),"Spinall, Fireboy Dml, 6lack",76,87,88,73,70,67,301,108.8571429
+82,Champion,"Fireboy Dml, D Smoke",87,85,96,75,79,65,301,112.5714286
+83,Don Dada,Timaya,90,82,94,76,80,73,301,113.7142857
+84,6am in Brighton,ArrDee,73,79,93,85,76,94,301,114.4285714
+85,9 5 . s o u t h,J. Cole,77,91,80,97,78,81,301,115
+86,Kiss Me More (feat. SZA),"Doja Cat, SZA",94,84,82,93,82,79,301,116.4285714
+87,Anyone,Justin Bieber,93,88,76,83,87,90,301,116.8571429
+88,All In,"Nasty C, T.I.",88,71,99,95,98,68,301,117.1428571
+89,Blinding Lights,The Weeknd,86,89,81,84,91,99,301,118.7142857
+90,Way Too Big,Burna Boy,98,92,91,86,83,89,301,120
+91,Who I Want,"Lil Baby, Lil Durk",71,63,65,87,301,86,301,139.1428571
+92,Bad Influence,Omah lay,85,99,301,96,93,88,301,151.8571429
+93,At My Worst (feat. Kehlani),"Pink Sweat$, Kehlani",301,86,90,74,94,301,301,178.1428571
+94,Loco (feat. Mayorkun),"KDDO, Mayorkun",92,301,301,91,85,91,301,180.2857143
+95,Reckless,Wizkid,301,96,86,92,86,301,301,180.4285714
+96,INJURE ME,Teni,83,90,97,301,301,93,301,180.8571429
+97,Fall for Me,"Laycon, YKB",99,301,301,98,84,87,301,181.5714286
+98,Still Hood,"Lil Baby, Lil Durk",79,78,87,301,301,301,301,206.8571429
+99,Man of my Word,"Lil Baby, Lil Durk",95,80,98,301,301,301,301,211
+100,Medical,"Lil Baby, Lil Durk",91,301,301,301,88,100,301,211.8571429
+101,Lonely,"Justin Bieber, Benny Blanco",301,301,89,301,96,98,301,212.4285714
+102,Too Correct,"Crayon, Rema",301,301,100,88,99,301,301,213
+103,SUN GOES DOWN,Lil Nas X,301,301,301,77,301,92,301,239.1428571
+104,How It Feels,"Lil Baby, Lil Durk",301,301,95,301,301,95,301,242.1428571
+105,His & Hers,"Internet money, Gunna, Don Toliver, Lil Uzi Vert",301,301,92,100,301,301,301,242.4285714
+106,Still Runnin,"Lil Baby, Lil Durk, Meek Mill",97,95,301,301,301,301,301,242.4285714
+107,Lonely,Joeboy,301,98,301,301,97,301,301,242.8571429
+108,Verified,"Laycon, Mayorkun",100,301,301,301,100,301,301,243.5714286
+109,Soundgasm,Rema,301,301,301,301,301,301,1,258.1428571
+110,Avalanche,Migos,301,301,301,301,301,301,12,259.7142857
+111,Having Our Way,"Migos, Drake",301,301,301,301,301,301,18,260.5714286
+112,Painting Pictures,POLO G,301,301,301,301,301,301,29,262.1428571
+113,No Return,"POLO G, The Kid Laroi, Lil Durk",301,301,301,301,301,301,32,262.5714286
+114,GANG GANG,"POLO G, Lil Wayne",301,301,301,301,301,301,37,263.2857143
+115,Epidemic,POLO G,301,301,301,301,301,301,43,264.1428571
+116,Type Shit,"Migos, Cardi B",301,301,301,301,301,301,47,264.7142857
+117,Malibu,"Migos, POLO G",301,301,301,301,301,301,48,264.8571429
+118,For the Love of New York,"POLO G, Nicki Minaj",301,301,301,301,301,301,49,265
+119,Toxic,POLO G,301,301,301,301,301,301,52,265.4285714
+120,Fame & Riches,"POLO G, Roddy Ricch",301,301,301,301,301,301,56,266
+121,Black Hearted,POLO G,301,301,301,301,301,301,62,266.8571429
+122,Birthday,Migos,301,301,301,301,301,301,63,267
+123,Antisocial,"Migos, Juice Wrld",301,301,301,301,301,301,64,267.1428571
+124,Modern Day,Migos,301,301,301,301,301,301,66,267.4285714
+125,Clueless,"POLO G, Pop Smoke, Fivio Foreign",301,301,301,301,301,301,70,268
+126,Boom,POLO G,301,301,301,301,301,301,72,268.2857143
+127,Picasso,"Migos, Future",301,301,301,301,301,301,75,268.7142857
+128,Broken Guitars,"POLO G, Scorey",301,301,301,301,301,301,76,268.8571429
+129,Heart of a Giant,"POLO G, Rod Wave",301,301,301,301,301,301,77,269
+130,Party Lyfe,"POLO G, DaBaby",301,301,301,301,301,301,82,269.7142857
+131,Vaccine,Migos,301,301,301,301,301,301,90,270.8571429
+132,Love Like This (feat. Fireboy DML),"Lil Kesh, Fireboy Dml",301,301,301,301,95,301,301,271.5714286
+133,Light It Up,"Migos, Pop Smoke",301,301,301,301,301,301,95,271.5714286
+134,Losses,"POLO G, Young Thug",301,301,301,301,301,301,96,271.7142857
+135,Make It Out,"Lil Baby, Lil Durk",301,301,301,301,301,96,301,271.7142857
+136,Someone You Loved,Lewis Capaldi,301,97,301,301,301,301,301,271.8571429
+137,What You See,"Migos, Justin Bieber",301,301,301,301,301,301,98,272
+138,GNF (OKOKOK),POLO G,301,301,301,301,301,301,99,272.1428571
+139,Egbon,"Masterkraft, Phyno",301,301,301,99,301,301,301,272.1428571
