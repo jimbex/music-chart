@@ -30,7 +30,7 @@ driver.get('https://www.deezer.com/en/playlist/1362516565')
 time.sleep(2)
 elem = driver.find_element_by_class_name('cookie-btn-label')
 elem.click()
-for x in range(3):
+for x in range(5):
     driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
     time.sleep(3)
 driver.execute_script("window.scrollTo(document.body.scrollHeight,0)")

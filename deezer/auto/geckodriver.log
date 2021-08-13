@@ -353,3 +353,122 @@ JavaScript warning: https://tgtag.io/tg.js?pid=tg-g-000790-001, line 1: WebGL co
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1627936903365	geckodriver	INFO	Listening on 127.0.0.1:61390
+1627936906461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofileXlbpp1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1627936910319	Marionette	INFO	Listening on port 61399
+1627936910676	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://e-cdns-files.dzcdn.net/cache/js/legacy.44225bca888b7af8522b.js, line 2: RETRY_LIMIT_REACHED: Api error
+JavaScript warning: https://tgtag.io/tg.js?pid=tg-g-000790-001, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js?pid=tg-g-000790-001, line 1: WebGL context was lost.
+1627936973665	Marionette	INFO	Stopped listening on port 61399
+JavaScript error: https://e-cdns-files.dzcdn.net/cache/js/legacy.44225bca888b7af8522b.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+[Parent 22188, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1627937375620	geckodriver	INFO	Listening on 127.0.0.1:59400
+1627937378708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofileoBJ8oY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1627937382592	Marionette	INFO	Listening on port 59408
+1627937382926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://e-cdns-files.dzcdn.net/cache/js/legacy.44225bca888b7af8522b.js, line 2: RETRY_LIMIT_REACHED: Api error
+1627937442035	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://tgtag.io/tg.js?pid=tg-g-000790-001, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js?pid=tg-g-000790-001, line 1: WebGL context was lost.
+1627937467602	Marionette	INFO	Stopped listening on port 59408
+1627937520627	geckodriver	INFO	Listening on 127.0.0.1:50463
+1627937523647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofileQffZ6p"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1627937526886	Marionette	INFO	Listening on port 50471
+1627937527351	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://e-cdns-files.dzcdn.net/cache/js/legacy.44225bca888b7af8522b.js, line 2: RETRY_LIMIT_REACHED: Api error
+1627937626560	Marionette	INFO	Stopped listening on port 50471
+1627937726599	geckodriver	INFO	Listening on 127.0.0.1:58377
+1627937729658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofileyXHtKA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1627937733593	Marionette	INFO	Listening on port 53966
+1627937733882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627937752596	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://tgtag.io/tg.js?pid=tg-g-000790-001, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js?pid=tg-g-000790-001, line 1: WebGL context was lost.
+JavaScript error: https://e-cdns-files.dzcdn.net/cache/js/legacy.44225bca888b7af8522b.js, line 2: RETRY_LIMIT_REACHED: Api error
+1627937778230	Marionette	INFO	Stopped listening on port 53966
+1628017225653	geckodriver	INFO	Listening on 127.0.0.1:65396
+1628017228711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofileFjkUPw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1628017234962	Marionette	INFO	Listening on port 54107
+1628017235221	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://e-cdns-files.dzcdn.net/cache/js/legacy.4ab3ecb29e38dee59423.js, line 2: RETRY_LIMIT_REACHED: Api error
+1628017282242	Marionette	INFO	Stopped listening on port 54107
+8017277736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofilec77D30"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1628017282010	Marionette	INFO	Listening on port 63537
+1628017282080	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://e-cdns-files.dzcdn.net/cache/js/legacy.4ab3ecb29e38dee59423.js, line 2: RETRY_LIMIT_REACHED: Api error
+JavaScript warning: https://tgtag.io/tg.js?pid=tg-g-000790-001, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js?pid=tg-g-000790-001, line 1: WebGL context was lost.
+1628017318603	Marionette	INFO	Stopped listening on port 63537
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628104666370	geckodriver	INFO	Listening on 127.0.0.1:63921
+1628104669442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofilePaCnn2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1628104673369	Marionette	INFO	Listening on port 63929
+1628104673687	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://e-cdns-files.dzcdn.net/cache/js/legacy.94c5dfe863f409801d69.js, line 2: RETRY_LIMIT_REACHED: Api error
+JavaScript warning: https://tgtag.io/tg.js?pid=tg-g-000790-001, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js?pid=tg-g-000790-001, line 1: WebGL context was lost.
+1628104708269	Marionette	INFO	Stopped listening on port 63929
+1628189788924	geckodriver	INFO	Listening on 127.0.0.1:52758
+1628189791978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofileOxgV6k"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1628189799006	Marionette	INFO	Listening on port 52767
+1628189799507	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1628189882478	Marionette	INFO	Stopped listening on port 52767
+1628193581766	geckodriver	INFO	Listening on 127.0.0.1:63681
+1628193584836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofilemKjVy1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1628193588775	Marionette	INFO	Listening on port 63564
+1628193589047	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://e-cdns-files.dzcdn.net/cache/js/legacy.03a0eb3d78ee918832ea.js, line 2: RETRY_LIMIT_REACHED: Api error
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NetworkError: FetchEvent.respondWith() Promise rejected
+1628194208060	Marionette	INFO	Stopped listening on port 63564
+1628194213989	geckodriver	INFO	Listening on 127.0.0.1:56398
+1628194217061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofileBkJbl8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1628194221375	Marionette	INFO	Listening on port 56414
+1628194221864	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://tgtag.io/tg.js?pid=tg-g-000790-001, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js?pid=tg-g-000790-001, line 1: WebGL context was lost.
+JavaScript error: https://e-cdns-files.dzcdn.net/cache/js/legacy.03a0eb3d78ee918832ea.js, line 2: RETRY_LIMIT_REACHED: Api error
+1628194306832	Marionette	INFO	Stopped listening on port 56414
+1628197366545	geckodriver	INFO	Listening on 127.0.0.1:57641
+1628197369637	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\faree\\AppData\\Local\\Temp\\rust_mozprofileuhvJAW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1628197372664	Marionette	INFO	Listening on port 57651
+1628197372811	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://e-cdns-files.dzcdn.net/cache/js/legacy.03a0eb3d78ee918832ea.js, line 2: RETRY_LIMIT_REACHED: Api error
+1628197391573	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://tgtag.io/tg.js?pid=tg-g-000790-001, line 1: WebGL context was lost.
+JavaScript warning: https://tgtag.io/tg.js?pid=tg-g-000790-001, line 1: WebGL context was lost.
+JavaScript error: https://e-cdns-files.dzcdn.net/cache/js/legacy.03a0eb3d78ee918832ea.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+1628197412624	Marionette	INFO	Stopped listening on port 57651
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
