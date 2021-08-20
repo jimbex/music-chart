@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup as bs
 import pandas as pd
 from datetime import datetime
 from selenium import webdriver
+from selenium.webdriver import ActionChains
 from selenium.webdriver.common.keys import Keys
 import time
 
@@ -37,17 +38,17 @@ i = 0
 while i < len(artist):
     artist[i] = artist[i].strip()
     i += 1
+addr = input('Enter the file destination: ')
 data = {'Position': [x for x in range(1,len(songs) + 1)], 'song': songs, 'artist': artist}
 df = pd.DataFrame(data)
 df = df.set_index('Position')
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\apple\\{m}{d}.csv')
+df.to_csv(f'{addr}\\apple\\{m}{d}.csv')
 
 
 driver = webdriver.Chrome()
 driver.get('https://music.apple.com/ng/browse/top-charts/albums')
 time.sleep(5)
 elem = driver.find_element_by_css_selector('body')
-elem.click()
 for x in range(20):
     elem.send_keys(Keys.PAGE_DOWN)
     time.sleep(3)
@@ -61,7 +62,7 @@ soup = bs(content1, 'html.parser')
 pos = soup.find_all("div", {'class': 'lockup-ranking'})
 alb1 = soup.find_all("a", {'class': 'line lockup__name has-adjacent-link'})
 alb2 = soup.find_all("a", {'class': 'line lockup__name'})
-art1 = soup.find_all("a", {'class': 'dt-link-to line2 linkable'})
+art1 = soup.find_all("a", {'class': 'dt-link-to linkable'})
 art2 = soup.find_all("div", {'class': 'line2'})
 for x in pos:
     position.append(x.text)
@@ -85,4 +86,4 @@ while i < len(artist):
 data = {'Position': [x for x in range(1,len(album) + 1)], 'artist': artist, 'album': album}
 df = pd.DataFrame(data)
 df = df.set_index('Position')
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\apple\\album_{m}{d}.csv')
+df.to_csv(f'{addr}\\apple\\album_{m}{d}.csv')

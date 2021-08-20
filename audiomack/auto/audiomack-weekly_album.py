@@ -13,15 +13,15 @@ w = datetime.today().strftime("%V")
 
 # In[2]:
 
-
+addr = input('Please enteur destination address: ')
 import pandas as pd
-df1 = pd.read_csv(f'C:\\Users\\faree\\Desktop\\music charts\\audiomack\\album-{m}{d - 6}.csv', encoding='utf-8')
-df2 = pd.read_csv(f'C:\\Users\\faree\\Desktop\\music charts\\audiomack\\album-{m}{d - 5}.csv', encoding='utf-8')
-df3 = pd.read_csv(f'C:\\Users\\faree\\Desktop\\music charts\\audiomack\\album-{m}{d - 4}.csv', encoding='utf-8')
-df4 = pd.read_csv(f'C:\\Users\\faree\\Desktop\\music charts\\audiomack\\album-{m}{d - 3}.csv', encoding='utf-8')
-df5 = pd.read_csv(f'C:\\Users\\faree\\Desktop\\music charts\\audiomack\\album-{m}{d - 2}.csv', encoding='utf-8')
-df6 = pd.read_csv(f'C:\\Users\\faree\\Desktop\\music charts\\audiomack\\album-{m}{d - 1}.csv', encoding='utf-8')
-df7 = pd.read_csv(f'C:\\Users\\faree\\Desktop\\music charts\\audiomack\\album-{m}{d}.csv', encoding='utf-8')
+df1 = pd.read_csv(f'{addr}\\audiomack\\album-{m}{d - 6}.csv', encoding='utf-8')
+df2 = pd.read_csv(f'{addr}\\audiomack\\album-{m}{d - 5}.csv', encoding='utf-8')
+df3 = pd.read_csv(f'{addr}\\audiomack\\album-{m}{d - 4}.csv', encoding='utf-8')
+df4 = pd.read_csv(f'{addr}\\audiomack\\album-{m}{d - 3}.csv', encoding='utf-8')
+df5 = pd.read_csv(f'{addr}\\audiomack\\album-{m}{d - 2}.csv', encoding='utf-8')
+df6 = pd.read_csv(f'{addr}\\audiomack\\album-{m}{d - 1}.csv', encoding='utf-8')
+df7 = pd.read_csv(f'{addr}\\audiomack\\album-{m}{d}.csv', encoding='utf-8')
 
 
 # In[3]:
@@ -187,7 +187,7 @@ df
 # In[19]:
 
 
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\audiomack\\audiomack_album-week{w}.csv')
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\weekly charts\\album\\audiomack_album-week{w}.csv')
+df.to_csv(f'{addr}\\audiomack\\audiomack_album-week{w}.csv')
+df.to_csv(f'{addr}\\weekly charts\\album\\audiomack_album-week{w}.csv')
 
 

@@ -9,6 +9,7 @@ m = datetime.today().strftime('%B')
 d = datetime.today().strftime('%d')
 d = int(d)
 w = datetime.today().strftime("%V")
+addr = input('Enter your file destination address: ')
 
 
 # In[ ]:
@@ -64,8 +65,8 @@ for x in div:
 
 data = {'Position': position, 'song': songs, 'artist': artist}
 df = pd.DataFrame(data)
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\deezer\\afrohiphop-week{w}.csv')
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\weekly charts\\hiphop\\deezer_afrohiphop-week{w}.csv')
+df.to_csv(f'{addr}\\deezer\\afrohiphop-week{w}.csv')
+df.to_csv(f'{addr}\\weekly charts\\hiphop\\deezer_afrohiphop-week{w}.csv')
 
 
 # In[ ]:
@@ -111,8 +112,8 @@ for x in div:
 
 data = {'Position': position, 'song': songs, 'artist': artist}
 df = pd.DataFrame(data)
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\deezer\\afropop-week{w}.csv')
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\weekly charts\\afropop\\deezer_afropop-week{w}.csv')
+df.to_csv(f'{addr}\\deezer\\afropop-week{w}.csv')
+df.to_csv(f'{addr}\\weekly charts\\afropop\\deezer_afropop-week{w}.csv')
 
 
 
@@ -159,7 +160,7 @@ for x in div:
 
 data = {'Position': position, 'song': songs, 'artist': artist}
 df = pd.DataFrame(data)
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\deezer\\africa-week{w}.csv')
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\weekly charts\\africa\\deezer_africa-week{w}.csv')
+df.to_csv(f'{addr}\\deezer\\africa-week{w}.csv')
+df.to_csv(f'{addr}\\weekly charts\\africa\\deezer_africa-week{w}.csv')
 
 

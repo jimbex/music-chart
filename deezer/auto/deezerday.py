@@ -8,6 +8,7 @@ from datetime import datetime
 m = datetime.today().strftime('%B')
 d = datetime.today().strftime('%d')
 d = int(d)
+addr = input('Enter your file destination address: ')
 
 
 # In[ ]:
@@ -86,34 +87,32 @@ for x in div:
 
 data = {'Position': position, 'song': songs, 'artist': artist}
 df = pd.DataFrame(data)
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\deezer\\{m}{d}.csv')
+df.to_csv(f'{addr}\\deezer\\{m}{d}.csv')
 
 
 # In[ ]:
 
 
-songs = []
-html = str(urllib.request.urlopen('https://www.deezer.com/en/channels/module/24edc1b8-68cd-411f-b6ef-ce4972b9f671').read())
-soup = bs(html, 'html.parser')
-mydivs = soup.find_all("script")
+driver = webdriver.Firefox()
+driver.get('https://www.deezer.com/en/channels/module/24edc1b8-68cd-411f-b6ef-ce4972b9f671')
+time.sleep(4)
+elem = driver.find_element_by_class_name('cookie-btn-label')
+elem.click()
+content3 = driver.page_source
+driver.close()
 
-tip = mydivs[5]
-tip = tip.string
-lin = js.parse(tip, debug = False)
-lint = js.pretty_print(lin)
-bd = bs(lint, 'xml')
-
+soup = bs(content3, 'html.parser') 
+mydiv1 = soup.find_all("div", {'class': 'heading-4'})
+mydiv2 = soup.find_all("div", {'class': 'heading-4-sub'})
 album = []
 artist = []
-p = bd.find_all('property')
-for x in p:
-    if x.get('name') == 'ALB_TITLE':
-        album.append(x.find('string').text)
-    if x.get('name') == 'ART_NAME':
-        artist.append(x.find('string').text)
+for x in mydiv1:
+    album.append(x.text)
+for x in mydiv2:
+    artist.append(x.text[3:])
 
 data = {'Position': [x for x in range(1, len(album) + 1)] ,'artist': artist, 'album': album}
 df = pd.DataFrame(data)
 df = df.set_index('Position')
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\deezer\\album-{m}{d}.csv')
+df.to_csv(f'{addr}\\deezer\\album-{m}{d}.csv')
 

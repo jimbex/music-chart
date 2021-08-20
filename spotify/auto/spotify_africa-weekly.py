@@ -13,15 +13,15 @@ w = datetime.today().strftime("%V")
 
 # In[2]:
 
-
+addr = input('Enter ur file destination: ')
 import pandas as pd
-df1 = pd.read_csv(f'C:\\Users\\faree\\Desktop\\music charts\\spotify\\africa-{m}{d - 6}.csv')
-df2 = pd.read_csv(f'C:\\Users\\faree\\Desktop\\music charts\\spotify\\africa-{m}{d - 5}.csv')
-df3 = pd.read_csv(f'C:\\Users\\faree\\Desktop\\music charts\\spotify\\africa-{m}{d - 4}.csv')
-df4 = pd.read_csv(f'C:\\Users\\faree\\Desktop\\music charts\\spotify\\africa-{m}{d - 3}.csv')
-df5 = pd.read_csv(f'C:\\Users\\faree\\Desktop\\music charts\\spotify\\africa-{m}{d - 2}.csv')
-df6 = pd.read_csv(f'C:\\Users\\faree\\Desktop\\music charts\\spotify\\africa-{m}{d - 1}.csv')
-df7 = pd.read_csv(f'C:\\Users\\faree\\Desktop\\music charts\\spotify\\africa-{m}{d}.csv')
+df1 = pd.read_csv(f'{addr}\\spotify\\africa-{m}{d - 6}.csv')
+df2 = pd.read_csv(f'{addr}\\spotify\\africa-{m}{d - 5}.csv')
+df3 = pd.read_csv(f'{addr}\\spotify\\africa-{m}{d - 4}.csv')
+df4 = pd.read_csv(f'{addr}\\spotify\\africa-{m}{d - 3}.csv')
+df5 = pd.read_csv(f'{addr}\\spotify\\africa-{m}{d - 2}.csv')
+df6 = pd.read_csv(f'{addr}\\spotify\\africa-{m}{d - 1}.csv')
+df7 = pd.read_csv(f'{addr}\\spotify\\africa-{m}{d}.csv')
 
 
 # In[3]:
@@ -183,7 +183,7 @@ df = df.set_index('rank')
 # In[18]:
 
 
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\spotify\\spotify_africa-week{w}.csv')
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\weekly charts\\africa\\spotify_africa-week{w}.csv')
+df.to_csv(f'{addr}\\spotify\\spotify_africa-week{w}.csv')
+df.to_csv(f'{addr}\\weekly charts\\africa\\spotify_africa-week{w}.csv')
 
 

@@ -32,9 +32,10 @@ for x in songs:
     i += 1
 songs = songs[:-1]
 boom4 = {'artist': artist, 'song': songs}
+addr = input('Enter your file destination address: ')
 import pandas as pd
 df = pd.DataFrame(boom4)
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\boom\\afropop-{m}{d}.csv')
+df.to_csv(f'{addr}\\boom\\afropop-{m}{d}.csv')
 
 
 # In[ ]:
@@ -59,7 +60,7 @@ songs = songs[:-1]
 boom5 = {'artist': artist, 'song': songs}
 import pandas as pd
 df = pd.DataFrame(boom5)
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\boom\\hiphop-{m}{d}.csv')
+df.to_csv(f'{addr}\\boom\\hiphop-{m}{d}.csv')
 
 
 # In[ ]:
@@ -86,5 +87,5 @@ songs = songs[:-1]
 boom5 = {'artist': artist, 'song': songs}
 import pandas as pd
 df = pd.DataFrame(boom5)
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\boom\\afrobeat-{m}{d}.csv')
+df.to_csv(f'{addr}\\boom\\afrobeat-{m}{d}.csv')
 

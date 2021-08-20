@@ -19,7 +19,7 @@ from datetime import datetime
 m = datetime.today().strftime('%B')
 d = datetime.today().strftime('%d')
 d = int(d)
-
+addr = input('Enter your file destination: ')
 
 # In[3]:
 
@@ -56,7 +56,7 @@ artist = art1.values()
 spot = {'Position': [x for x in range(1,len(song) + 1)], 'song':song, 'artist':artist}
 df = pd.DataFrame(spot)
 df = df.set_index('Position')
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\spotify\\{m}{d}.csv')
+df.to_csv(f'{addr}\\spotify\\{m}{d}.csv')
 
 
 # In[6]:
@@ -87,7 +87,7 @@ artist = art1.values()
 spot = {'Position': [x for x in range(1,len(song) + 1)], 'song':song, 'artist':artist}
 df = pd.DataFrame(spot)
 df = df.set_index('Position')
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\spotify\\africa-{m}{d}.csv')
+df.to_csv(f'{addr}\\spotify\\africa-{m}{d}.csv')
 
 
 # In[8]:
@@ -118,7 +118,7 @@ artist = art1.values()
 spot = {'Position': [x for x in range(1,len(song) + 1)], 'song':song, 'artist':artist}
 df = pd.DataFrame(spot)
 df = df.set_index('Position')
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\spotify\\afropop-{m}{d}.csv')
+df.to_csv(f'{addr}\\spotify\\afropop-{m}{d}.csv')
 
 
 # In[10]:
@@ -149,7 +149,7 @@ artist = art1.values()
 spot = {'Position': [x for x in range(1,len(song) + 1)], 'song':song, 'artist':artist}
 df = pd.DataFrame(spot)
 df = df.set_index('Position')
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\spotify\\afrohiphop-{m}{d}.csv')
+df.to_csv(f'{addr}\\spotify\\afrohiphop-{m}{d}.csv')
 
 
 # In[12]:
@@ -180,7 +180,7 @@ artist = art1.values()
 spot = {'Position': [x for x in range(1,len(song) + 1)], 'song':song, 'artist':artist}
 df = pd.DataFrame(spot)
 df = df.set_index('Position')
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\spotify\\gospel-{m}{d}.csv')
+df.to_csv(f'{addr}\\spotify\\gospel-{m}{d}.csv')
 
 
 # In[14]:
@@ -211,7 +211,7 @@ artist = art1.values()
 spot = {'Position': [x for x in range(1,len(song) + 1)], 'song':song, 'artist':artist}
 df = pd.DataFrame(spot)
 df = df.set_index('Position')
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\spotify\\afrobeats-{m}{d}.csv')
+df.to_csv(f'{addr}\\spotify\\afrobeats-{m}{d}.csv')
 
 
 # In[16]:
@@ -245,5 +245,5 @@ artist = art1.values()
 spot = {'Position': [x for x in range(1,len(song) + 1)], 'song':song, 'artist':artist}
 df = pd.DataFrame(spot)
 df = df.set_index('Position')
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\spotify\\alternative-{m}{d}.csv')
+df.to_csv(f'{addr}\\spotify\\alternative-{m}{d}.csv')
 

@@ -17,6 +17,7 @@ from datetime import datetime
 m = datetime.today().strftime('%B')
 d = datetime.today().strftime('%d')
 d = int(d)
+addr = input('Enter your file destination: ')
 
 
 # In[3]:
@@ -33,7 +34,7 @@ data = {'Position': [x for x in range(1,len(song) + 1)] ,'song': song, 'artist':
 
 df = pd.DataFrame(data)
 df = df.set_index('Position')
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\youtube\\street-{m}{d}.csv')
+df.to_csv(f'{addr}\\youtube\\street-{m}{d}.csv')
 
 
 # In[4]:
@@ -50,7 +51,7 @@ data = {'Position': [x for x in range(1,len(song) + 1)] ,'song': song, 'artist':
 
 df = pd.DataFrame(data)
 df = df.set_index('Position')
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\youtube\\afrobeats-{m}{d}.csv')
+df.to_csv(f'{addr}\\youtube\\afrobeats-{m}{d}.csv')
 
 
 # In[5]:
@@ -67,7 +68,7 @@ data = {'Position': [x for x in range(1,len(song) + 1)] ,'song': song, 'artist':
 
 df = pd.DataFrame(data)
 df = df.set_index('Position')
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\youtube\\afropop-{m}{d}.csv')
+df.to_csv(f'{addr}\\youtube\\afropop-{m}{d}.csv')
 
 
 # In[6]:
@@ -84,7 +85,7 @@ data = {'Position': [x for x in range(1,len(song) + 1)] ,'song': song, 'artist':
 
 df = pd.DataFrame(data)
 df = df.set_index('Position')
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\youtube\\gospel-{m}{d}.csv')
+df.to_csv(f'{addr}\\youtube\\gospel-{m}{d}.csv')
 
 
 # In[7]:
@@ -101,7 +102,7 @@ data = {'Position': [x for x in range(1,len(song) + 1)] ,'song': song, 'artist':
 
 df = pd.DataFrame(data)
 df = df.set_index('Position')
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\youtube\\hiphop-{m}{d}.csv')
+df.to_csv(f'{addr}\\youtube\\hiphop-{m}{d}.csv')
 
 
 # In[8]:
@@ -118,5 +119,5 @@ data = {'Position': [x for x in range(1,len(song) + 1)] ,'song': song, 'artist':
 
 df = pd.DataFrame(data)
 df = df.set_index('Position')
-df.to_csv(f'C:\\Users\\faree\\Desktop\\music charts\\youtube\\R&B-{m}{d}.csv')
+df.to_csv(f'{addr}\\youtube\\R&B-{m}{d}.csv')
 
