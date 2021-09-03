@@ -265,6 +265,13 @@ postT = [(post1[x] + post2[x] + post3[x] + post4[x]/4) for x in range(0, len(fin
 
 # In[100]:
 
+i = 0
+for x in post5:
+    if 'EP -' in x:
+        x = x.replace('EP -', '')
+        post5[i] = x.strip()
+    i += 1
+
 
 data = {'album':album,'artist':post5,'apple':post1,'audiomark':post2,'deezer':post3, 'boom': post4, 'RT': postT}
 df = pd.DataFrame(data)

@@ -312,7 +312,7 @@ df.sort_values(by=['RT'], inplace=True)
 # In[31]:
 
 
-df['rank'] = [x for x in range(1,240)]
+df['rank'] = [x for x in range(1, len(final) + 1)]
 
 
 # In[32]:
@@ -417,7 +417,7 @@ df1['weeks on chart'] = weeks
 
 
 # In[45]:
-newpath = r'{addr}\\webboard\\week{w}' 
+newpath = f'{addr}\\webboard\\week{w}' 
 if not os.path.exists(newpath):
     os.makedirs(newpath)
 
