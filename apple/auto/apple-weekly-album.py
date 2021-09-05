@@ -15,13 +15,13 @@ w = datetime.today().strftime("%V")
 
 addr = input('Enter file destination address: ')
 import pandas as pd
-df1 = pd.read_csv(f'{addr}\\apple\\album_{m}{d - 6}.csv', encoding='utf-8')
-df2 = pd.read_csv(f'{addr}\\apple\\album_{m}{d - 5}.csv', encoding='utf-8')
-df3 = pd.read_csv(f'{addr}\\apple\\album_{m}{d - 4}.csv', encoding='utf-8')
-df4 = pd.read_csv(f'{addr}\\apple\\album_{m}{d - 3}.csv', encoding='utf-8')
-df5 = pd.read_csv(f'{addr}\\apple\\album_{m}{d - 2}.csv', encoding='utf-8')
-df6 = pd.read_csv(f'{addr}\\apple\\album_{m}{d - 1}.csv', encoding='utf-8')
-df7 = pd.read_csv(f'{addr}\\apple\\album_{m}{d}.csv', encoding='utf-8')
+df1 = pd.read_csv(f'{addr}\\music-chart\\apple\\album_{dates(6)}.csv', encoding='utf-8')
+df2 = pd.read_csv(f'{addr}\\music-chart\\apple\\album_{dates(5)}.csv', encoding='utf-8')
+df3 = pd.read_csv(f'{addr}\\music-chart\\apple\\album_{dates(4)}.csv', encoding='utf-8')
+df4 = pd.read_csv(f'{addr}\\music-chart\\apple\\album_{dates(3)}.csv', encoding='utf-8')
+df5 = pd.read_csv(f'{addr}\\music-chart\\apple\\album_{dates(2)}.csv', encoding='utf-8')
+df6 = pd.read_csv(f'{addr}\\music-chart\\apple\\album_{dates(1)}.csv', encoding='utf-8')
+df7 = pd.read_csv(f'{addr}\\music-chart\\apple\\album_{dates(0)}.csv', encoding='utf-8')
 
 
 # In[4]:
@@ -213,8 +213,8 @@ df
 # In[24]:
 
 
-df.to_csv(f'{addr}\\apple\\apple_album-week{w}.csv')
-df.to_csv(f'{addr}\\weekly charts\\album\\apple_album-week{w}.csv')
+df.to_csv(f'{addr}\\music-chart\\apple\\apple_album-week{w}.csv')
+df.to_csv(f'{addr}\\music-chart\\weekly charts\\album\\apple_album-week{w}.csv')
 
 
 # In[ ]:

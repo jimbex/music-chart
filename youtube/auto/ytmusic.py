@@ -34,7 +34,7 @@ data = {'Position': [x for x in range(1,len(song) + 1)] ,'song': song, 'artist':
 
 df = pd.DataFrame(data)
 df = df.set_index('Position')
-df.to_csv(f'{addr}\\youtube\\street-{m}{d}.csv')
+df.to_csv(f'{addr}\\music-chart\\youtube\\street-{m}{d}.csv')
 
 
 # In[4]:
@@ -51,7 +51,7 @@ data = {'Position': [x for x in range(1,len(song) + 1)] ,'song': song, 'artist':
 
 df = pd.DataFrame(data)
 df = df.set_index('Position')
-df.to_csv(f'{addr}\\youtube\\afrobeats-{m}{d}.csv')
+df.to_csv(f'{addr}\\music-chart\\youtube\\afrobeats-{m}{d}.csv')
 
 
 # In[5]:
@@ -68,7 +68,7 @@ data = {'Position': [x for x in range(1,len(song) + 1)] ,'song': song, 'artist':
 
 df = pd.DataFrame(data)
 df = df.set_index('Position')
-df.to_csv(f'{addr}\\youtube\\afropop-{m}{d}.csv')
+df.to_csv(f'{addr}\\music-chart\\youtube\\afropop-{m}{d}.csv')
 
 
 # In[6]:
@@ -85,7 +85,7 @@ data = {'Position': [x for x in range(1,len(song) + 1)] ,'song': song, 'artist':
 
 df = pd.DataFrame(data)
 df = df.set_index('Position')
-df.to_csv(f'{addr}\\youtube\\gospel-{m}{d}.csv')
+df.to_csv(f'{addr}\\music-chart\\youtube\\gospel-{m}{d}.csv')
 
 
 # In[7]:
@@ -102,7 +102,7 @@ data = {'Position': [x for x in range(1,len(song) + 1)] ,'song': song, 'artist':
 
 df = pd.DataFrame(data)
 df = df.set_index('Position')
-df.to_csv(f'{addr}\\youtube\\hiphop-{m}{d}.csv')
+df.to_csv(f'{addr}\\music-chart\\youtube\\hiphop-{m}{d}.csv')
 
 
 # In[8]:
@@ -119,5 +119,5 @@ data = {'Position': [x for x in range(1,len(song) + 1)] ,'song': song, 'artist':
 
 df = pd.DataFrame(data)
 df = df.set_index('Position')
-df.to_csv(f'{addr}\\youtube\\R&B-{m}{d}.csv')
+df.to_csv(f'{addr}\\music-chart\\youtube\\R&B-{m}{d}.csv')
 

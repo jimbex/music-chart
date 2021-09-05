@@ -49,7 +49,7 @@ try:
     data = {'Position': [x for x in range(1, len(song) + 1)] ,'song': song, 'artist': artist}
     df = pd.DataFrame(data)
     df = df.set_index('Position')
-    df.to_csv(f'{addr}\\audiomack\\{m}{d}.csv')
+    df.to_csv(f'{addr}\\music-chart\\audiomack\\{m}{d}.csv')
 except:
     pass
 
@@ -87,6 +87,6 @@ try:
     data = {'Position': [x for x in range(1, len(album) + 1)] ,'album': album, 'artist': artist}
     df = pd.DataFrame(data)
     df = df.set_index('Position')
-    df.to_csv(f'{addr}\\audiomack\\album-{m}{d}.csv')
+    df.to_csv(f'{addr}\\music-chart\\audiomack\\album-{m}{d}.csv')
 except:
     pass

@@ -42,7 +42,7 @@ addr = input('Enter the file destination: ')
 data = {'Position': [x for x in range(1,len(songs) + 1)], 'song': songs, 'artist': artist}
 df = pd.DataFrame(data)
 df = df.set_index('Position')
-df.to_csv(f'{addr}\\apple\\{m}{d}.csv')
+df.to_csv(f'{addr}\\music-chart\\apple\\{m}{d}.csv')
 
 
 driver = webdriver.Chrome()
@@ -86,4 +86,4 @@ while i < len(artist):
 data = {'Position': [x for x in range(1,len(album) + 1)], 'artist': artist, 'album': album}
 df = pd.DataFrame(data)
 df = df.set_index('Position')
-df.to_csv(f'{addr}\\apple\\album_{m}{d}.csv')
+df.to_csv(f'{addr}\\music-chart\\apple\\album_{m}{d}.csv')

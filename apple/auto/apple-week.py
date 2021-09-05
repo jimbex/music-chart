@@ -37,8 +37,8 @@ data = {'Position': [x for x in range(1,len(songs) + 1)], 'song': songs, 'artist
 df = pd.DataFrame(data)
 df = df.set_index('Position')
 addr = input('Enter file destination: ')
-df.to_csv(f'{addr}\\apple\\africa-week{w}.csv')
-df.to_csv(f'{addr}\\weekly charts\\africa\\apple_africa-week{w}.csv', encoding='utf-8')
+df.to_csv(f'{addr}\\music-chart\\apple\\africa-week{w}.csv')
+df.to_csv(f'{addr}\\music-chart\\weekly charts\\africa\\apple_africa-week{w}.csv', encoding='utf-8')
                                   
 songs = []
 artist = []
@@ -63,8 +63,8 @@ while i < len(artist):
 data = {'Position': [x for x in range(1,len(songs) + 1)], 'song': songs, 'artist': artist}
 df = pd.DataFrame(data)
 df = df.set_index('Position')
-df.to_csv(f'{addr}\\apple\\africahiphop-week{w}.csv')
-df.to_csv(f'{addr}\\weekly charts\\hiphop\\apple_afrohiphop-week{w}.csv', encoding='utf-8')
+df.to_csv(f'{addr}\\music-chart\\apple\\africahiphop-week{w}.csv')
+df.to_csv(f'{addr}\\music-chart\\weekly charts\\hiphop\\apple_afrohiphop-week{w}.csv', encoding='utf-8')
                                   
 songs = []
 artist = []
@@ -89,8 +89,8 @@ while i < len(artist):
 data = {'Position': [x for x in range(1,len(songs) + 1)], 'song': songs, 'artist': artist}
 df = pd.DataFrame(data)
 df = df.set_index('Position')
-df.to_csv(f'{addr}\\apple\\africagospel-week{w}.csv')
-df.to_csv(f'{addr}\\weekly charts\\gospel\\apple_gospel-week{w}.csv', encoding='utf-8')
+df.to_csv(f'{addr}\\music-chart\\apple\\africagospel-week{w}.csv')
+df.to_csv(f'{addr}\\music-chart\\weekly charts\\gospel\\apple_gospel-week{w}.csv', encoding='utf-8')
 
                                   
 songs = []
@@ -116,8 +116,8 @@ while i < len(artist):
 data = {'Position': [x for x in range(1,len(songs) + 1)], 'song': songs, 'artist': artist}
 df = pd.DataFrame(data)
 df = df.set_index('Position')
-df.to_csv(f'{addr}\\apple\\street-week{w}.csv')
-df.to_csv(f'{addr}\\weekly charts\\street\\apple_street-week{w}.csv', encoding='utf-8')
+df.to_csv(f'{addr}\\music-chart\\apple\\street-week{w}.csv')
+df.to_csv(f'{addr}\\music-chart\\weekly charts\\street\\apple_street-week{w}.csv', encoding='utf-8')
 
                                   
 songs = []
@@ -143,8 +143,8 @@ while i < len(artist):
 data = {'Position': [x for x in range(1,len(songs) + 1)], 'song': songs, 'artist': artist}
 df = pd.DataFrame(data)
 df = df.set_index('Position')
-df.to_csv(f'{addr}\\apple\\afrobeats-week{w}.csv')
-df.to_csv(f'{addr}\\weekly charts\\afrobeat\\apple_afrobeats-week{w}.csv', encoding='utf-8')
+df.to_csv(f'{addr}\\music-chart\\apple\\afrobeats-week{w}.csv')
+df.to_csv(f'{addr}\\music-chart\\weekly charts\\afrobeat\\apple_afrobeats-week{w}.csv', encoding='utf-8')
 
                                   
 songs = []
@@ -170,6 +170,6 @@ while i < len(artist):
 data = {'Position': [x for x in range(1,len(songs) + 1)], 'song': songs, 'artist': artist}
 df = pd.DataFrame(data)
 df = df.set_index('Position')
-df.to_csv(f'{addr}\\apple\\alte-week{w}.csv')
-df.to_csv(f'{addr}\\weekly charts\\alte\\apple_alte-week{w}.csv', encoding='utf-8')
+df.to_csv(f'{addr}\\music-chart\\apple\\alte-week{w}.csv')
+df.to_csv(f'{addr}\\music-chart\\weekly charts\\alte\\apple_alte-week{w}.csv', encoding='utf-8')
 

@@ -68,8 +68,8 @@ try:
 
     data = {'Position': position, 'song': songs, 'artist': artist}
     df = pd.DataFrame(data)
-    df.to_csv(f'{addr}\\deezer\\afrohiphop-week{w}.csv')
-    df.to_csv(f'{addr}\\weekly charts\\hiphop\\deezer_afrohiphop-week{w}.csv')
+    df.to_csv(f'{addr}\\music-chart\\deezer\\afrohiphop-week{w}.csv')
+    df.to_csv(f'{addr}\\music-chart\\weekly charts\\hiphop\\deezer_afrohiphop-week{w}.csv')
 except:
     pass
 
@@ -119,8 +119,8 @@ try:
     
     data = {'Position': position, 'song': songs, 'artist': artist}
     df = pd.DataFrame(data)
-    df.to_csv(f'{addr}\\deezer\\afropop-week{w}.csv')
-    df.to_csv(f'{addr}\\weekly charts\\afropop\\deezer_afropop-week{w}.csv')
+    df.to_csv(f'{addr}\\music-chart\\deezer\\afropop-week{w}.csv')
+    df.to_csv(f'{addr}\\music-chart\\weekly charts\\afropop\\deezer_afropop-week{w}.csv')
 except:
     pass
 
@@ -172,8 +172,8 @@ try:
     
     data = {'Position': position, 'song': songs, 'artist': artist}
     df = pd.DataFrame(data)
-    df.to_csv(f'{addr}\\deezer\\africa-week{w}.csv')
-    df.to_csv(f'{addr}\\weekly charts\\africa\\deezer_africa-week{w}.csv')
+    df.to_csv(f'{addr}\\music-chart\\deezer\\africa-week{w}.csv')
+    df.to_csv(f'{addr}\\music-chart\\weekly charts\\africa\\deezer_africa-week{w}.csv')
 except:
     pass
 

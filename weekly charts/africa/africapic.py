@@ -44,12 +44,26 @@ for i in song:
       url[pos[a]] = b['tracks']['items'][z]['album']['images'][0]['url']
       break
     else:
-      url[pos[a]] = b['tracks']['items'][0]['album']['images'][0]['url']
-      break
+      try:
+        url[pos[a]] = b['tracks']['items'][0]['album']['images'][0]['url']
+        break
+      except:
+        b = sp.search(q = f, type='track')
+        url[pos[a]] = b['tracks']['items'][0]['album']['images'][0]['url']
+        break        
         
   else:
-    b = yt.search(f + ' ' + j, 'songs')
-    url[pos[a]] = b[0]['thumbnails'][0]['url']
+    try:
+        b = yt.search(f + ' ' + j, 'songs')
+        url[pos[a]] = b[0]['thumbnails'][0]['url']
+    except:
+        try:
+            b = yt.search(f, 'songs')
+            url[pos[a]] = b[0]['thumbnails'][0]['url']
+            break
+        except:
+            url[pos[a]] = 'error'
+
   a += 1
 
 data = {'rank': url.keys(), 'image': url.values()}

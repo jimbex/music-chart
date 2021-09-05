@@ -33,8 +33,8 @@ for x in songs:
 boom = {'artist': artist, 'song': songs}
 addr = input('Enter your file destination address: ')
 df = pd.DataFrame(boom)
-df.to_csv(f'{addr}\\boom\\week{w}.csv')
-df.to_csv(f'{addr}\\Weekly charts\\songs\\boom_week{w}.csv')
+df.to_csv(f'{addr}\\music-chart\\boom\\week{w}.csv')
+df.to_csv(f'{addr}\\music-chart\\Weekly charts\\songs\\boom_week{w}.csv')
 
 songs = []
 artist = []
@@ -54,8 +54,8 @@ for x in songs:
 songs = songs[:-1]
 boom1 = {'artist': artist, 'song': songs}
 df = pd.DataFrame(boom1)
-df.to_csv(f'{addr}\\boom\\week{w}-africa.csv')
-df.to_csv(f'{addr}\\Weekly charts\\africa\\boom_week{w}-africa.csv')
+df.to_csv(f'{addr}\\music-chart\\boom\\week{w}-africa.csv')
+df.to_csv(f'{addr}\\music-chart\\Weekly charts\\africa\\boom_week{w}-africa.csv')
 
 html = str(urllib.request.urlopen('https://www.boomplay.com/more/charts?id=138&name=Weekly+Top+Albums').read())
 album = []
@@ -89,6 +89,6 @@ songs = songs[:-1]
 boom3 = {'artist': artist, 'song': songs}
 import pandas as pd
 df = pd.DataFrame(boom3)
-df.to_csv(f'{addr}\\boom\\boom_gospel-week{w}.csv')
-df.to_csv(f'{addr}\\weekly charts\\gospel\\boom_gospel-week{w}.csv')
+df.to_csv(f'{addr}\\music-chart\\boom\\boom_gospel-week{w}.csv')
+df.to_csv(f'{addr}\\music-chart\\weekly charts\\gospel\\boom_gospel-week{w}.csv')
 

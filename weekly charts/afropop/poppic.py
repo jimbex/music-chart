@@ -48,8 +48,16 @@ for i in song:
       break
         
   else:
-    b = yt.search(f + ' ' + j, 'songs')
-    url[pos[a]] = b[0]['thumbnails'][0]['url']
+    try:
+        b = yt.search(f + ' ' + j, 'songs')
+        url[pos[a]] = b[0]['thumbnails'][0]['url']
+    except:
+        try:
+            b = yt.search(f, 'songs')
+            url[pos[a]] = b[0]['thumbnails'][0]['url']
+            break
+        except:
+            url[pos[a]] = 'error'
   a += 1
 
 data = {'rank': url.keys(), 'image': url.values()}

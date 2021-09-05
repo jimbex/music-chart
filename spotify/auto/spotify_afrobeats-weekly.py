@@ -5,23 +5,25 @@
 
 
 from datetime import datetime
-m = datetime.today().strftime('%B')
-d = datetime.today().strftime('%d')
-d = int(d)
+from datetime import timedelta
 w = datetime.today().strftime("%V")
+
+def dates(d):
+  date = (datetime.today() - timedelta(d)).strftime('%B') + str(int((datetime.today() - timedelta(d)).strftime('%d')))
+  return date
 
 
 # In[2]:
 
 addr = input('Enter ur file destination: ')
 import pandas as pd
-df1 = pd.read_csv(f'{addr}\\spotify\\afrobeats-{m}{d - 6}.csv')
-df2 = pd.read_csv(f'{addr}\\spotify\\afrobeats-{m}{d - 5}.csv')
-df3 = pd.read_csv(f'{addr}\\spotify\\afrobeats-{m}{d - 4}.csv')
-df4 = pd.read_csv(f'{addr}\\spotify\\afrobeats-{m}{d - 3}.csv')
-df5 = pd.read_csv(f'{addr}\\spotify\\afrobeats-{m}{d - 2}.csv')
-df6 = pd.read_csv(f'{addr}\\spotify\\afrobeats-{m}{d - 1}.csv')
-df7 = pd.read_csv(f'{addr}\\spotify\\afrobeats-{m}{d}.csv')
+df1 = pd.read_csv(f'{addr}\\music-chart\\spotify\\afrobeats-{dates(6)}.csv')
+df2 = pd.read_csv(f'{addr}\\music-chart\\spotify\\afrobeats-{dates(5)}.csv')
+df3 = pd.read_csv(f'{addr}\\music-chart\\spotify\\afrobeats-{dates(4)}.csv')
+df4 = pd.read_csv(f'{addr}\\music-chart\\spotify\\afrobeats-{dates(3)}.csv')
+df5 = pd.read_csv(f'{addr}\\music-chart\\spotify\\afrobeats-{dates(2)}.csv')
+df6 = pd.read_csv(f'{addr}\\music-chart\\spotify\\afrobeats-{dates(1)}.csv')
+df7 = pd.read_csv(f'{addr}\\music-chart\\spotify\\afrobeats-{dates(0)}.csv')
 
 
 # In[3]:
@@ -183,7 +185,7 @@ df = df.set_index('rank')
 # In[18]:
 
 
-df.to_csv(f'{addr}\\spotify\\spotify_afrobeats-week{w}.csv')
-df.to_csv(f'{addr}\\weekly charts\\afrobeat\\spotify_afrobeats-week{w}.csv')
+df.to_csv(f'{addr}\\music-chart\\spotify\\spotify_afrobeats-week{w}.csv')
+df.to_csv(f'{addr}\\music-chart\\weekly charts\\afrobeat\\spotify_afrobeats-week{w}.csv')
 
 

@@ -23466,3 +23466,6 @@ JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.js
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1630862063877	geckodriver	INFO	Listening on 127.0.0.1:59076
+1630862066916	geckodriver	INFO	Listening on 127.0.0.1:59086
+1630862175746	geckodriver	INFO	Listening on 127.0.0.1:63916

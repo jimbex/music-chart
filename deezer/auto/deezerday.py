@@ -19,7 +19,6 @@ from bs4 import BeautifulSoup as bs
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
-import js2xml as js
 import urllib.request
 
 
@@ -87,7 +86,7 @@ for x in div:
 
 data = {'Position': position, 'song': songs, 'artist': artist}
 df = pd.DataFrame(data)
-df.to_csv(f'{addr}\\deezer\\{m}{d}.csv')
+df.to_csv(f'{addr}\\music-chart\\deezer\\{m}{d}.csv')
 
 
 # In[ ]:
@@ -114,5 +113,5 @@ for x in mydiv2:
 data = {'Position': [x for x in range(1, len(album) + 1)] ,'artist': artist, 'album': album}
 df = pd.DataFrame(data)
 df = df.set_index('Position')
-df.to_csv(f'{addr}\\deezer\\album-{m}{d}.csv')
+df.to_csv(f'{addr}\\music-chart\\deezer\\album-{m}{d}.csv')
 
