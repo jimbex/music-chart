@@ -5,10 +5,12 @@
 
 
 from datetime import datetime
-m = datetime.today().strftime('%B')
-d = datetime.today().strftime('%d')
-d = int(d)
+from datetime import timedelta
 w = datetime.today().strftime("%V")
+
+def dates(d):
+  date = (datetime.today() - timedelta(d)).strftime('%B') + str(int((datetime.today() - timedelta(d)).strftime('%d')))
+  return date
 
 
 # In[3]:

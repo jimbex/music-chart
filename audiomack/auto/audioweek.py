@@ -39,7 +39,7 @@ try:
     df = pd.DataFrame(data)
     df = df.set_index('Position')
     df.to_csv(f'{addr}\\music-chart\\audiomack\\afrohiphop-week{w}.csv')
-    df.to_csv(f'{addr}\\music-chart\\weekly charts\\hiphop\\audio_afrohiphop-week{w}.csv')
+    df.to_csv(f'{addr}\\music-chart\\weekly charts\\hiphop\\audio_hiphop-week{w}.csv')
     driver.close()
 except:
     pass

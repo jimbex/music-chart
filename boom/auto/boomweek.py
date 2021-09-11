@@ -67,8 +67,8 @@ album = album[1:-8]
 boom2 = {'position': [x for x in range(1,len(album) + 1)], 'album': album}
 df = pd.DataFrame(boom2)
 df = df.set_index('position')
-df.to_csv(f'{addr}\\boom\\week{w}-album.csv')
-df.to_csv(f'{addr}\\weekly charts\\album\\boom_album-week{w}.csv')
+df.to_csv(f'{addr}\\music-chart\\boom\\week{w}-album.csv')
+df.to_csv(f'{addr}\\music-chart\\weekly charts\\album\\boom_album-week{w}.csv')
 
 songs = []
 artist = []
